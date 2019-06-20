@@ -1,0 +1,320 @@
+$var_167: 220px;
+$var_174: 1.125em;
+$var_6: #6A3BA0;
+$var_171: center;
+$var_122: 2.875em;
+$var_139: 1.5em;
+$var_1: #1A2F69;
+$var_173: #FFFFFF;
+$var_159: 0.75em;
+$var_166: 340px;
+$var_0: #24418F;
+$var_169: 1.0em;
+$var_123: DK Lemon Yellow Sun;
+$var_5: #F28C25;
+$var_176: left;
+$var_154: #777777;
+$var_170: Arial Rounded MT;
+$var_155: 0.875em;
+$var_109: #48CCB0;
+$var_175: Open Sans;
+.dummyClass_1{
+	font-family: $var_170;
+	font-size: $var_139;
+}
+.dummyClass_2{
+	font-size: $var_139;
+	color: $var_173;
+}
+.dummyClass_3{
+	font-size: $var_169;
+	color: $var_173;
+}
+.dummyClass_4{
+	text-align: $var_176;
+	font-family: $var_175;
+}
+.dummyClass_5{
+	font-family: $var_123;
+	font-size: $var_122;
+}
+.dummyClass_6{
+	text-align: $var_176;
+	color: $var_173;
+}
+.dummyClass_7{
+	text-align: $var_171;
+	font-family: $var_170;
+}
+.dummyClass_8{
+	font-size: $var_174;
+	color: $var_173;
+}.SubscribeButton {
+	background-color : $var_109;
+}
+.Pellentesque-ut-nisl_x780_y1556 {
+	@extend .dummyClass_4;
+}
+.NameTextBox {
+	background-color : $var_173;
+}
+.Privacy-Policy_x977_y3174 {
+	@extend .dummyClass_3;
+	@extend .dummyClass_7;
+}
+.Helping-your-kids-st_x495_y350 {
+	color : $var_173;
+	color : $var_173;
+	color : $var_173;
+	text-align : $var_171;
+}
+.ArticleImage3 {
+	font-color : #707070, 100%;
+	width : $var_166;
+	height : $var_167;
+}
+.ArticleImage2 {
+	width : $var_166;
+	height : $var_167;
+}
+.ArticleImage1 {
+	width : $var_166;
+	height : $var_167;
+}
+.--Registered-Tradema_x390_y3238 {
+	color : $var_173;
+	font-size : $var_159;
+	@extend .dummyClass_4;
+}
+.OurProductsButton {
+	background-color : $var_109;
+}
+.Name_x416_y3011.56 {
+	color : $var_154;
+	font-size : $var_155;
+	@extend .dummyClass_4;
+}
+.BedMatsButton {
+	background-color : $var_6;
+}
+.Request-A-Sample_x1270_y1685 {
+	@extend .dummyClass_7;
+}
+.Request-A-Sample_x1115_y230.5 {
+	@extend .dummyClass_7;
+}
+.Bed-Mats_x919_y1685 {
+	@extend .dummyClass_7;
+}
+.Useful-Resources_x1365_y2157 {
+	@extend .dummyClass_2;
+	@extend .dummyClass_7;
+}
+.Myths----Facts_x964_y134 {
+	color : $var_173;
+	font-size : $var_169;
+	@extend .dummyClass_7;
+}
+.EmailTextBox {
+	background-color : $var_173;
+}
+.Lorem-ipsum-dolor-si_x390_y1556 {
+	font-size : $var_174;
+	font-family : $var_175;
+	@extend .dummyClass_6;
+}
+.DryNites--Pyjama-Pan_x390_y1506 {
+	@extend .dummyClass_1;
+	@extend .dummyClass_6;
+}
+.AskDrButton {
+	background-color : $var_5;
+}
+.Sign-up-for-our-news_x390_y2875 {
+	@extend .dummyClass_5;
+	@extend .dummyClass_6;
+}
+.Request-a-Sample_x761_y557 {
+	color : $var_173;
+	font-size : $var_174;
+	@extend .dummyClass_7;
+}
+.View-All-Videos_x1038_y996 {
+	color : $var_173;
+	font-size : $var_174;
+	@extend .dummyClass_7;
+}
+.What-Is-Bedwetting-_x390_y2157 {
+	color : $var_109;
+	font-size : $var_139;
+	@extend .dummyClass_7;
+}
+.PyjamaPantsButton {
+	background-color : $var_6;
+}
+.DisclaimerContainer {
+	background-color : $var_1;
+}
+.Lorem-ipsum-dolor-si_x1170_y1556 {
+	@extend .dummyClass_4;
+}
+.Email_x628_y3011.56 {
+	color : $var_154;
+	font-size : $var_155;
+	@extend .dummyClass_4;
+}
+.The-information-and-_x1091_y3238 {
+	color : $var_173;
+	font-size : $var_159;
+	font-family : $var_175;
+	font-family : $var_175;
+}
+.Pyjama-Pants_x511_y1685 {
+	color : $var_173;
+	font-size : $var_174;
+	@extend .dummyClass_7;
+}
+.Our-Products_x1021_y557 {
+	color : $var_173;
+	font-size : $var_174;
+	@extend .dummyClass_7;
+}
+.Subscribe_x893_y3011 {
+	color : $var_173;
+	font-size : $var_174;
+	@extend .dummyClass_7;
+}
+.Our-products_x864_y1173 {
+	color : $var_109;
+	text-align : $var_171;
+	@extend .dummyClass_5;
+}
+.Header {
+	background-color : $var_0;
+}
+.Myths--And-Facts_x715_y2157 {
+	color : $var_173;
+	text-align : $var_171;
+	@extend .dummyClass_1;
+}
+.Home_x682_y3174 {
+	color : $var_173;
+}
+.Request-a-sample_x1170_y1506 {
+	font-family : $var_170;
+}
+.Solutions-And-Manage_x1039_y2157 {
+	@extend .dummyClass_2;
+	@extend .dummyClass_7;
+}
+.WhatisBedwettingImage {
+	width : 633px;
+	height : 350px;
+}
+.What-is-bedwetting-_x820_y134 {
+	@extend .dummyClass_3;
+	@extend .dummyClass_7;
+}
+.Contact-Us_x809_y3174 {
+	@extend .dummyClass_3;
+	@extend .dummyClass_7;
+}
+.VideoContainer {
+	width : 565px;
+	height : 329px;
+}
+.YoutubeIcon {
+	background-color : $var_173;
+}
+.DryNites--Bed-Mats_x780_y1506 {
+	color : $var_173;
+}
+.Bedwetting-Products_x677_y134 {
+	color : $var_173;
+}
+.RequestSampleButton2 {
+	background-color : $var_109;
+}
+.Explore-Drynites--in_x1005_y882 {
+	color : $var_173;
+	font-size : $var_155;
+	@extend .dummyClass_4;
+}
+.RequestSampleButton3 {
+	background-color : $var_6;
+}
+.Useful-Resources_x1227_y134 {
+	color : $var_173;
+	font-size : $var_169;
+	@extend .dummyClass_7;
+}
+.Sitemap_x1172_y3174 {
+	color : $var_173;
+	font-size : $var_169;
+	@extend .dummyClass_7;
+}
+.RequestSampleButton {
+	background-color : $var_5;
+}
+.Vivamus-non-fringill_x390_y2940 {
+	color : $var_173;
+	font-size : $var_174;
+	@extend .dummyClass_4;
+}
+.LearnMoreButton {
+	background-color : $var_109;
+}
+.What-is-bedwetting-_x390_y2357 {
+	color : $var_173;
+	text-align : $var_176;
+	@extend .dummyClass_5;
+}
+.FacebookIcon {
+	background-color : $var_173;
+}
+.ViewAllButton {
+	background-color : $var_109;
+}
+.VideoSeriesContainer {
+	background-color : $var_1;
+}
+.Learn-More_x445_y2560 {
+	color : $var_173;
+	font-size : $var_174;
+	@extend .dummyClass_7;
+}
+.Bedwetting-simply-re_x390_y2431 {
+	@extend .dummyClass_4;
+}
+.Experts-Hub_x1360_y134 {
+	color : $var_173;
+	font-size : $var_169;
+	@extend .dummyClass_7;
+}
+.Solution---Managemen_x1077_y134 {
+	color : $var_173;
+	font-size : $var_169;
+	@extend .dummyClass_7;
+}
+.Logo {
+	width : 98px;
+	height : 51px;
+}
+.Bedwetting-Info_x826_y2025 {
+	@extend .dummyClass_5;
+}
+.Video-series-on-Bedw_x1005_y752 {
+	@extend .dummyClass_6;
+}
+.Visit-Experts-Hub_x1235_y996 {
+	@extend .dummyClass_7;
+}
+.Ask-Dr-Catherine_x1350_y230.5 {
+}
+.Footer {
+	background-color : $var_0;
+}
+.FooterLogo {
+	width : 101px;
+	height : 50px;
+}

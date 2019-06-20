@@ -1,0 +1,1844 @@
+{
+  "SubscribeButton": {
+    "parent": [
+      "screen"
+    ],
+    "bottom": [],
+    "yMouseClickPoint": 280,
+    "click_y": 4489.0,
+    "click_x": 210.5,
+    "right": [],
+    "cssStyles": {
+      "font-color": "#48CCB0, 100%#071A3A, 100%"
+    },
+    "elementName": "SubscribeButton",
+    "actElementName": "element_x123_y4464",
+    "contains": [
+      "Subscribe_x166_y4478"
+    ],
+    "styleGuideY": "4464px",
+    "top": [
+      "EmailTextBox"
+    ],
+    "left": [],
+    "xMouseClickPoint": 401,
+    "styleGuideX": "123px",
+    "width": "175px",
+    "text": null,
+    "elementType": "button",
+    "height": "50px"
+  },
+  "NameTextBox": {
+    "parent": [
+      "screen"
+    ],
+    "bottom": [
+      "EmailTextBox"
+    ],
+    "yMouseClickPoint": 232,
+    "click_y": 4341.56,
+    "click_x": 210.5,
+    "right": [],
+    "cssStyles": {
+      "font-color": "#FFFFFF, 100%"
+    },
+    "elementName": "NameTextBox",
+    "actElementName": "element_x91_y4316.56",
+    "contains": [
+      "Name_x117_y4332.56"
+    ],
+    "styleGuideY": "4316.56px",
+    "top": [
+      "Vivamus-non-fringill_x26_y4230.2"
+    ],
+    "left": [],
+    "xMouseClickPoint": 214,
+    "styleGuideX": "91px",
+    "width": "239px",
+    "text": null,
+    "elementType": "container",
+    "height": "50px"
+  },
+  "Request-A-Sample_x130_y3034": {
+    "parent": [
+      "RequestSampleButton2"
+    ],
+    "bottom": [],
+    "yMouseClickPoint": 467,
+    "click_y": 3044.5,
+    "click_x": 210.0,
+    "right": [],
+    "cssStyles": {
+      "font-color": "#FFFFFF, 100%",
+      "font-size": "18px",
+      "font-family": "Arial Rounded MT",
+      "line-height": "22",
+      "text-align": "center"
+    },
+    "elementName": "Request-A-Sample_x130_y3034",
+    "actElementName": "Request-A-Sample_x130_y3034",
+    "contains": [],
+    "styleGuideY": "3034px",
+    "top": [],
+    "left": [],
+    "xMouseClickPoint": 338,
+    "styleGuideX": "130px",
+    "width": "160px",
+    "text": "Request A Sample",
+    "elementType": "text",
+    "height": "21px"
+  },
+  "Lorem-ipsum-dolor-si_x25_y2904": {
+    "parent": [
+      "screen"
+    ],
+    "bottom": [
+      "RequestSampleButton2"
+    ],
+    "yMouseClickPoint": 365,
+    "click_y": 2946.5,
+    "click_x": 210.0,
+    "right": [],
+    "cssStyles": {
+      "font-color": "#FFFFFF, 100%",
+      "font-size": "18px",
+      "font-family": "Open Sans",
+      "line-height": "28",
+      "text-align": "left"
+    },
+    "elementName": "Lorem-ipsum-dolor-si_x25_y2904",
+    "actElementName": "Lorem-ipsum-dolor-si_x25_y2904",
+    "contains": [],
+    "styleGuideY": "2904px",
+    "top": [
+      "Request-a-sample_x25_y2854"
+    ],
+    "left": [],
+    "xMouseClickPoint": 369,
+    "styleGuideX": "25px",
+    "width": "370px",
+    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nisl nunc, ultrices et lectus eu, vestibulum cursus odio.",
+    "elementType": "text",
+    "height": "85px"
+  },
+  "screen": {
+    "parent": [
+      "ROOT_REF_WINDOW"
+    ],
+    "bottom": [],
+    "yMouseClickPoint": 0,
+    "click_y": 2626.0,
+    "click_x": 210.0,
+    "right": [],
+    "elementName": "screen",
+    "actElementName": "screen",
+    "contains": [
+      "SubscribeButton",
+      "NameTextBox",
+      "Lorem-ipsum-dolor-si_x25_y2904",
+      "BedMatsButton",
+      "EmailTextBox",
+      "What-is-bedwetting-_x25_y3448",
+      "Sign-up-for-our-news_x26_y4116",
+      "Bedwetting-simply-re_x25_y3525",
+      "Header",
+      "Video",
+      "Myths--And-Facts_x117_y3309",
+      "Bedwetting-Info_x25_y3221",
+      "Lorem-ipsum-dolor-si_x25_y2369",
+      "Our-products_x114_y1457",
+      "Lorem-ipsum-dolor-si_x25_y1834",
+      "Our-Products_x226_y506",
+      "PyjamaButton",
+      "BedwettingImage",
+      "RequestSampleButton1",
+      "Request-a-sample_x25_y2854",
+      "RequestSampleButton2",
+      "OurProductImage3",
+      "OurProductImage2",
+      "OurProductImage1",
+      "DryNites--Pyjama-Pan_x25_y1784",
+      "LearnMoreButton",
+      "Vivamus-non-fringill_x26_y4230.2",
+      "VideoSeriesContainer",
+      "What-Is-Bedwetting-_x25_y3309",
+      "Helping-your-kids-st_x25_y231",
+      "DryNites--Bed-Mats_x25_y2319"
+    ],
+    "styleGuideY": "0px",
+    "top": [],
+    "left": [],
+    "xMouseClickPoint": 0,
+    "styleGuideX": "0px",
+    "width": "420px",
+    "elementType": null,
+    "height": "5252px"
+  },
+  "Bed-Mats_x169_y2499": {
+    "parent": [
+      "BedMatsButton"
+    ],
+    "bottom": [],
+    "yMouseClickPoint": 341,
+    "click_y": 2509.5,
+    "click_x": 210.0,
+    "right": [],
+    "cssStyles": {
+      "font-color": "#FFFFFF, 100%",
+      "font-size": "18px",
+      "font-family": "Arial Rounded MT",
+      "line-height": "22",
+      "text-align": "center"
+    },
+    "elementName": "Bed-Mats_x169_y2499",
+    "actElementName": "Bed-Mats_x169_y2499",
+    "contains": [],
+    "styleGuideY": "2499px",
+    "top": [],
+    "left": [],
+    "xMouseClickPoint": 336,
+    "styleGuideX": "169px",
+    "width": "82px",
+    "text": "Bed Mats",
+    "elementType": "text",
+    "height": "21px"
+  },
+  "BedMatsButton": {
+    "parent": [
+      "screen"
+    ],
+    "bottom": [
+      "OurProductImage3"
+    ],
+    "yMouseClickPoint": 351,
+    "click_y": 2509.0,
+    "click_x": 210.0,
+    "right": [],
+    "cssStyles": {
+      "font-color": "#6A3BA0, 100%#071A3A, 100%"
+    },
+    "elementName": "BedMatsButton",
+    "actElementName": "element_x110_y2484",
+    "contains": [
+      "Bed-Mats_x169_y2499"
+    ],
+    "styleGuideY": "2484px",
+    "top": [
+      "Lorem-ipsum-dolor-si_x25_y2369"
+    ],
+    "left": [],
+    "xMouseClickPoint": 398,
+    "styleGuideX": "110px",
+    "width": "200px",
+    "text": null,
+    "elementType": "button",
+    "height": "50px"
+  },
+  "EmailTextBox": {
+    "parent": [
+      "screen"
+    ],
+    "bottom": [
+      "SubscribeButton"
+    ],
+    "yMouseClickPoint": 302,
+    "click_y": 4405.56,
+    "click_x": 209.5,
+    "right": [],
+    "cssStyles": {
+      "font-color": "#FFFFFF, 100%"
+    },
+    "elementName": "EmailTextBox",
+    "actElementName": "element_x90_y4380.56",
+    "contains": [
+      "Email_x116_y4396.56"
+    ],
+    "styleGuideY": "4380.56px",
+    "top": [
+      "NameTextBox"
+    ],
+    "left": [],
+    "xMouseClickPoint": 219,
+    "styleGuideX": "90px",
+    "width": "239px",
+    "text": null,
+    "elementType": "container",
+    "height": "50px"
+  },
+  "What-is-bedwetting-_x25_y3448": {
+    "parent": [
+      "screen"
+    ],
+    "bottom": [
+      "Bedwetting-simply-re_x25_y3525"
+    ],
+    "yMouseClickPoint": 107,
+    "click_y": 3471.5,
+    "click_x": 210.0,
+    "right": [],
+    "cssStyles": {
+      "font-color": "#FFFFFF, 100%",
+      "font-size": "46px",
+      "font-family": "DK Lemon Yellow Sun",
+      "line-height": "50",
+      "text-align": "left"
+    },
+    "elementName": "What-is-bedwetting-_x25_y3448",
+    "actElementName": "What-is-bedwetting-_x25_y3448",
+    "contains": [],
+    "styleGuideY": "3448px",
+    "top": [],
+    "left": [],
+    "xMouseClickPoint": 338,
+    "styleGuideX": "25px",
+    "width": "370px",
+    "text": "What is bedwetting?",
+    "elementType": "heading",
+    "height": "47px"
+  },
+  "Sign-up-for-our-news_x26_y4116": {
+    "parent": [
+      "screen"
+    ],
+    "bottom": [
+      "Vivamus-non-fringill_x26_y4230.2"
+    ],
+    "yMouseClickPoint": 385,
+    "click_y": 4173.0,
+    "click_x": 210.5,
+    "right": [],
+    "cssStyles": {
+      "font-color": "#FFFFFF, 100%",
+      "font-size": "46px",
+      "font-family": "DK Lemon Yellow Sun",
+      "line-height": "50",
+      "text-align": "center"
+    },
+    "elementName": "Sign-up-for-our-news_x26_y4116",
+    "actElementName": "Sign-up-for-our-news_x26_y4116",
+    "contains": [],
+    "styleGuideY": "4116px",
+    "top": [
+      "BedwettingImage"
+    ],
+    "left": [],
+    "xMouseClickPoint": 364,
+    "styleGuideX": "26px",
+    "width": "369px",
+    "text": "Sign up for our newsletter",
+    "elementType": "heading",
+    "height": "114px"
+  },
+  "Bedwetting-simply-re_x25_y3525": {
+    "parent": [
+      "screen"
+    ],
+    "bottom": [
+      "LearnMoreButton"
+    ],
+    "yMouseClickPoint": 394,
+    "click_y": 3582.0,
+    "click_x": 210.0,
+    "right": [],
+    "cssStyles": {
+      "font-color": "#FFFFFF, 100%",
+      "font-size": "18px",
+      "font-family": "Open Sans",
+      "line-height": "28",
+      "text-align": "left"
+    },
+    "elementName": "Bedwetting-simply-re_x25_y3525",
+    "actElementName": "Bedwetting-simply-re_x25_y3525",
+    "contains": [],
+    "styleGuideY": "3525px",
+    "top": [
+      "What-is-bedwetting-_x25_y3448"
+    ],
+    "left": [],
+    "xMouseClickPoint": 364,
+    "styleGuideX": "25px",
+    "width": "370px",
+    "text": "Bedwetting simply refers to the uncontrollable passing of urine during sleep. It is treatable, unintentional, and very common in children. ",
+    "elementType": "text",
+    "height": "114px"
+  },
+  "DisclaimerContainer": {
+    "parent": [
+      "ROOT_REF_WINDOW"
+    ],
+    "bottom": [],
+    "yMouseClickPoint": 474,
+    "click_y": 5172.0,
+    "click_x": 210.13,
+    "right": [],
+    "cssStyles": {
+      "font-color": "#1A2F69, 100%"
+    },
+    "elementName": "DisclaimerContainer",
+    "actElementName": "element_x0_y5092",
+    "contains": [
+      "--Registered-Tradema_x15_y5110",
+      "The-information-and-_x15_y5165"
+    ],
+    "styleGuideY": "5092px",
+    "top": [],
+    "left": [],
+    "xMouseClickPoint": 501,
+    "styleGuideX": "0px",
+    "width": "420.26px",
+    "text": null,
+    "elementType": "container",
+    "height": "160px"
+  },
+  "Name_x117_y4332.56": {
+    "parent": [
+      "NameTextBox"
+    ],
+    "bottom": [],
+    "yMouseClickPoint": 225,
+    "click_y": 4347.56,
+    "click_x": 223.5,
+    "right": [],
+    "cssStyles": {
+      "font-color": "#777777, 100%",
+      "font-size": "14px",
+      "font-family": "Open Sans",
+      "line-height": "28",
+      "text-align": "left"
+    },
+    "elementName": "Name_x117_y4332.56",
+    "actElementName": "Name_x117_y4332.56",
+    "contains": [],
+    "styleGuideY": "4332.56px",
+    "top": [],
+    "left": [],
+    "xMouseClickPoint": 258,
+    "styleGuideX": "117px",
+    "width": "213px",
+    "text": "Name",
+    "elementType": "text",
+    "height": "30px"
+  },
+  "Subscribe_x166_y4478": {
+    "parent": [
+      "SubscribeButton"
+    ],
+    "bottom": [],
+    "yMouseClickPoint": 262,
+    "click_y": 4488.5,
+    "click_x": 211.0,
+    "right": [],
+    "cssStyles": {
+      "font-color": "#FFFFFF, 100%",
+      "font-size": "18px",
+      "font-family": "Arial Rounded MT",
+      "line-height": "22",
+      "text-align": "center"
+    },
+    "elementName": "Subscribe_x166_y4478",
+    "actElementName": "Subscribe_x166_y4478",
+    "contains": [],
+    "styleGuideY": "4478px",
+    "top": [],
+    "left": [],
+    "xMouseClickPoint": 345,
+    "styleGuideX": "166px",
+    "width": "90px",
+    "text": "Subscribe",
+    "elementType": "text",
+    "height": "21px"
+  },
+  "Header": {
+    "parent": [
+      "screen"
+    ],
+    "bottom": [
+      "Helping-your-kids-st_x25_y231"
+    ],
+    "yMouseClickPoint": 257,
+    "click_y": 160.5,
+    "click_x": 210.0,
+    "right": [],
+    "cssStyles": {
+      "font-color": "#24418F, 100%"
+    },
+    "elementName": "Header",
+    "actElementName": "element_x0_y113",
+    "contains": [
+      "Logo",
+      "HamburgerMenu"
+    ],
+    "styleGuideY": "113px",
+    "top": [],
+    "left": [],
+    "xMouseClickPoint": 441,
+    "styleGuideX": "0px",
+    "width": "420px",
+    "text": null,
+    "elementType": "header",
+    "height": "95px"
+  },
+  "Video": {
+    "parent": [
+      "screen"
+    ],
+    "bottom": [],
+    "yMouseClickPoint": 485,
+    "click_y": 725.0,
+    "click_x": 210.0,
+    "right": [],
+    "cssStyles": {},
+    "elementName": "Video",
+    "actElementName": "element_x25_y621",
+    "contains": [],
+    "styleGuideY": "621px",
+    "top": [
+      "RequestSampleButton1",
+      "Our-Products_x226_y506"
+    ],
+    "left": [],
+    "xMouseClickPoint": 316,
+    "styleGuideX": "25px",
+    "width": "370px",
+    "text": null,
+    "elementType": "container",
+    "height": "208px"
+  },
+  "Privacy-Policy_x15_y4991": {
+    "parent": [
+      "element_x0_y4817"
+    ],
+    "bottom": [
+      "Sitemap_x15_y5032"
+    ],
+    "yMouseClickPoint": 327,
+    "click_y": 5000.0,
+    "click_x": 72.0,
+    "right": [],
+    "cssStyles": {
+      "font-color": "#FFFFFF, 100%",
+      "font-size": "16px",
+      "font-family": "Arial Rounded MT",
+      "line-height": "22",
+      "text-align": "center"
+    },
+    "elementName": "Privacy-Policy_x15_y4991",
+    "actElementName": "Privacy-Policy_x15_y4991",
+    "contains": [],
+    "styleGuideY": "4991px",
+    "top": [
+      "Contact-Us_x15_y4951"
+    ],
+    "left": [],
+    "xMouseClickPoint": 174,
+    "styleGuideX": "15px",
+    "width": "114px",
+    "text": "Privacy Policy ",
+    "elementType": "text",
+    "height": "18px"
+  },
+  "Myths--And-Facts_x117_y3309": {
+    "parent": [
+      "screen"
+    ],
+    "bottom": [],
+    "yMouseClickPoint": 254,
+    "click_y": 3343.0,
+    "click_x": 222.0,
+    "right": [],
+    "cssStyles": {
+      "font-color": "#FFFFFF, 100%",
+      "font-size": "18px",
+      "font-family": "Arial Rounded MT",
+      "line-height": "22",
+      "text-align": "center"
+    },
+    "elementName": "Myths--And-Facts_x117_y3309",
+    "actElementName": "Myths--And-Facts_x117_y3309",
+    "contains": [],
+    "styleGuideY": "3309px",
+    "top": [],
+    "left": [],
+    "xMouseClickPoint": 357,
+    "styleGuideX": "117px",
+    "width": "210px",
+    "text": "Myths \nAnd Facts",
+    "elementType": "text",
+    "height": "68px"
+  },
+  "Bedwetting-Info_x25_y3221": {
+    "parent": [
+      "screen"
+    ],
+    "bottom": [],
+    "yMouseClickPoint": 422,
+    "click_y": 3242.5,
+    "click_x": 210.5,
+    "right": [],
+    "cssStyles": {
+      "font-color": "#48CCB0, 100%",
+      "font-size": "46px",
+      "font-family": "DK Lemon Yellow Sun",
+      "line-height": "50",
+      "text-align": "center"
+    },
+    "elementName": "Bedwetting-Info_x25_y3221",
+    "actElementName": "Bedwetting-Info_x25_y3221",
+    "contains": [],
+    "styleGuideY": "3221px",
+    "top": [
+      "RequestSampleButton2"
+    ],
+    "left": [],
+    "xMouseClickPoint": 344,
+    "styleGuideX": "25px",
+    "width": "371px",
+    "text": "Bedwetting Info",
+    "elementType": "heading",
+    "height": "43px"
+  },
+  "element_x0_y4817": {
+    "parent": [
+      "ROOT_REF_WINDOW"
+    ],
+    "bottom": [],
+    "yMouseClickPoint": 279,
+    "click_y": 4989.5,
+    "click_x": 210.13,
+    "right": [],
+    "cssStyles": {
+      "font-color": "#24418F, 100%"
+    },
+    "elementName": "element_x0_y4817",
+    "contains": [
+      "Privacy-Policy_x15_y4991",
+      "Home_x15_y4910",
+      "YoutubeIcon",
+      "Sitemap_x15_y5032",
+      "Contact-Us_x15_y4951",
+      "FacebookIcon",
+      "FooterLogo"
+    ],
+    "styleGuideY": "4817px",
+    "top": [
+      "Solutions-And-Manage_x252_y3309"
+    ],
+    "left": [],
+    "xMouseClickPoint": 435,
+    "styleGuideX": "0px",
+    "width": "420.26px",
+    "text": null,
+    "height": "345px"
+  },
+  "Pyjama-Pants_x151_y1964": {
+    "parent": [
+      "PyjamaButton"
+    ],
+    "bottom": [],
+    "yMouseClickPoint": 155,
+    "click_y": 1974.5,
+    "click_x": 210.0,
+    "right": [],
+    "cssStyles": {
+      "font-color": "#FFFFFF, 100%",
+      "font-size": "18px",
+      "font-family": "Arial Rounded MT",
+      "line-height": "22",
+      "text-align": "center"
+    },
+    "elementName": "Pyjama-Pants_x151_y1964",
+    "actElementName": "Pyjama-Pants_x151_y1964",
+    "contains": [],
+    "styleGuideY": "1964px",
+    "top": [],
+    "left": [],
+    "xMouseClickPoint": 347,
+    "styleGuideX": "151px",
+    "width": "118px",
+    "text": "Pyjama Pants",
+    "elementType": "text",
+    "height": "21px"
+  },
+  "Home_x15_y4910": {
+    "parent": [
+      "element_x0_y4817"
+    ],
+    "bottom": [
+      "Contact-Us_x15_y4951"
+    ],
+    "yMouseClickPoint": 245,
+    "click_y": 4919.0,
+    "click_x": 38.0,
+    "right": [
+      "YoutubeIcon"
+    ],
+    "cssStyles": {
+      "font-color": "#FFFFFF, 100%",
+      "font-size": "16px",
+      "font-family": "Arial Rounded MT",
+      "line-height": "22",
+      "text-align": "center"
+    },
+    "elementName": "Home_x15_y4910",
+    "actElementName": "Home_x15_y4910",
+    "contains": [],
+    "styleGuideY": "4910px",
+    "top": [
+      "FooterLogo"
+    ],
+    "left": [],
+    "xMouseClickPoint": 165,
+    "styleGuideX": "15px",
+    "width": "46px",
+    "text": "Home",
+    "elementType": "text",
+    "height": "18px"
+  },
+  "Lorem-ipsum-dolor-si_x25_y2369": {
+    "parent": [
+      "screen"
+    ],
+    "bottom": [
+      "BedMatsButton"
+    ],
+    "yMouseClickPoint": 242,
+    "click_y": 2411.5,
+    "click_x": 210.0,
+    "right": [],
+    "cssStyles": {
+      "font-color": "#FFFFFF, 100%",
+      "font-size": "18px",
+      "font-family": "Open Sans",
+      "line-height": "28",
+      "text-align": "left"
+    },
+    "elementName": "Lorem-ipsum-dolor-si_x25_y2369",
+    "actElementName": "Lorem-ipsum-dolor-si_x25_y2369",
+    "contains": [],
+    "styleGuideY": "2369px",
+    "top": [
+      "DryNites--Bed-Mats_x25_y2319"
+    ],
+    "left": [],
+    "xMouseClickPoint": 358,
+    "styleGuideX": "25px",
+    "width": "370px",
+    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nisl nunc, ultrices et lectus eu, vestibulum cursus odio.",
+    "elementType": "text",
+    "height": "85px"
+  },
+  "Our-products_x114_y1457": {
+    "parent": [
+      "screen"
+    ],
+    "bottom": [
+      "OurProductImage1"
+    ],
+    "yMouseClickPoint": 322,
+    "click_y": 1478.5,
+    "click_x": 210.5,
+    "right": [],
+    "cssStyles": {
+      "font-color": "#48CCB0, 100%",
+      "font-size": "46px",
+      "font-family": "DK Lemon Yellow Sun",
+      "line-height": "50",
+      "text-align": "center"
+    },
+    "elementName": "Our-products_x114_y1457",
+    "actElementName": "Our-products_x114_y1457",
+    "contains": [],
+    "styleGuideY": "1457px",
+    "top": [
+      "VideoSeriesContainer"
+    ],
+    "left": [],
+    "xMouseClickPoint": 367,
+    "styleGuideX": "114px",
+    "width": "193px",
+    "text": "Our products",
+    "elementType": "heading",
+    "height": "43px"
+  },
+  "Lorem-ipsum-dolor-si_x25_y1834": {
+    "parent": [
+      "screen"
+    ],
+    "bottom": [
+      "PyjamaButton"
+    ],
+    "yMouseClickPoint": 301,
+    "click_y": 1876.5,
+    "click_x": 210.0,
+    "right": [],
+    "cssStyles": {
+      "font-color": "#FFFFFF, 100%",
+      "font-size": "18px",
+      "font-family": "Open Sans",
+      "line-height": "28",
+      "text-align": "left"
+    },
+    "elementName": "Lorem-ipsum-dolor-si_x25_y1834",
+    "actElementName": "Lorem-ipsum-dolor-si_x25_y1834",
+    "contains": [],
+    "styleGuideY": "1834px",
+    "top": [
+      "DryNites--Pyjama-Pan_x25_y1784"
+    ],
+    "left": [],
+    "xMouseClickPoint": 345,
+    "styleGuideX": "25px",
+    "width": "370px",
+    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nisl nunc, ultrices et lectus eu, vestibulum cursus odio.",
+    "elementType": "text",
+    "height": "85px"
+  },
+  "--Registered-Tradema_x15_y5110": {
+    "parent": [
+      "DisclaimerContainer"
+    ],
+    "bottom": [
+      "The-information-and-_x15_y5165"
+    ],
+    "yMouseClickPoint": 352,
+    "click_y": 5127.5,
+    "click_x": 210.0,
+    "right": [],
+    "cssStyles": {
+      "font-color": "#FFFFFF, 100%",
+      "font-size": "12px",
+      "font-family": "Open Sans",
+      "line-height": "16",
+      "text-align": "left"
+    },
+    "elementName": "--Registered-Tradema_x15_y5110",
+    "actElementName": "--Registered-Tradema_x15_y5110",
+    "contains": [],
+    "styleGuideY": "5110px",
+    "top": [],
+    "left": [],
+    "xMouseClickPoint": 359,
+    "styleGuideX": "15px",
+    "width": "390px",
+    "text": "® Registered Trademark Kimberly-Clark Worldwide.\n© KCWW.",
+    "elementType": "text",
+    "height": "35px"
+  },
+  "The-information-and-_x15_y5165": {
+    "parent": [
+      "DisclaimerContainer"
+    ],
+    "bottom": [],
+    "yMouseClickPoint": 432,
+    "click_y": 5201.0,
+    "click_x": 210.0,
+    "right": [],
+    "cssStyles": {
+      "font-color": "#FFFFFF, 100%",
+      "font-size": "12px",
+      "font-family": "Open Sans",
+      "line-height": "16",
+      "text-align": "left"
+    },
+    "elementName": "The-information-and-_x15_y5165",
+    "actElementName": "The-information-and-_x15_y5165",
+    "contains": [],
+    "styleGuideY": "5165px",
+    "top": [
+      "--Registered-Tradema_x15_y5110"
+    ],
+    "left": [],
+    "xMouseClickPoint": 455,
+    "styleGuideX": "15px",
+    "width": "390px",
+    "text": "The information and opinions provided on this website are general in nature and should not be regarded or used as substitutes for specific medical advice from your health care professional. If in doubt consult your doctor.",
+    "elementType": "text",
+    "height": "72px"
+  },
+  "View-All-Videos_x143_y1270": {
+    "parent": [
+      "ViewAllButton"
+    ],
+    "bottom": [],
+    "yMouseClickPoint": 361,
+    "click_y": 1280.5,
+    "click_x": 210.0,
+    "right": [],
+    "cssStyles": {
+      "font-color": "#FFFFFF, 100%",
+      "font-size": "18px",
+      "font-family": "Arial Rounded MT",
+      "line-height": "22",
+      "text-align": "center"
+    },
+    "elementName": "View-All-Videos_x143_y1270",
+    "actElementName": "View-All-Videos_x143_y1270",
+    "contains": [],
+    "styleGuideY": "1270px",
+    "top": [],
+    "left": [],
+    "xMouseClickPoint": 362,
+    "styleGuideX": "143px",
+    "width": "134px",
+    "text": "View All Videos",
+    "elementType": "text",
+    "height": "21px"
+  },
+  "Learn-More_x160.67_y3683": {
+    "parent": [
+      "LearnMoreButton"
+    ],
+    "bottom": [],
+    "yMouseClickPoint": 520,
+    "click_y": 3693.5,
+    "click_x": 210.66999999999996,
+    "right": [],
+    "cssStyles": {
+      "font-color": "#FFFFFF, 100%",
+      "font-size": "18px",
+      "font-family": "Arial Rounded MT",
+      "line-height": "22",
+      "text-align": "center"
+    },
+    "elementName": "Learn-More_x160.67_y3683",
+    "actElementName": "Learn-More_x160.67_y3683",
+    "contains": [],
+    "styleGuideY": "3683px",
+    "top": [],
+    "left": [],
+    "xMouseClickPoint": 305,
+    "styleGuideX": "160.67px",
+    "width": "100px",
+    "text": "Learn More",
+    "elementType": "text",
+    "height": "21px"
+  },
+  "Explore-Drynites--in_x70_y1056.03": {
+    "parent": [
+      "VideoSeriesContainer"
+    ],
+    "bottom": [
+      "ViewAllButton"
+    ],
+    "yMouseClickPoint": 416,
+    "click_y": 1141.53,
+    "click_x": 210.0,
+    "right": [],
+    "cssStyles": {
+      "font-color": "#FFFFFF, 100%",
+      "font-size": "14px",
+      "font-family": "Open Sans",
+      "line-height": "28",
+      "text-align": "left"
+    },
+    "elementName": "Explore-Drynites--in_x70_y1056.03",
+    "actElementName": "Explore-Drynites--in_x70_y1056.03",
+    "contains": [],
+    "styleGuideY": "1056.03px",
+    "top": [
+      "Video-series-on--Bed_x70_y874"
+    ],
+    "left": [],
+    "xMouseClickPoint": 322,
+    "styleGuideX": "70px",
+    "width": "280px",
+    "text": "Explore Drynites  informational video series featuring expert Dr.Cathrine Neilsen-Hewett. Aenean enim turpis, maximus et quam quis, tincidunt rutrum augue. Integer in finibus quam, tincidunt fermentum lectus.",
+    "elementType": "text",
+    "height": "171px"
+  },
+  "Our-Products_x226_y506": {
+    "parent": [
+      "screen"
+    ],
+    "bottom": [
+      "Video"
+    ],
+    "yMouseClickPoint": 497,
+    "click_y": 516.5,
+    "click_x": 313.0,
+    "right": [],
+    "cssStyles": {
+      "font-color": "#FFFFFF, 100%",
+      "font-size": "18px",
+      "font-family": "Arial Rounded MT Bold",
+      "line-height": "22",
+      "text-align": "center"
+    },
+    "elementName": "Our-Products_x226_y506",
+    "actElementName": "Our-Products_x226_y506",
+    "contains": [],
+    "styleGuideY": "506px",
+    "top": [
+      "Helping-your-kids-st_x25_y231"
+    ],
+    "left": [
+      "RequestSampleButton1"
+    ],
+    "xMouseClickPoint": 436,
+    "styleGuideX": "226px",
+    "width": "174px",
+    "text": "Our Products",
+    "elementType": "text",
+    "height": "21px"
+  },
+  "Solutions-And-Manage_x252_y3309": {
+    "parent": [
+      "ROOT_REF_WINDOW"
+    ],
+    "bottom": [
+      "element_x0_y4817"
+    ],
+    "yMouseClickPoint": 265,
+    "click_y": 3343.0,
+    "click_x": 357.0,
+    "right": [],
+    "cssStyles": {
+      "font-color": "#FFFFFF, 100%",
+      "font-size": "18px",
+      "font-family": "Arial Rounded MT",
+      "line-height": "22",
+      "text-align": "center"
+    },
+    "elementName": "Solutions-And-Manage_x252_y3309",
+    "actElementName": "Solutions-And-Manage_x252_y3309",
+    "contains": [],
+    "styleGuideY": "3309px",
+    "top": [],
+    "left": [],
+    "xMouseClickPoint": 479,
+    "styleGuideX": "252px",
+    "width": "210px",
+    "text": "Solutions And Management",
+    "elementType": "text",
+    "height": "68px"
+  },
+  "PyjamaButton": {
+    "parent": [
+      "screen"
+    ],
+    "bottom": [
+      "OurProductImage2"
+    ],
+    "yMouseClickPoint": 416,
+    "click_y": 1974.0,
+    "click_x": 210.0,
+    "right": [],
+    "cssStyles": {
+      "font-color": "#6A3BA0, 100%#071A3A, 100%"
+    },
+    "elementName": "PyjamaButton",
+    "actElementName": "element_x110_y1949",
+    "contains": [
+      "Pyjama-Pants_x151_y1964"
+    ],
+    "styleGuideY": "1949px",
+    "top": [
+      "Lorem-ipsum-dolor-si_x25_y1834"
+    ],
+    "left": [],
+    "xMouseClickPoint": 349,
+    "styleGuideX": "110px",
+    "width": "200px",
+    "text": null,
+    "elementType": "button",
+    "height": "50px"
+  },
+  "Request-A-Sample_x45_y506": {
+    "parent": [
+      "RequestSampleButton1"
+    ],
+    "bottom": [],
+    "yMouseClickPoint": 497,
+    "click_y": 516.5,
+    "click_x": 125.0,
+    "right": [],
+    "cssStyles": {
+      "font-color": "#FFFFFF, 100%",
+      "font-size": "18px",
+      "font-family": "Arial Rounded MT",
+      "line-height": "22",
+      "text-align": "center"
+    },
+    "elementName": "Request-A-Sample_x45_y506",
+    "actElementName": "Request-A-Sample_x45_y506",
+    "contains": [],
+    "styleGuideY": "506px",
+    "top": [],
+    "left": [],
+    "xMouseClickPoint": 295,
+    "styleGuideX": "45px",
+    "width": "160px",
+    "text": "Request A Sample",
+    "elementType": "text",
+    "height": "21px"
+  },
+  "ROOT_REF_WINDOW": {
+    "parent": [],
+    "bottom": [],
+    "click_y": 49999.5,
+    "click_x": 49999.5,
+    "right": [],
+    "elementName": null,
+    "contains": [
+      "screen",
+      "DisclaimerContainer",
+      "element_x0_y4817",
+      "Solutions-And-Manage_x252_y3309"
+    ],
+    "styleGuideY": 0,
+    "top": [],
+    "left": [],
+    "styleGuideX": 0,
+    "width": 99999,
+    "height": 99999
+  },
+  "YoutubeIcon": {
+    "parent": [
+      "element_x0_y4817"
+    ],
+    "bottom": [],
+    "yMouseClickPoint": 261,
+    "click_y": 4924.71,
+    "click_x": 350.03,
+    "right": [
+      "FacebookIcon"
+    ],
+    "cssStyles": {
+      "font-color": "#FFFFFF, 100%"
+    },
+    "elementName": "YoutubeIcon",
+    "actElementName": "element_x331.95_y4912",
+    "contains": [],
+    "styleGuideY": "4912px",
+    "top": [],
+    "left": [
+      "Home_x15_y4910"
+    ],
+    "xMouseClickPoint": 458,
+    "styleGuideX": "331.95px",
+    "width": "36.16px",
+    "text": null,
+    "elementType": "icon",
+    "height": "25.42px"
+  },
+  "BedwettingImage": {
+    "parent": [
+      "screen"
+    ],
+    "bottom": [
+      "Sign-up-for-our-news_x26_y4116"
+    ],
+    "yMouseClickPoint": 350,
+    "click_y": 3853.0,
+    "click_x": 210.0,
+    "right": [],
+    "cssStyles": {},
+    "elementName": "BedwettingImage",
+    "actElementName": "element_x25_y3759",
+    "contains": [],
+    "styleGuideY": "3759px",
+    "top": [
+      "LearnMoreButton"
+    ],
+    "left": [],
+    "xMouseClickPoint": 379,
+    "styleGuideX": "25px",
+    "width": "370px",
+    "text": null,
+    "elementType": "image",
+    "height": "188px"
+  },
+  "Sitemap_x15_y5032": {
+    "parent": [
+      "element_x0_y4817"
+    ],
+    "bottom": [],
+    "yMouseClickPoint": 361,
+    "click_y": 5041.0,
+    "click_x": 47.0,
+    "right": [],
+    "cssStyles": {
+      "font-color": "#FFFFFF, 100%",
+      "font-size": "16px",
+      "font-family": "Arial Rounded MT",
+      "line-height": "22",
+      "text-align": "center"
+    },
+    "elementName": "Sitemap_x15_y5032",
+    "actElementName": "Sitemap_x15_y5032",
+    "contains": [],
+    "styleGuideY": "5032px",
+    "top": [
+      "Privacy-Policy_x15_y4991"
+    ],
+    "left": [],
+    "xMouseClickPoint": 179,
+    "styleGuideX": "15px",
+    "width": "64px",
+    "text": "Sitemap",
+    "elementType": "text",
+    "height": "18px"
+  },
+  "Request-a-sample_x25_y2854": {
+    "parent": [
+      "screen"
+    ],
+    "bottom": [
+      "Lorem-ipsum-dolor-si_x25_y2904"
+    ],
+    "yMouseClickPoint": 301,
+    "click_y": 2870.365,
+    "click_x": 210.0,
+    "right": [],
+    "cssStyles": {
+      "font-color": "#FFFFFF, 100%",
+      "font-size": "24px",
+      "font-family": "Arial Rounded MT",
+      "line-height": "30",
+      "text-align": "left"
+    },
+    "elementName": "Request-a-sample_x25_y2854",
+    "actElementName": "Request-a-sample_x25_y2854",
+    "contains": [],
+    "styleGuideY": "2854px",
+    "top": [
+      "OurProductImage3"
+    ],
+    "left": [],
+    "xMouseClickPoint": 297,
+    "styleGuideX": "25px",
+    "width": "370px",
+    "text": "Request a sample",
+    "elementType": "heading",
+    "height": "32.73px"
+  },
+  "RequestSampleButton1": {
+    "parent": [
+      "screen"
+    ],
+    "bottom": [
+      "Video"
+    ],
+    "yMouseClickPoint": 515,
+    "click_y": 516.0,
+    "click_x": 125.0,
+    "right": [
+      "Our-Products_x226_y506"
+    ],
+    "cssStyles": {
+      "font-color": "#48CCB0, 100%#071A3A, 100%"
+    },
+    "elementName": "RequestSampleButton1",
+    "actElementName": "element_x25_y491",
+    "contains": [
+      "Request-A-Sample_x45_y506"
+    ],
+    "styleGuideY": "491px",
+    "top": [
+      "Helping-your-kids-st_x25_y231"
+    ],
+    "left": [],
+    "xMouseClickPoint": 294,
+    "styleGuideX": "25px",
+    "width": "200px",
+    "text": null,
+    "elementType": "button",
+    "height": "50px"
+  },
+  "RequestSampleButton2": {
+    "parent": [
+      "screen"
+    ],
+    "bottom": [
+      "Bedwetting-Info_x25_y3221"
+    ],
+    "yMouseClickPoint": 481,
+    "click_y": 3044.0,
+    "click_x": 210.0,
+    "right": [],
+    "cssStyles": {
+      "font-color": "#6A3BA0, 100%#071A3A, 100%"
+    },
+    "elementName": "RequestSampleButton2",
+    "actElementName": "element_x110_y3019",
+    "contains": [
+      "Request-A-Sample_x130_y3034"
+    ],
+    "styleGuideY": "3019px",
+    "top": [
+      "Lorem-ipsum-dolor-si_x25_y2904"
+    ],
+    "left": [],
+    "xMouseClickPoint": 411,
+    "styleGuideX": "110px",
+    "width": "200px",
+    "text": null,
+    "elementType": "button",
+    "height": "50px"
+  },
+  "OurProductImage3": {
+    "parent": [
+      "screen"
+    ],
+    "bottom": [
+      "Request-a-sample_x25_y2854"
+    ],
+    "yMouseClickPoint": 369,
+    "click_y": 2714.0,
+    "click_x": 210.0,
+    "right": [],
+    "cssStyles": {
+      "font-color": "#707070, 100%"
+    },
+    "elementName": "OurProductImage3",
+    "actElementName": "element_x25_y2604",
+    "contains": [],
+    "styleGuideY": "2604px",
+    "top": [
+      "BedMatsButton"
+    ],
+    "left": [],
+    "xMouseClickPoint": 325,
+    "styleGuideX": "25px",
+    "width": "370px",
+    "text": null,
+    "elementType": "button",
+    "height": "220px"
+  },
+  "OurProductImage2": {
+    "parent": [
+      "screen"
+    ],
+    "bottom": [
+      "DryNites--Bed-Mats_x25_y2319"
+    ],
+    "yMouseClickPoint": 365,
+    "click_y": 2179.0,
+    "click_x": 210.0,
+    "right": [],
+    "cssStyles": {},
+    "elementName": "OurProductImage2",
+    "actElementName": "element_x25_y2069",
+    "contains": [],
+    "styleGuideY": "2069px",
+    "top": [
+      "PyjamaButton"
+    ],
+    "left": [],
+    "xMouseClickPoint": 341,
+    "styleGuideX": "25px",
+    "width": "370px",
+    "text": null,
+    "elementType": "button",
+    "height": "220px"
+  },
+  "OurProductImage1": {
+    "parent": [
+      "screen"
+    ],
+    "bottom": [
+      "DryNites--Pyjama-Pan_x25_y1784"
+    ],
+    "yMouseClickPoint": 285,
+    "click_y": 1644.0,
+    "click_x": 210.0,
+    "right": [],
+    "cssStyles": {},
+    "elementName": "OurProductImage1",
+    "actElementName": "element_x25_y1534",
+    "contains": [],
+    "styleGuideY": "1534px",
+    "top": [
+      "Our-products_x114_y1457"
+    ],
+    "left": [],
+    "xMouseClickPoint": 333,
+    "styleGuideX": "25px",
+    "width": "370px",
+    "text": null,
+    "elementType": "image",
+    "height": "220px"
+  },
+  "Contact-Us_x15_y4951": {
+    "parent": [
+      "element_x0_y4817"
+    ],
+    "bottom": [
+      "Privacy-Policy_x15_y4991"
+    ],
+    "yMouseClickPoint": 286,
+    "click_y": 4960.0,
+    "click_x": 58.0,
+    "right": [],
+    "cssStyles": {
+      "font-color": "#FFFFFF, 100%",
+      "font-size": "16px",
+      "font-family": "Arial Rounded MT",
+      "line-height": "22",
+      "text-align": "center"
+    },
+    "elementName": "Contact-Us_x15_y4951",
+    "actElementName": "Contact-Us_x15_y4951",
+    "contains": [],
+    "styleGuideY": "4951px",
+    "top": [
+      "Home_x15_y4910"
+    ],
+    "left": [],
+    "xMouseClickPoint": 188,
+    "styleGuideX": "15px",
+    "width": "86px",
+    "text": "Contact Us",
+    "elementType": "text",
+    "height": "18px"
+  },
+  "DryNites--Pyjama-Pan_x25_y1784": {
+    "parent": [
+      "screen"
+    ],
+    "bottom": [
+      "Lorem-ipsum-dolor-si_x25_y1834"
+    ],
+    "yMouseClickPoint": 377,
+    "click_y": 1800.365,
+    "click_x": 210.0,
+    "right": [],
+    "cssStyles": {
+      "font-color": "#FFFFFF, 100%",
+      "font-size": "24px",
+      "font-family": "Arial Rounded MT",
+      "line-height": "30",
+      "text-align": "left"
+    },
+    "elementName": "DryNites--Pyjama-Pan_x25_y1784",
+    "actElementName": "DryNites--Pyjama-Pan_x25_y1784",
+    "contains": [],
+    "styleGuideY": "1784px",
+    "top": [
+      "OurProductImage1"
+    ],
+    "left": [],
+    "xMouseClickPoint": 353,
+    "styleGuideX": "25px",
+    "width": "370px",
+    "text": "DryNites® Pyjama Pants",
+    "elementType": "heading",
+    "height": "32.73px"
+  },
+  "LearnMoreButton": {
+    "parent": [
+      "screen"
+    ],
+    "bottom": [
+      "BedwettingImage"
+    ],
+    "yMouseClickPoint": 538,
+    "click_y": 3694.0,
+    "click_x": 210.0,
+    "right": [],
+    "cssStyles": {
+      "font-color": "#48CCB0, 100%#071A3A, 100%"
+    },
+    "elementName": "LearnMoreButton",
+    "actElementName": "element_x110_y3669",
+    "contains": [
+      "Learn-More_x160.67_y3683"
+    ],
+    "styleGuideY": "3669px",
+    "top": [
+      "Bedwetting-simply-re_x25_y3525"
+    ],
+    "left": [],
+    "xMouseClickPoint": 382,
+    "styleGuideX": "110px",
+    "width": "200px",
+    "text": null,
+    "elementType": "button",
+    "height": "50px"
+  },
+  "Vivamus-non-fringill_x26_y4230.2": {
+    "parent": [
+      "screen"
+    ],
+    "bottom": [
+      "NameTextBox"
+    ],
+    "yMouseClickPoint": 228,
+    "click_y": 4261.2,
+    "click_x": 210.5,
+    "right": [],
+    "cssStyles": {
+      "font-color": "#FFFFFF, 100%",
+      "font-size": "18px",
+      "font-family": "Open Sans",
+      "line-height": "28",
+      "text-align": "center"
+    },
+    "elementName": "Vivamus-non-fringill_x26_y4230.2",
+    "actElementName": "Vivamus-non-fringill_x26_y4230.2",
+    "contains": [],
+    "styleGuideY": "4230.2px",
+    "top": [
+      "Sign-up-for-our-news_x26_y4116"
+    ],
+    "left": [],
+    "xMouseClickPoint": 318,
+    "styleGuideX": "26px",
+    "width": "369px",
+    "text": "Vivamus non fringilla nulla. Nullam dapibus ante lorem eu euismod.",
+    "elementType": "text",
+    "height": "62px"
+  },
+  "FacebookIcon": {
+    "parent": [
+      "element_x0_y4817"
+    ],
+    "bottom": [],
+    "yMouseClickPoint": 261,
+    "click_y": 4925.355,
+    "click_x": 396.98,
+    "right": [],
+    "cssStyles": {
+      "font-color": "#FFFFFF, 100%"
+    },
+    "elementName": "FacebookIcon",
+    "actElementName": "element_x388.96_y4910",
+    "contains": [],
+    "styleGuideY": "4910px",
+    "top": [],
+    "left": [
+      "YoutubeIcon"
+    ],
+    "xMouseClickPoint": 515,
+    "styleGuideX": "388.96px",
+    "width": "16.04px",
+    "text": null,
+    "elementType": "icon",
+    "height": "30.71px"
+  },
+  "ViewAllButton": {
+    "parent": [
+      "VideoSeriesContainer"
+    ],
+    "bottom": [
+      "Visit-Experts-Hub_x123_y1327.05"
+    ],
+    "yMouseClickPoint": 372,
+    "click_y": 1280.0,
+    "click_x": 210.0,
+    "right": [],
+    "cssStyles": {
+      "font-color": "#48CCB0, 100%#071A3A, 100%"
+    },
+    "elementName": "ViewAllButton",
+    "actElementName": "element_x110_y1255",
+    "contains": [
+      "View-All-Videos_x143_y1270"
+    ],
+    "styleGuideY": "1255px",
+    "top": [
+      "Explore-Drynites--in_x70_y1056.03"
+    ],
+    "left": [],
+    "xMouseClickPoint": 392,
+    "styleGuideX": "110px",
+    "width": "200px",
+    "text": null,
+    "elementType": "button",
+    "height": "50px"
+  },
+  "VideoSeriesContainer": {
+    "parent": [
+      "screen"
+    ],
+    "bottom": [
+      "Our-products_x114_y1457"
+    ],
+    "yMouseClickPoint": 551,
+    "click_y": 1112.5,
+    "click_x": 210.0,
+    "right": [],
+    "cssStyles": {
+      "font-color": "#1A2F69, 100%"
+    },
+    "elementName": "VideoSeriesContainer",
+    "actElementName": "element_x25_y829",
+    "contains": [
+      "Explore-Drynites--in_x70_y1056.03",
+      "ViewAllButton",
+      "Visit-Experts-Hub_x123_y1327.05",
+      "Video-series-on--Bed_x70_y874"
+    ],
+    "styleGuideY": "829px",
+    "top": [],
+    "left": [],
+    "xMouseClickPoint": 482,
+    "styleGuideX": "25px",
+    "width": "370px",
+    "text": null,
+    "elementType": "container",
+    "height": "567px"
+  },
+  "What-Is-Bedwetting-_x25_y3309": {
+    "parent": [
+      "screen"
+    ],
+    "bottom": [],
+    "yMouseClickPoint": 247,
+    "click_y": 3343.0,
+    "click_x": 90.0,
+    "right": [],
+    "cssStyles": {
+      "font-color": "#48CCB0, 100%",
+      "font-size": "18px",
+      "font-family": "Arial Rounded MT",
+      "line-height": "22",
+      "text-align": "center"
+    },
+    "elementName": "What-Is-Bedwetting-_x25_y3309",
+    "actElementName": "What-Is-Bedwetting-_x25_y3309",
+    "contains": [],
+    "styleGuideY": "3309px",
+    "top": [],
+    "left": [],
+    "xMouseClickPoint": 212,
+    "styleGuideX": "25px",
+    "width": "130px",
+    "text": "What Is Bedwetting?",
+    "elementType": "text",
+    "height": "68px"
+  },
+  "Visit-Experts-Hub_x123_y1327.05": {
+    "parent": [
+      "VideoSeriesContainer"
+    ],
+    "bottom": [],
+    "yMouseClickPoint": 164,
+    "click_y": 1337.05,
+    "click_x": 210.5,
+    "right": [],
+    "cssStyles": {
+      "font-color": "#48CCB0, 100%",
+      "font-size": "18px",
+      "font-family": "Arial Rounded MT",
+      "line-height": "22",
+      "text-align": "center"
+    },
+    "elementName": "Visit-Experts-Hub_x123_y1327.05",
+    "actElementName": "Visit-Experts-Hub_x123_y1327.05",
+    "contains": [],
+    "styleGuideY": "1327.05px",
+    "top": [
+      "ViewAllButton"
+    ],
+    "left": [],
+    "xMouseClickPoint": 364,
+    "styleGuideX": "123px",
+    "width": "175px",
+    "text": "Visit Experts Hub",
+    "elementType": "text",
+    "height": "20px"
+  },
+  "Logo": {
+    "parent": [
+      "Header"
+    ],
+    "bottom": [],
+    "yMouseClickPoint": 250,
+    "click_y": 160.5,
+    "click_x": 74.0,
+    "right": [
+      "HamburgerMenu"
+    ],
+    "cssStyles": {},
+    "elementName": "Logo",
+    "actElementName": "element_x15_y135",
+    "contains": [],
+    "styleGuideY": "135px",
+    "top": [],
+    "left": [],
+    "xMouseClickPoint": 195,
+    "styleGuideX": "15px",
+    "width": "118px",
+    "text": null,
+    "elementType": "image",
+    "height": "51px"
+  },
+  "HamburgerMenu": {
+    "parent": [
+      "Header"
+    ],
+    "bottom": [],
+    "yMouseClickPoint": 243,
+    "click_y": 161.0,
+    "click_x": 382.5,
+    "right": [],
+    "cssStyles": {},
+    "elementName": "HamburgerMenu",
+    "actElementName": "element_x360_y145",
+    "contains": [],
+    "styleGuideY": "145px",
+    "top": [],
+    "left": [
+      "Logo"
+    ],
+    "xMouseClickPoint": 492,
+    "styleGuideX": "360px",
+    "width": "45px",
+    "text": null,
+    "elementType": "icon",
+    "height": "32px"
+  },
+  "Video-series-on--Bed_x70_y874": {
+    "parent": [
+      "VideoSeriesContainer"
+    ],
+    "bottom": [
+      "Explore-Drynites--in_x70_y1056.03"
+    ],
+    "yMouseClickPoint": 370,
+    "click_y": 953.5,
+    "click_x": 210.0,
+    "right": [],
+    "cssStyles": {
+      "font-color": "#FFFFFF, 100%",
+      "font-size": "46px",
+      "font-family": "DK Lemon Yellow Sun",
+      "line-height": "50",
+      "text-align": "left"
+    },
+    "elementName": "Video-series-on--Bed_x70_y874",
+    "actElementName": "Video-series-on--Bed_x70_y874",
+    "contains": [],
+    "styleGuideY": "874px",
+    "top": [],
+    "left": [],
+    "xMouseClickPoint": 279,
+    "styleGuideX": "70px",
+    "width": "280px",
+    "text": "Video series on \nBedwetting with \nDr Catherine",
+    "elementType": "heading",
+    "height": "159px"
+  },
+  "Helping-your-kids-st_x25_y231": {
+    "parent": [
+      "screen"
+    ],
+    "bottom": [
+      "RequestSampleButton1",
+      "Our-Products_x226_y506"
+    ],
+    "yMouseClickPoint": 383,
+    "click_y": 343.5,
+    "click_x": 210.0,
+    "right": [],
+    "cssStyles": {
+      "font-color": "#FFFFFF, 100%#082658, 100%",
+      "font-size": "46px",
+      "font-family": "Albus",
+      "line-height": "56",
+      "text-align": "center"
+    },
+    "elementName": "Helping-your-kids-st_x25_y231",
+    "actElementName": "Helping-your-kids-st_x25_y231",
+    "contains": [],
+    "styleGuideY": "231px",
+    "top": [
+      "Header"
+    ],
+    "left": [],
+    "xMouseClickPoint": 305,
+    "styleGuideX": "25px",
+    "width": "370px",
+    "text": "Helping your kids stay dry through the night so they can dream big",
+    "elementType": "text",
+    "height": "225px"
+  },
+  "Email_x116_y4396.56": {
+    "parent": [
+      "EmailTextBox"
+    ],
+    "bottom": [],
+    "yMouseClickPoint": 286,
+    "click_y": 4411.56,
+    "click_x": 222.5,
+    "right": [],
+    "cssStyles": {
+      "font-color": "#777777, 100%",
+      "font-size": "14px",
+      "font-family": "Open Sans",
+      "line-height": "28",
+      "text-align": "left"
+    },
+    "elementName": "Email_x116_y4396.56",
+    "actElementName": "Email_x116_y4396.56",
+    "contains": [],
+    "styleGuideY": "4396.56px",
+    "top": [],
+    "left": [],
+    "xMouseClickPoint": 284,
+    "styleGuideX": "116px",
+    "width": "213px",
+    "text": "Email",
+    "elementType": "text",
+    "height": "30px"
+  },
+  "FooterLogo": {
+    "parent": [
+      "element_x0_y4817"
+    ],
+    "bottom": [
+      "Home_x15_y4910"
+    ],
+    "yMouseClickPoint": 176,
+    "click_y": 4868.0,
+    "click_x": 75.5,
+    "right": [],
+    "cssStyles": {},
+    "elementName": "FooterLogo",
+    "actElementName": "element_x15_y4843",
+    "contains": [],
+    "styleGuideY": "4843px",
+    "top": [],
+    "left": [],
+    "xMouseClickPoint": 173,
+    "styleGuideX": "15px",
+    "width": "121px",
+    "text": null,
+    "elementType": "image",
+    "height": "50px"
+  },
+  "DryNites--Bed-Mats_x25_y2319": {
+    "parent": [
+      "screen"
+    ],
+    "bottom": [
+      "Lorem-ipsum-dolor-si_x25_y2369"
+    ],
+    "yMouseClickPoint": 517,
+    "click_y": 2335.365,
+    "click_x": 210.0,
+    "right": [],
+    "cssStyles": {
+      "font-color": "#FFFFFF, 100%",
+      "font-size": "24px",
+      "font-family": "Arial Rounded MT",
+      "line-height": "30",
+      "text-align": "left"
+    },
+    "elementName": "DryNites--Bed-Mats_x25_y2319",
+    "actElementName": "DryNites--Bed-Mats_x25_y2319",
+    "contains": [],
+    "styleGuideY": "2319px",
+    "top": [
+      "OurProductImage2"
+    ],
+    "left": [],
+    "xMouseClickPoint": 285,
+    "styleGuideX": "25px",
+    "width": "370px",
+    "text": "DryNites® Bed Mats",
+    "elementType": "heading",
+    "height": "32.73px"
+  }
+}

@@ -1,0 +1,426 @@
+{
+  "INTRO_x536_y554": {
+    "parent": [
+      "popClose0_x515_y542"
+    ],
+    "bottom": [],
+    "yMouseClickPoint": 419,
+    "click_y": 557.5,
+    "click_x": 550.0,
+    "right": [],
+    "cssStyles": {
+      "color": "#ffffff",
+      "font-weight": "normal",
+      "letter-spacing": "normal",
+      "width": "28px",
+      "font-size": "9px",
+      "font-family": "Arial",
+      "line-height": "normal",
+      "font-stretch": "normal",
+      "font-style": "normal",
+      "height": "7px",
+      "text-align": "left"
+    },
+    "elementName": "INTRO_x536_y554",
+    "elementType": "text",
+    "contains": [],
+    "styleGuideY": "554px",
+    "top": [],
+    "left": [],
+    "xMouseClickPoint": 708,
+    "styleGuideX": "536px",
+    "width": "28px",
+    "text": "INTRO ",
+    "height": "7px"
+  },
+  "popClose0_x515_y542": {
+    "parent": [
+      "screen"
+    ],
+    "bottom": [],
+    "yMouseClickPoint": 429,
+    "click_y": 557.0,
+    "click_x": 550.0,
+    "right": [
+      "btn1-btnnormal3_x587_y543"
+    ],
+    "cssStyles": {
+      "width": "70px",
+      "height": "30px"
+    },
+    "elementName": "popClose0_x515_y542",
+    "elementType": "button",
+    "contains": [
+      "INTRO_x536_y554"
+    ],
+    "styleGuideY": "542px",
+    "top": [
+      "Why-are-we-launching-Accentrix-in-india-Accentrix-has-been-i_x538_y198"
+    ],
+    "left": [],
+    "xMouseClickPoint": 707,
+    "styleGuideX": "515px",
+    "width": "70px",
+    "text": null,
+    "height": "30px"
+  },
+  "Accentrix-ranibizumab-offers-a-more-affordable-licensed-trea_x538_y65": {
+    "parent": [
+      "screen"
+    ],
+    "bottom": [
+      "Why-are-we-launching-Accentrix-in-india-Accentrix-has-been-i_x538_y198"
+    ],
+    "yMouseClickPoint": 167,
+    "click_y": 114.5,
+    "click_x": 716.5,
+    "right": [],
+    "cssStyles": {
+      "color": "#ffffff",
+      "font-weight": "normal",
+      "letter-spacing": "normal",
+      "width": "357px",
+      "font-size": "15px",
+      "font-family": "Arial",
+      "line-height": "1.27",
+      "font-stretch": "normal",
+      "font-style": "normal",
+      "height": "99px",
+      "text-align": "left"
+    },
+    "elementName": "Accentrix-ranibizumab-offers-a-more-affordable-licensed-trea_x538_y65",
+    "elementType": "text",
+    "contains": [],
+    "styleGuideY": "65px",
+    "top": [],
+    "left": [
+      "A-new-brand-of-ranibizumab_x75_y153",
+      "Introducing-Accentrix_x75_y66"
+    ],
+    "xMouseClickPoint": 802,
+    "styleGuideX": "538px",
+    "width": "357px",
+    "text": "Accentrix (ranibizumab) offers a more affordable, licensed treatment,from the makers of Lucentis®.\rAccentrix® gives you all the benefits and confidence of our established,proven therapy,Lucentis® (ranibizumab).1",
+    "height": "99px"
+  },
+  "Why-are-we-launching-Accentrix-in-india-Accentrix-has-been-i_x538_y198": {
+    "parent": [
+      "screen"
+    ],
+    "bottom": [
+      "btn1-btnnormal3_x587_y543",
+      "popClose0_x515_y542",
+      "btn2-btnnormal3_x659_y543"
+    ],
+    "yMouseClickPoint": 314,
+    "click_y": 286.0,
+    "click_x": 718.5,
+    "right": [],
+    "cssStyles": {
+      "color": "#ffffff",
+      "font-weight": "bold",
+      "letter-spacing": "normal",
+      "width": "361px",
+      "font-size": "15px",
+      "font-family": "Arial",
+      "line-height": "1.4",
+      "font-stretch": "normal",
+      "font-style": "normal",
+      "height": "176px",
+      "text-align": "left"
+    },
+    "elementName": "Why-are-we-launching-Accentrix-in-india-Accentrix-has-been-i_x538_y198",
+    "elementType": "text",
+    "contains": [],
+    "styleGuideY": "198px",
+    "top": [
+      "Accentrix-ranibizumab-offers-a-more-affordable-licensed-trea_x538_y65"
+    ],
+    "left": [],
+    "xMouseClickPoint": 799,
+    "styleGuideX": "538px",
+    "width": "361px",
+    "text": "Why are we launching Accentrix® in india?\rAccentrix® has been introduced in india as part of Novartis&amp;apos; commitment to improving health and strives to give more access to innovative,high-quality, more affordable medicines to patients in emerging markets.\rNovartis recognizes global and in-country economic and access to healthcare inequities and increasingly applies flexible pricing model, of which Accentrix® is an example.",
+    "height": "176px"
+  },
+  "screen": {
+    "parent": [
+      "ROOT_REF_WINDOW"
+    ],
+    "bottom": [],
+    "yMouseClickPoint": 0,
+    "click_y": 384.0,
+    "click_x": 512.0,
+    "right": [],
+    "elementName": "screen",
+    "elementType": "div_con",
+    "contains": [
+      "popClose0_x515_y542",
+      "Accentrix-ranibizumab-offers-a-more-affordable-licensed-trea_x538_y65",
+      "btn2-btnnormal3_x659_y543",
+      "Why-are-we-launching-Accentrix-in-india-Accentrix-has-been-i_x538_y198",
+      "refBtn-btnnormal1_x907_y506",
+      "Introducing-Accentrix_x75_y66",
+      "A-new-brand-of-ranibizumab_x75_y153",
+      "btn1-btnnormal3_x587_y543"
+    ],
+    "styleGuideY": "0px",
+    "top": [],
+    "left": [],
+    "xMouseClickPoint": 0,
+    "styleGuideX": "0px",
+    "width": "1024px",
+    "height": "768px"
+  },
+  "A-new-brand-of-ranibizumab_x75_y153": {
+    "parent": [
+      "screen"
+    ],
+    "bottom": [],
+    "yMouseClickPoint": 221,
+    "click_y": 164.0,
+    "click_x": 254.0,
+    "right": [
+      "Accentrix-ranibizumab-offers-a-more-affordable-licensed-trea_x538_y65"
+    ],
+    "cssStyles": {
+      "color": "#1a5e66",
+      "font-weight": "normal",
+      "letter-spacing": "normal",
+      "width": "358px",
+      "font-size": "29px",
+      "font-family": "Arial",
+      "line-height": "1.07",
+      "font-stretch": "normal",
+      "font-style": "normal",
+      "height": "22px",
+      "text-align": "left"
+    },
+    "elementName": "A-new-brand-of-ranibizumab_x75_y153",
+    "elementType": "text",
+    "contains": [],
+    "styleGuideY": "153px",
+    "top": [
+      "Introducing-Accentrix_x75_y66"
+    ],
+    "left": [],
+    "xMouseClickPoint": 464,
+    "styleGuideX": "75px",
+    "width": "358px",
+    "text": "A new brand of ranibizumab",
+    "height": "22px"
+  },
+  "ROOT_REF_WINDOW": {
+    "parent": [],
+    "bottom": [],
+    "click_y": 49999.5,
+    "click_x": 49999.5,
+    "right": [],
+    "elementName": null,
+    "elementType": null,
+    "contains": [
+      "screen"
+    ],
+    "styleGuideY": 0,
+    "top": [],
+    "left": [],
+    "styleGuideX": 0,
+    "width": 99999,
+    "height": 99999
+  },
+  "btn2-btnnormal3_x659_y543": {
+    "parent": [
+      "screen"
+    ],
+    "bottom": [],
+    "yMouseClickPoint": 429,
+    "click_y": 557.5,
+    "click_x": 694.0,
+    "right": [],
+    "cssStyles": {
+      "width": "70px",
+      "height": "29px"
+    },
+    "elementName": "btn2-btnnormal3_x659_y543",
+    "elementType": "button",
+    "contains": [
+      "FROM-NOVARTIS_x674_y549"
+    ],
+    "styleGuideY": "543px",
+    "top": [
+      "Why-are-we-launching-Accentrix-in-india-Accentrix-has-been-i_x538_y198"
+    ],
+    "left": [
+      "btn1-btnnormal3_x587_y543"
+    ],
+    "xMouseClickPoint": 863,
+    "styleGuideX": "659px",
+    "width": "70px",
+    "text": null,
+    "height": "29px"
+  },
+  "refBtn-btnnormal1_x907_y506": {
+    "parent": [
+      "screen"
+    ],
+    "bottom": [],
+    "yMouseClickPoint": 380,
+    "click_y": 517.0,
+    "click_x": 915.5,
+    "right": [],
+    "cssStyles": {
+      "width": "17px",
+      "height": "22px"
+    },
+    "elementName": "refBtn-btnnormal1_x907_y506",
+    "elementType": "button",
+    "contains": [],
+    "styleGuideY": "506px",
+    "top": [],
+    "left": [],
+    "xMouseClickPoint": 1077,
+    "styleGuideX": "907px",
+    "width": "17px",
+    "text": null,
+    "height": "22px"
+  },
+  "Introducing-Accentrix_x75_y66": {
+    "parent": [
+      "screen"
+    ],
+    "bottom": [
+      "A-new-brand-of-ranibizumab_x75_y153"
+    ],
+    "yMouseClickPoint": 139,
+    "click_y": 100.0,
+    "click_x": 173.0,
+    "right": [
+      "Accentrix-ranibizumab-offers-a-more-affordable-licensed-trea_x538_y65"
+    ],
+    "cssStyles": {
+      "color": "#1a5e66",
+      "font-weight": "bold",
+      "letter-spacing": "normal",
+      "width": "196px",
+      "font-size": "36px",
+      "font-family": "Arial",
+      "line-height": "0.86",
+      "font-stretch": "normal",
+      "font-style": "normal",
+      "height": "68px",
+      "text-align": "left"
+    },
+    "elementName": "Introducing-Accentrix_x75_y66",
+    "elementType": "text",
+    "contains": [],
+    "styleGuideY": "66px",
+    "top": [],
+    "left": [],
+    "xMouseClickPoint": 411,
+    "styleGuideX": "75px",
+    "width": "196px",
+    "text": "Introducing \rAccentrix®",
+    "height": "68px"
+  },
+  "WHY-ACCENTRIX_x595_y549": {
+    "parent": [
+      "btn1-btnnormal3_x587_y543"
+    ],
+    "bottom": [],
+    "yMouseClickPoint": 416,
+    "click_y": 557.5,
+    "click_x": 624.0,
+    "right": [],
+    "cssStyles": {
+      "color": "#ffffff",
+      "font-weight": "normal",
+      "letter-spacing": "normal",
+      "width": "58px",
+      "font-size": "9px",
+      "font-family": "Arial",
+      "line-height": "normal",
+      "font-stretch": "normal",
+      "font-style": "normal",
+      "height": "17px",
+      "text-align": "center"
+    },
+    "elementName": "WHY-ACCENTRIX_x595_y549",
+    "elementType": "button",
+    "contains": [],
+    "styleGuideY": "549px",
+    "top": [],
+    "left": [],
+    "xMouseClickPoint": 786,
+    "styleGuideX": "595px",
+    "width": "58px",
+    "text": "WHY \rACCENTRIX?",
+    "height": "17px"
+  },
+  "btn1-btnnormal3_x587_y543": {
+    "parent": [
+      "screen"
+    ],
+    "bottom": [],
+    "yMouseClickPoint": 426,
+    "click_y": 557.5,
+    "click_x": 622.0,
+    "right": [
+      "btn2-btnnormal3_x659_y543"
+    ],
+    "cssStyles": {
+      "width": "70px",
+      "height": "29px"
+    },
+    "elementName": "btn1-btnnormal3_x587_y543",
+    "elementType": "button",
+    "contains": [
+      "WHY-ACCENTRIX_x595_y549"
+    ],
+    "styleGuideY": "543px",
+    "top": [
+      "Why-are-we-launching-Accentrix-in-india-Accentrix-has-been-i_x538_y198"
+    ],
+    "left": [
+      "popClose0_x515_y542"
+    ],
+    "xMouseClickPoint": 785,
+    "styleGuideX": "587px",
+    "width": "70px",
+    "text": null,
+    "height": "29px"
+  },
+  "FROM-NOVARTIS_x674_y549": {
+    "parent": [
+      "btn2-btnnormal3_x659_y543"
+    ],
+    "bottom": [],
+    "yMouseClickPoint": 415,
+    "click_y": 557.5,
+    "click_x": 696.5,
+    "right": [],
+    "cssStyles": {
+      "color": "#ffffff",
+      "font-weight": "normal",
+      "letter-spacing": "normal",
+      "width": "45px",
+      "font-size": "9px",
+      "font-family": "Arial",
+      "line-height": "normal",
+      "font-stretch": "normal",
+      "font-style": "normal",
+      "height": "17px",
+      "text-align": "center"
+    },
+    "elementName": "FROM-NOVARTIS_x674_y549",
+    "elementType": "text",
+    "contains": [],
+    "styleGuideY": "549px",
+    "top": [],
+    "left": [],
+    "xMouseClickPoint": 863,
+    "styleGuideX": "674px",
+    "width": "45px",
+    "text": "FROM \rNOVARTIS",
+    "height": "17px"
+  }
+}

@@ -1,0 +1,717 @@
+{
+  "a-_x381.2_y1274.5": {
+    "parent": [
+      "screen"
+    ],
+    "bottom": [
+      "Rectangle-12-_x127_y1766"
+    ],
+    "yMouseClickPoint": 457,
+    "click_y": 1459.05,
+    "click_x": 531.55,
+    "right": [
+      "a-_x690.5_y1274.5"
+    ],
+    "cssStyles": {
+      "mix-blend-mode": "multiply",
+      "width": "300.7px",
+      "height": "369.1px"
+    },
+    "elementName": "a-_x381.2_y1274.5",
+    "contains": [],
+    "styleGuideY": "1274.5px",
+    "top": [
+      "Layer-1-_x203_y771"
+    ],
+    "left": [
+      "a-_x70.9_y1275.8"
+    ],
+    "xMouseClickPoint": 621,
+    "styleGuideX": "381.2px",
+    "width": "300.7px",
+    "text": null,
+    "height": "369.1px"
+  },
+  "Layer-10-_x0_y49": {
+    "parent": [
+      "screen"
+    ],
+    "bottom": [
+      "Rounded-Rectangle-1-_x345_y462",
+      "Rounded-Rectangle-1-_x813_y462",
+      "Rounded-Rectangle-1-_x113_y462",
+      "Rounded-Rectangle-1-_x1047_y462",
+      "Rounded-Rectangle-1-_x581_y462"
+    ],
+    "yMouseClickPoint": 160,
+    "click_y": 239.0,
+    "click_x": 683.0,
+    "right": [],
+    "cssStyles": {
+      "width": "1366px",
+      "height": "380px"
+    },
+    "elementName": "Layer-10-_x0_y49",
+    "contains": [
+      "Layer-1-_x624_y286",
+      "Layer-1-_x1070_y237"
+    ],
+    "styleGuideY": "49px",
+    "top": [],
+    "left": [],
+    "xMouseClickPoint": 527,
+    "styleGuideX": "0px",
+    "width": "1366px",
+    "text": null,
+    "height": "380px"
+  },
+  "Rectangle-11-_x116_y731": {
+    "parent": [
+      "screen"
+    ],
+    "bottom": [],
+    "yMouseClickPoint": 326,
+    "click_y": 921.0,
+    "click_x": 446.0,
+    "right": [],
+    "cssStyles": {
+      "background-color": "#333740",
+      "width": "660px",
+      "height": "380px"
+    },
+    "elementName": "Rectangle-11-_x116_y731",
+    "contains": [],
+    "styleGuideY": "731px",
+    "top": [
+      "Rounded-Rectangle-1-_x345_y462",
+      "Rounded-Rectangle-1-_x113_y462",
+      "Rounded-Rectangle-1-_x581_y462"
+    ],
+    "left": [],
+    "xMouseClickPoint": 541,
+    "styleGuideX": "116px",
+    "width": "660px",
+    "text": null,
+    "height": "380px"
+  },
+  "a-_x690.5_y1274.5": {
+    "parent": [
+      "screen"
+    ],
+    "bottom": [
+      "Rectangle-12-_x127_y1766"
+    ],
+    "yMouseClickPoint": 456,
+    "click_y": 1459.05,
+    "click_x": 840.85,
+    "right": [
+      "a-_x1000.5_y1274.2"
+    ],
+    "cssStyles": {
+      "mix-blend-mode": "multiply",
+      "width": "300.7px",
+      "height": "369.1px"
+    },
+    "elementName": "a-_x690.5_y1274.5",
+    "contains": [],
+    "styleGuideY": "1274.5px",
+    "top": [
+      "Layer-1-_x934_y1127"
+    ],
+    "left": [
+      "a-_x381.2_y1274.5"
+    ],
+    "xMouseClickPoint": 722,
+    "styleGuideX": "690.5px",
+    "width": "300.7px",
+    "text": null,
+    "height": "369.1px"
+  },
+  "Layer-1-_x624_y286": {
+    "parent": [
+      "Layer-10-_x0_y49"
+    ],
+    "bottom": [],
+    "yMouseClickPoint": 148,
+    "click_y": 357.5,
+    "click_x": 995.0,
+    "right": [],
+    "cssStyles": {
+      "width": "742px",
+      "height": "143px"
+    },
+    "elementName": "Layer-1-_x624_y286",
+    "contains": [
+      "Seus-abraos-inspiram_x726_y366"
+    ],
+    "styleGuideY": "286px",
+    "top": [],
+    "left": [],
+    "xMouseClickPoint": 680,
+    "styleGuideX": "624px",
+    "width": "742px",
+    "text": null,
+    "height": "143px"
+  },
+  "a-_x70.9_y1275.8": {
+    "parent": [
+      "screen"
+    ],
+    "bottom": [
+      "Rectangle-12-_x127_y1766"
+    ],
+    "yMouseClickPoint": 467,
+    "click_y": 1460.35,
+    "click_x": 221.25,
+    "right": [
+      "a-_x381.2_y1274.5"
+    ],
+    "cssStyles": {
+      "mix-blend-mode": "multiply",
+      "width": "300.7px",
+      "height": "369.1px"
+    },
+    "elementName": "a-_x70.9_y1275.8",
+    "contains": [],
+    "styleGuideY": "1275.8px",
+    "top": [
+      "Layer-1-_x203_y771"
+    ],
+    "left": [],
+    "xMouseClickPoint": 541,
+    "styleGuideX": "70.9px",
+    "width": "300.7px",
+    "text": null,
+    "height": "369.1px"
+  },
+  "Rounded-Rectangle-1-_x581_y462": {
+    "parent": [
+      "screen"
+    ],
+    "bottom": [
+      "Rectangle-11-_x116_y731"
+    ],
+    "yMouseClickPoint": 186,
+    "click_y": 548.0,
+    "click_x": 684.0,
+    "right": [
+      "Rounded-Rectangle-1-_x813_y462"
+    ],
+    "cssStyles": {
+      "background-color": "#ebf2f7",
+      "border-radius": "10px",
+      "width": "206px",
+      "height": "172px"
+    },
+    "elementName": "Rounded-Rectangle-1-_x581_y462",
+    "contains": [],
+    "styleGuideY": "462px",
+    "top": [
+      "Layer-10-_x0_y49"
+    ],
+    "left": [
+      "Rounded-Rectangle-1-_x345_y462"
+    ],
+    "xMouseClickPoint": 650,
+    "styleGuideX": "581px",
+    "width": "206px",
+    "text": null,
+    "height": "172px"
+  },
+  "screen": {
+    "parent": [
+      "ROOT_REF_WINDOW"
+    ],
+    "bottom": [],
+    "yMouseClickPoint": 0,
+    "click_y": 1348.0,
+    "click_x": 683.0,
+    "right": [],
+    "elementName": "screen",
+    "contains": [
+      "a-_x381.2_y1274.5",
+      "Layer-10-_x0_y49",
+      "Rectangle-11-_x116_y731",
+      "a-_x690.5_y1274.5",
+      "a-_x70.9_y1275.8",
+      "Rounded-Rectangle-1-_x581_y462",
+      "a-_x1000.5_y1274.2",
+      "Layer-1-_x203_y771",
+      "Ver-mais-copy-_x1052_y2134",
+      "Vector-Smart-Object3_x877_y2135",
+      "Rectangle-2-_x0_y0",
+      "Rounded-Rectangle-1-_x1047_y462",
+      "Rounded-Rectangle-1-_x813_y462",
+      "Rounded-Rectangle-1-_x113_y462",
+      "Layer-1-_x934_y1127",
+      "Rectangle-12-_x127_y1766",
+      "Rounded-Rectangle-1-_x345_y462"
+    ],
+    "styleGuideY": "0px",
+    "top": [],
+    "left": [],
+    "xMouseClickPoint": 0,
+    "styleGuideX": "0px",
+    "width": "1366px",
+    "height": "2696px"
+  },
+  "Seus-abraos-inspiram_x726_y366": {
+    "parent": [
+      "Layer-1-_x624_y286"
+    ],
+    "bottom": [],
+    "yMouseClickPoint": 153,
+    "click_y": 382.5,
+    "click_x": 990.0,
+    "right": [],
+    "cssStyles": {
+      "color": "#ffffff",
+      "font-weight": "600",
+      "letter-spacing": "0.4px",
+      "width": "528px",
+      "font-size": "36px",
+      "font-family": "OmnesHuggies",
+      "line-height": "normal",
+      "font-stretch": "normal",
+      "font-style": "italic",
+      "height": "33px",
+      "text-align": "right"
+    },
+    "elementName": "Seus-abraos-inspiram_x726_y366",
+    "contains": [],
+    "styleGuideY": "366px",
+    "top": [],
+    "left": [],
+    "xMouseClickPoint": 803,
+    "styleGuideX": "726px",
+    "width": "528px",
+    "text": "Seus abra�os inspiram os nossos",
+    "height": "33px"
+  },
+  "a-_x1000.5_y1274.2": {
+    "parent": [
+      "screen"
+    ],
+    "bottom": [
+      "Rectangle-12-_x127_y1766"
+    ],
+    "yMouseClickPoint": 455,
+    "click_y": 1458.75,
+    "click_x": 1150.85,
+    "right": [],
+    "cssStyles": {
+      "mix-blend-mode": "multiply",
+      "width": "300.7px",
+      "height": "369.1px"
+    },
+    "elementName": "a-_x1000.5_y1274.2",
+    "contains": [],
+    "styleGuideY": "1274.2px",
+    "top": [
+      "Layer-1-_x934_y1127"
+    ],
+    "left": [
+      "a-_x690.5_y1274.5"
+    ],
+    "xMouseClickPoint": 785,
+    "styleGuideX": "1000.5px",
+    "width": "300.7px",
+    "text": null,
+    "height": "369.1px"
+  },
+  "Layer-1-_x203_y771": {
+    "parent": [
+      "screen"
+    ],
+    "bottom": [
+      "a-_x70.9_y1275.8",
+      "a-_x381.2_y1274.5"
+    ],
+    "yMouseClickPoint": 261,
+    "click_y": 961.0,
+    "click_x": 728.0,
+    "right": [],
+    "cssStyles": {
+      "width": "1050px",
+      "height": "380px"
+    },
+    "elementName": "Layer-1-_x203_y771",
+    "contains": [],
+    "styleGuideY": "771px",
+    "top": [
+      "Rounded-Rectangle-1-_x813_y462",
+      "Rounded-Rectangle-1-_x1047_y462"
+    ],
+    "left": [],
+    "xMouseClickPoint": 798,
+    "styleGuideX": "203px",
+    "width": "1050px",
+    "text": null,
+    "height": "380px"
+  },
+  "Layer-1-_x1070_y237": {
+    "parent": [
+      "Layer-10-_x0_y49"
+    ],
+    "bottom": [],
+    "yMouseClickPoint": 122,
+    "click_y": 295.0,
+    "click_x": 1165.5,
+    "right": [],
+    "cssStyles": {
+      "width": "191px",
+      "height": "116px"
+    },
+    "elementName": "Layer-1-_x1070_y237",
+    "contains": [],
+    "styleGuideY": "237px",
+    "top": [],
+    "left": [],
+    "xMouseClickPoint": 811,
+    "styleGuideX": "1070px",
+    "width": "191px",
+    "text": null,
+    "height": "116px"
+  },
+  "Ver-mais-copy-_x1052_y2134": {
+    "parent": [
+      "screen"
+    ],
+    "bottom": [],
+    "yMouseClickPoint": 399,
+    "click_y": 2155.5,
+    "click_x": 1126.5,
+    "right": [],
+    "cssStyles": {
+      "width": "149px",
+      "height": "43px"
+    },
+    "elementName": "Ver-mais-copy-_x1052_y2134",
+    "contains": [],
+    "styleGuideY": "2134px",
+    "top": [],
+    "left": [
+      "Vector-Smart-Object3_x877_y2135"
+    ],
+    "xMouseClickPoint": 781,
+    "styleGuideX": "1052px",
+    "width": "149px",
+    "text": null,
+    "height": "43px"
+  },
+  "ROOT_REF_WINDOW": {
+    "parent": [],
+    "bottom": [],
+    "click_y": 49999.5,
+    "click_x": 49999.5,
+    "right": [],
+    "elementName": null,
+    "contains": [
+      "screen"
+    ],
+    "styleGuideY": 0,
+    "top": [],
+    "left": [],
+    "styleGuideX": 0,
+    "width": 99999,
+    "height": 99999
+  },
+  "Layer-1-_x1221_y9": {
+    "parent": [
+      "Rectangle-2-_x0_y0"
+    ],
+    "bottom": [],
+    "yMouseClickPoint": 66,
+    "click_y": 25.5,
+    "click_x": 1288.5,
+    "right": [],
+    "cssStyles": {
+      "width": "135px",
+      "height": "33px"
+    },
+    "elementName": "Layer-1-_x1221_y9",
+    "contains": [],
+    "styleGuideY": "9px",
+    "top": [],
+    "left": [
+      "Red-bar-_x0_y0"
+    ],
+    "xMouseClickPoint": 830,
+    "styleGuideX": "1221px",
+    "width": "135px",
+    "text": null,
+    "height": "33px"
+  },
+  "Red-bar-_x0_y0": {
+    "parent": [
+      "Rectangle-2-_x0_y0"
+    ],
+    "bottom": [],
+    "yMouseClickPoint": 68,
+    "click_y": 24.5,
+    "click_x": 49.0,
+    "right": [
+      "Layer-1-_x1221_y9"
+    ],
+    "cssStyles": {
+      "background-color": "#d92032",
+      "width": "98px",
+      "height": "49px"
+    },
+    "elementName": "Red-bar-_x0_y0",
+    "contains": [],
+    "styleGuideY": "0px",
+    "top": [],
+    "left": [],
+    "xMouseClickPoint": 518,
+    "styleGuideX": "0px",
+    "width": "98px",
+    "text": null,
+    "height": "49px"
+  },
+  "Vector-Smart-Object3_x877_y2135": {
+    "parent": [
+      "screen"
+    ],
+    "bottom": [],
+    "yMouseClickPoint": 398,
+    "click_y": 2155.5,
+    "click_x": 961.0,
+    "right": [
+      "Ver-mais-copy-_x1052_y2134"
+    ],
+    "cssStyles": {
+      "width": "168px",
+      "height": "41px"
+    },
+    "elementName": "Vector-Smart-Object3_x877_y2135",
+    "contains": [],
+    "styleGuideY": "2135px",
+    "top": [],
+    "left": [],
+    "xMouseClickPoint": 746,
+    "styleGuideX": "877px",
+    "width": "168px",
+    "text": null,
+    "height": "41px"
+  },
+  "Rectangle-2-_x0_y0": {
+    "parent": [
+      "screen"
+    ],
+    "bottom": [],
+    "yMouseClickPoint": 64,
+    "click_y": 24.5,
+    "click_x": 683.0,
+    "right": [],
+    "cssStyles": {
+      "background-color": "#ffffff",
+      "box-shadow": "0 0 14.4px 1.6px rgba(46, 52, 62, 0.13)",
+      "width": "1366px",
+      "height": "49px"
+    },
+    "elementName": "Rectangle-2-_x0_y0",
+    "contains": [
+      "Layer-1-_x1221_y9",
+      "Red-bar-_x0_y0"
+    ],
+    "styleGuideY": "0px",
+    "top": [],
+    "left": [],
+    "xMouseClickPoint": 561,
+    "styleGuideX": "0px",
+    "width": "1366px",
+    "text": null,
+    "height": "49px"
+  },
+  "Rounded-Rectangle-1-_x1047_y462": {
+    "parent": [
+      "screen"
+    ],
+    "bottom": [
+      "Layer-1-_x203_y771"
+    ],
+    "yMouseClickPoint": 181,
+    "click_y": 548.0,
+    "click_x": 1150.0,
+    "right": [],
+    "cssStyles": {
+      "background-color": "#ebf2f7",
+      "border-radius": "10px",
+      "width": "206px",
+      "height": "172px"
+    },
+    "elementName": "Rounded-Rectangle-1-_x1047_y462",
+    "contains": [],
+    "styleGuideY": "462px",
+    "top": [
+      "Layer-10-_x0_y49"
+    ],
+    "left": [
+      "Rounded-Rectangle-1-_x813_y462"
+    ],
+    "xMouseClickPoint": 773,
+    "styleGuideX": "1047px",
+    "width": "206px",
+    "text": null,
+    "height": "172px"
+  },
+  "Rounded-Rectangle-1-_x813_y462": {
+    "parent": [
+      "screen"
+    ],
+    "bottom": [
+      "Layer-1-_x203_y771"
+    ],
+    "yMouseClickPoint": 186,
+    "click_y": 548.0,
+    "click_x": 916.0,
+    "right": [
+      "Rounded-Rectangle-1-_x1047_y462"
+    ],
+    "cssStyles": {
+      "background-color": "#ebf2f7",
+      "border-radius": "10px",
+      "width": "206px",
+      "height": "172px"
+    },
+    "elementName": "Rounded-Rectangle-1-_x813_y462",
+    "contains": [],
+    "styleGuideY": "462px",
+    "top": [
+      "Layer-10-_x0_y49"
+    ],
+    "left": [
+      "Rounded-Rectangle-1-_x581_y462"
+    ],
+    "xMouseClickPoint": 709,
+    "styleGuideX": "813px",
+    "width": "206px",
+    "text": null,
+    "height": "172px"
+  },
+  "Rounded-Rectangle-1-_x113_y462": {
+    "parent": [
+      "screen"
+    ],
+    "bottom": [
+      "Rectangle-11-_x116_y731"
+    ],
+    "yMouseClickPoint": 186,
+    "click_y": 548.0,
+    "click_x": 216.0,
+    "right": [
+      "Rounded-Rectangle-1-_x345_y462"
+    ],
+    "cssStyles": {
+      "background-color": "#ebf2f7",
+      "border-radius": "10px",
+      "width": "206px",
+      "height": "172px"
+    },
+    "elementName": "Rounded-Rectangle-1-_x113_y462",
+    "contains": [],
+    "styleGuideY": "462px",
+    "top": [
+      "Layer-10-_x0_y49"
+    ],
+    "left": [],
+    "xMouseClickPoint": 535,
+    "styleGuideX": "113px",
+    "width": "206px",
+    "text": null,
+    "height": "172px"
+  },
+  "Layer-1-_x934_y1127": {
+    "parent": [
+      "screen"
+    ],
+    "bottom": [
+      "a-_x1000.5_y1274.2",
+      "a-_x690.5_y1274.5"
+    ],
+    "yMouseClickPoint": 350,
+    "click_y": 1148.5,
+    "click_x": 1008.5,
+    "right": [],
+    "cssStyles": {
+      "width": "149px",
+      "height": "43px"
+    },
+    "elementName": "Layer-1-_x934_y1127",
+    "contains": [],
+    "styleGuideY": "1127px",
+    "top": [],
+    "left": [],
+    "xMouseClickPoint": 763,
+    "styleGuideX": "934px",
+    "width": "149px",
+    "text": null,
+    "height": "43px"
+  },
+  "Rectangle-12-_x127_y1766": {
+    "parent": [
+      "screen"
+    ],
+    "bottom": [],
+    "yMouseClickPoint": 539,
+    "click_y": 1956.5,
+    "click_x": 682.5,
+    "right": [],
+    "cssStyles": {
+      "background-color": "#ffffff",
+      "box-shadow": "0px 5px 18.1px 2.9px rgba(46, 52, 62, 0.15)",
+      "width": "1111px",
+      "height": "381px"
+    },
+    "elementName": "Rectangle-12-_x127_y1766",
+    "contains": [],
+    "styleGuideY": "1766px",
+    "top": [
+      "a-_x70.9_y1275.8",
+      "a-_x1000.5_y1274.2",
+      "a-_x381.2_y1274.5",
+      "a-_x690.5_y1274.5"
+    ],
+    "left": [],
+    "xMouseClickPoint": 540,
+    "styleGuideX": "127px",
+    "width": "1111px",
+    "text": null,
+    "height": "381px"
+  },
+  "Rounded-Rectangle-1-_x345_y462": {
+    "parent": [
+      "screen"
+    ],
+    "bottom": [
+      "Rectangle-11-_x116_y731"
+    ],
+    "yMouseClickPoint": 193,
+    "click_y": 548.0,
+    "click_x": 448.0,
+    "right": [
+      "Rounded-Rectangle-1-_x581_y462"
+    ],
+    "cssStyles": {
+      "background-color": "#ebf2f7",
+      "border-radius": "10px",
+      "width": "206px",
+      "height": "172px"
+    },
+    "elementName": "Rounded-Rectangle-1-_x345_y462",
+    "contains": [],
+    "styleGuideY": "462px",
+    "top": [
+      "Layer-10-_x0_y49"
+    ],
+    "left": [
+      "Rounded-Rectangle-1-_x113_y462"
+    ],
+    "xMouseClickPoint": 591,
+    "styleGuideX": "345px",
+    "width": "206px",
+    "text": null,
+    "height": "172px"
+  }
+}

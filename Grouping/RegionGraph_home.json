@@ -1,0 +1,1936 @@
+{
+    "-Bayer-AG-This-website-has-been-developed-by-the-HELP-Group-a_x615_y1817": {
+        "bottom": [],
+        "click_x": 988.0,
+        "click_y": 1894.5,
+        "contains": [],
+        "cssStyles": {
+            "color": "#ffffff",
+            "font-family": "OpenSans",
+            "font-size": "14px",
+            "font-stretch": "normal",
+            "font-style": "normal",
+            "font-weight": "300",
+            "height": "155px",
+            "letter-spacing": "normal",
+            "line-height": "2",
+            "text-align": "left",
+            "width": "746px"
+        },
+        "elementName": "-Bayer-AG-This-website-has-been-developed-by-the-HELP-Group-a_x615_y1817",
+        "height": "155px",
+        "left": [
+            "Privacy-Statement-Conditions-of-Use-Imprint-About-Us-Sitemap-Re_x215_y1817"
+        ],
+        "parent": [
+            "Rectangle-4-copy_x0_y1724"
+        ],
+        "right": [],
+        "styleGuideX": "615px",
+        "styleGuideY": "1817px",
+        "text": "@ Bayer AG\rThis website has been developed by the HELP Group, a panel of international physicians and experts with an interest in HMB, supported by Bayer.\r\rApproval number\rLatest update: November 2018",
+        "top": [],
+        "width": "746px",
+        "xMouseClickPoint": 239,
+        "yMouseClickPoint": 194
+    },
+    "About-us_x14_y15": {
+        "bottom": [],
+        "click_x": 43.5,
+        "click_y": 21.0,
+        "contains": [],
+        "cssStyles": {
+            "color": "#ffffff",
+            "font-family": "OpenSans",
+            "font-size": "14px",
+            "font-stretch": "normal",
+            "font-style": "normal",
+            "font-weight": "normal",
+            "height": "12px",
+            "letter-spacing": "normal",
+            "line-height": "normal",
+            "text-align": "left",
+            "width": "59px"
+        },
+        "elementName": "About-us_x14_y15",
+        "height": "12px",
+        "left": [],
+        "parent": [
+            "header-box-copy_x0_y0"
+        ],
+        "right": [
+            "For-Healthcare-Professionals_x103_y15"
+        ],
+        "styleGuideX": "14px",
+        "styleGuideY": "15px",
+        "text": "About us",
+        "top": [],
+        "width": "59px",
+        "xMouseClickPoint": 163,
+        "yMouseClickPoint": 80
+    },
+    "Ellipse-3308-copy-2_x793_y616": {
+        "bottom": [
+            "video_x215_y717"
+        ],
+        "click_x": 800.0,
+        "click_y": 623.0,
+        "contains": [],
+        "cssStyles": {
+            "background-color": "#d04e6e",
+            "border": "solid 2px #d04e6e",
+            "height": "14px",
+            "width": "14px"
+        },
+        "elementName": "Ellipse-3308-copy-2_x793_y616",
+        "height": "14px",
+        "left": [
+            "Ellipse-3308-copy-3_x765_y616"
+        ],
+        "parent": [
+            "ROOT_REF_WINDOW"
+        ],
+        "right": [
+            "Ellipse-3308-copy_x821_y616"
+        ],
+        "styleGuideX": "793px",
+        "styleGuideY": "616px",
+        "text": null,
+        "top": [],
+        "width": "14px",
+        "xMouseClickPoint": 555,
+        "yMouseClickPoint": 488
+    },
+    "Ellipse-3308-copy-3_x765_y616": {
+        "bottom": [
+            "video_x215_y717"
+        ],
+        "click_x": 772.0,
+        "click_y": 623.0,
+        "contains": [],
+        "cssStyles": {
+            "background-color": "#d04e6e",
+            "border": "solid 2px #d04e6e",
+            "height": "14px",
+            "width": "14px"
+        },
+        "elementName": "Ellipse-3308-copy-3_x765_y616",
+        "height": "14px",
+        "left": [],
+        "parent": [
+            "ROOT_REF_WINDOW"
+        ],
+        "right": [
+            "Ellipse-3308-copy-2_x793_y616"
+        ],
+        "styleGuideX": "765px",
+        "styleGuideY": "616px",
+        "text": null,
+        "top": [],
+        "width": "14px",
+        "xMouseClickPoint": 535,
+        "yMouseClickPoint": 488
+    },
+    "Ellipse-3308-copy_x821_y616": {
+        "bottom": [
+            "video_x215_y717"
+        ],
+        "click_x": 828.0,
+        "click_y": 623.0,
+        "contains": [],
+        "cssStyles": {
+            "background-image": "linear-gradient(to right, var(--dark-pink), var(--dark-peach))",
+            "height": "14px",
+            "width": "14px"
+        },
+        "elementName": "Ellipse-3308-copy_x821_y616",
+        "height": "14px",
+        "left": [
+            "Ellipse-3308-copy-2_x793_y616"
+        ],
+        "parent": [
+            "ROOT_REF_WINDOW"
+        ],
+        "right": [],
+        "styleGuideX": "821px",
+        "styleGuideY": "616px",
+        "text": null,
+        "top": [],
+        "width": "14px",
+        "xMouseClickPoint": 584,
+        "yMouseClickPoint": 488
+    },
+    "For-Healthcare-Professionals_x103_y15": {
+        "bottom": [],
+        "click_x": 195.0,
+        "click_y": 21.0,
+        "contains": [],
+        "cssStyles": {
+            "color": "#ffffff",
+            "font-family": "OpenSans",
+            "font-size": "14px",
+            "font-stretch": "normal",
+            "font-style": "normal",
+            "font-weight": "normal",
+            "height": "12px",
+            "letter-spacing": "normal",
+            "line-height": "normal",
+            "text-align": "left",
+            "width": "184px"
+        },
+        "elementName": "For-Healthcare-Professionals_x103_y15",
+        "height": "12px",
+        "left": [
+            "About-us_x14_y15"
+        ],
+        "parent": [
+            "header-box-copy_x0_y0"
+        ],
+        "right": [
+            "Select-your-country_x1435_y15"
+        ],
+        "styleGuideX": "103px",
+        "styleGuideY": "15px",
+        "text": "For Healthcare Professionals",
+        "top": [],
+        "width": "184px",
+        "xMouseClickPoint": 314,
+        "yMouseClickPoint": 80
+    },
+    "Frequently-Asked-Questions_x1154_y1504": {
+        "bottom": [
+            "line_x1208_y1568"
+        ],
+        "click_x": 1245.5,
+        "click_y": 1528.0,
+        "contains": [
+            "link-arrow_x1311_y1534"
+        ],
+        "cssStyles": {
+            "color": "var(--rose)",
+            "font-family": "OpenSans",
+            "font-size": "20px",
+            "font-stretch": "normal",
+            "font-style": "normal",
+            "font-weight": "bold",
+            "height": "48px",
+            "letter-spacing": "0.8px",
+            "line-height": "1.4",
+            "text-align": "center",
+            "width": "183px"
+        },
+        "elementName": "Frequently-Asked-Questions_x1154_y1504",
+        "height": "48px",
+        "left": [
+            "Prepare-for-your-doctor-visit_x851_y1504"
+        ],
+        "parent": [
+            "Rectangle-4_x0_y1301"
+        ],
+        "right": [],
+        "styleGuideX": "1154px",
+        "styleGuideY": "1504px",
+        "text": "Frequently Asked\rQuestions",
+        "top": [
+            "Layer-1_x1199_y1395"
+        ],
+        "width": "183px",
+        "xMouseClickPoint": 178,
+        "yMouseClickPoint": 204
+    },
+    "Improve-your-Life_x545_y1504": {
+        "bottom": [
+            "line_x608_y1568"
+        ],
+        "click_x": 638.0,
+        "click_y": 1514.5,
+        "contains": [],
+        "cssStyles": {
+            "color": "var(--rose)",
+            "font-family": "OpenSans",
+            "font-size": "20px",
+            "font-stretch": "normal",
+            "font-style": "normal",
+            "font-weight": "bold",
+            "height": "21px",
+            "letter-spacing": "0.8px",
+            "line-height": "3.5",
+            "text-align": "center",
+            "width": "186px"
+        },
+        "elementName": "Improve-your-Life_x545_y1504",
+        "height": "21px",
+        "left": [
+            "Layer-1_x471_y1505"
+        ],
+        "parent": [
+            "Rectangle-4_x0_y1301"
+        ],
+        "right": [
+            "Layer-1_x744_y1505"
+        ],
+        "styleGuideX": "545px",
+        "styleGuideY": "1504px",
+        "text": "Improve your Life",
+        "top": [
+            "icon-improve-your-life_x599_y1395"
+        ],
+        "width": "186px",
+        "xMouseClickPoint": 165,
+        "yMouseClickPoint": 206
+    },
+    "Layer-1_x116_y138": {
+        "bottom": [
+            "Rectangle-2_x115_y479"
+        ],
+        "click_x": 351.0,
+        "click_y": 169.0,
+        "contains": [],
+        "cssStyles": {
+            "height": "62px",
+            "width": "470px"
+        },
+        "elementName": "Layer-1_x116_y138",
+        "height": "62px",
+        "left": [],
+        "parent": [
+            "Rectangle-5_x0_y88"
+        ],
+        "right": [],
+        "styleGuideX": "116px",
+        "styleGuideY": "138px",
+        "text": null,
+        "top": [],
+        "width": "470px",
+        "xMouseClickPoint": 287,
+        "yMouseClickPoint": 229
+    },
+    "Layer-1_x1199_y1395": {
+        "bottom": [
+            "Frequently-Asked-Questions_x1154_y1504"
+        ],
+        "click_x": 1250.5,
+        "click_y": 1435.0,
+        "contains": [],
+        "cssStyles": {
+            "height": "80px",
+            "width": "103px"
+        },
+        "elementName": "Layer-1_x1199_y1395",
+        "height": "80px",
+        "left": [
+            "icon-doctor-visit_x899_y1395"
+        ],
+        "parent": [
+            "Rectangle-4_x0_y1301"
+        ],
+        "right": [],
+        "styleGuideX": "1199px",
+        "styleGuideY": "1395px",
+        "text": null,
+        "top": [],
+        "width": "103px",
+        "xMouseClickPoint": 1264,
+        "yMouseClickPoint": 304
+    },
+    "Layer-1_x1436_y124": {
+        "bottom": [],
+        "click_x": 1518.0,
+        "click_y": 169.0,
+        "contains": [],
+        "cssStyles": {
+            "height": "90px",
+            "width": "164px"
+        },
+        "elementName": "Layer-1_x1436_y124",
+        "height": "90px",
+        "left": [
+            "Rectangle-5_x0_y88"
+        ],
+        "parent": [
+            "header-image_x0_y88"
+        ],
+        "right": [],
+        "styleGuideX": "1436px",
+        "styleGuideY": "124px",
+        "text": null,
+        "top": [],
+        "width": "164px",
+        "xMouseClickPoint": 463,
+        "yMouseClickPoint": 228
+    },
+    "Layer-1_x1540_y1655": {
+        "bottom": [],
+        "click_x": 1555.5,
+        "click_y": 1663.5,
+        "contains": [],
+        "cssStyles": {
+            "height": "17px",
+            "width": "31px"
+        },
+        "elementName": "Layer-1_x1540_y1655",
+        "height": "17px",
+        "left": [],
+        "parent": [
+            "Vector-Smart-Object_x1525_y1634"
+        ],
+        "right": [],
+        "styleGuideX": "1540px",
+        "styleGuideY": "1655px",
+        "text": null,
+        "top": [],
+        "width": "31px",
+        "xMouseClickPoint": 1196,
+        "yMouseClickPoint": 524
+    },
+    "Layer-1_x1571_y19": {
+        "bottom": [],
+        "click_x": 1578.0,
+        "click_y": 23.0,
+        "contains": [],
+        "cssStyles": {
+            "height": "8px",
+            "width": "14px"
+        },
+        "elementName": "Layer-1_x1571_y19",
+        "height": "8px",
+        "left": [
+            "Select-your-country_x1435_y15"
+        ],
+        "parent": [
+            "header-box-copy_x0_y0"
+        ],
+        "right": [],
+        "styleGuideX": "1571px",
+        "styleGuideY": "19px",
+        "text": null,
+        "top": [],
+        "width": "14px",
+        "xMouseClickPoint": 1212,
+        "yMouseClickPoint": 83
+    },
+    "Layer-1_x15_y59": {
+        "bottom": [],
+        "click_x": 25.0,
+        "click_y": 66.5,
+        "contains": [],
+        "cssStyles": {
+            "height": "15px",
+            "width": "20px"
+        },
+        "elementName": "Layer-1_x15_y59",
+        "height": "15px",
+        "left": [],
+        "parent": [
+            "header-box_x0_y44"
+        ],
+        "right": [
+            "Rectangle-3468_x1285_y54"
+        ],
+        "styleGuideX": "15px",
+        "styleGuideY": "59px",
+        "text": null,
+        "top": [],
+        "width": "20px",
+        "xMouseClickPoint": 140,
+        "yMouseClickPoint": 128
+    },
+    "Layer-1_x471_y1505": {
+        "bottom": [
+            "Lorem-ipsum-dolor-sit-amet-consectetuer-adipiscing-elit-sed-d_x221_y1600"
+        ],
+        "click_x": 476.0,
+        "click_y": 1513.5,
+        "contains": [],
+        "cssStyles": {
+            "height": "17px",
+            "width": "10px"
+        },
+        "elementName": "Layer-1_x471_y1505",
+        "height": "17px",
+        "left": [
+            "Talk-about-your-Period_x218_y1504"
+        ],
+        "parent": [
+            "Rectangle-4_x0_y1301"
+        ],
+        "right": [
+            "Improve-your-Life_x545_y1504"
+        ],
+        "styleGuideX": "471px",
+        "styleGuideY": "1505px",
+        "text": null,
+        "top": [],
+        "width": "10px",
+        "xMouseClickPoint": 495,
+        "yMouseClickPoint": 373
+    },
+    "Layer-1_x744_y1505": {
+        "bottom": [
+            "Lorem-ipsum-dolor-sit-amet-consectetuer-adipiscing-elit-sed-d_x520_y1600"
+        ],
+        "click_x": 749.0,
+        "click_y": 1513.5,
+        "contains": [],
+        "cssStyles": {
+            "height": "17px",
+            "width": "10px"
+        },
+        "elementName": "Layer-1_x744_y1505",
+        "height": "17px",
+        "left": [
+            "Improve-your-Life_x545_y1504"
+        ],
+        "parent": [
+            "Rectangle-4_x0_y1301"
+        ],
+        "right": [
+            "Prepare-for-your-doctor-visit_x851_y1504"
+        ],
+        "styleGuideX": "744px",
+        "styleGuideY": "1505px",
+        "text": null,
+        "top": [],
+        "width": "10px",
+        "xMouseClickPoint": 765,
+        "yMouseClickPoint": 376
+    },
+    "Learn-about-HMB_x146_y494": {
+        "bottom": [],
+        "click_x": 237.0,
+        "click_y": 502.5,
+        "contains": [],
+        "cssStyles": {
+            "color": "#ffffff",
+            "font-family": "OpenSans",
+            "font-size": "20px",
+            "font-stretch": "normal",
+            "font-style": "normal",
+            "font-weight": "bold",
+            "height": "17px",
+            "letter-spacing": "0.8px",
+            "line-height": "3.5",
+            "text-align": "left",
+            "width": "182px"
+        },
+        "elementName": "Learn-about-HMB_x146_y494",
+        "height": "17px",
+        "left": [],
+        "parent": [
+            "Rectangle-2_x115_y479"
+        ],
+        "right": [],
+        "styleGuideX": "146px",
+        "styleGuideY": "494px",
+        "text": "Learn about HMB",
+        "top": [],
+        "width": "182px",
+        "xMouseClickPoint": 357,
+        "yMouseClickPoint": 106
+    },
+    "Lets-chat-heavy-periods_x1117_y717": {
+        "bottom": [
+            "line-copy_x1115_y799"
+        ],
+        "click_x": 1228.5,
+        "click_y": 752.0,
+        "contains": [],
+        "cssStyles": {
+            "color": "var(--grape)",
+            "font-family": "OpenSans",
+            "font-size": "32px",
+            "font-stretch": "normal",
+            "font-style": "normal",
+            "font-weight": "300",
+            "height": "70px",
+            "letter-spacing": "normal",
+            "line-height": "1.16",
+            "text-align": "left",
+            "width": "223px"
+        },
+        "elementName": "Lets-chat-heavy-periods_x1117_y717",
+        "height": "70px",
+        "left": [
+            "video_x215_y717"
+        ],
+        "parent": [
+            "ROOT_REF_WINDOW"
+        ],
+        "right": [],
+        "styleGuideX": "1117px",
+        "styleGuideY": "717px",
+        "text": "Let\u2019s chat heavy periods",
+        "top": [
+            "header-image_x0_y88"
+        ],
+        "width": "223px",
+        "xMouseClickPoint": 101,
+        "yMouseClickPoint": 373
+    },
+    "Lorem-ipsum-dolor-sit-amet-consectetuer-adipiscing-elit-sed-d_x1120_y1600": {
+        "bottom": [],
+        "click_x": 1250.0,
+        "click_y": 1617.0,
+        "contains": [],
+        "cssStyles": {
+            "color": "var(--greyish-brown-two)",
+            "font-family": "OpenSans",
+            "font-size": "14px",
+            "font-stretch": "normal",
+            "font-style": "normal",
+            "font-weight": "300",
+            "height": "34px",
+            "letter-spacing": "normal",
+            "line-height": "1.36",
+            "text-align": "center",
+            "width": "260px"
+        },
+        "elementName": "Lorem-ipsum-dolor-sit-amet-consectetuer-adipiscing-elit-sed-d_x1120_y1600",
+        "height": "34px",
+        "left": [
+            "Lorem-ipsum-dolor-sit-amet-consectetuer-adipiscing-elit-sed-d_x820_y1600"
+        ],
+        "parent": [
+            "Rectangle-4_x0_y1301"
+        ],
+        "right": [],
+        "styleGuideX": "1120px",
+        "styleGuideY": "1600px",
+        "text": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy",
+        "top": [
+            "line_x1208_y1568"
+        ],
+        "width": "260px",
+        "xMouseClickPoint": 173,
+        "yMouseClickPoint": 304
+    },
+    "Lorem-ipsum-dolor-sit-amet-consectetuer-adipiscing-elit-sed-d_x221_y1600": {
+        "bottom": [],
+        "click_x": 351.0,
+        "click_y": 1617.0,
+        "contains": [],
+        "cssStyles": {
+            "color": "var(--greyish-brown-two)",
+            "font-family": "OpenSans",
+            "font-size": "14px",
+            "font-stretch": "normal",
+            "font-style": "normal",
+            "font-weight": "300",
+            "height": "34px",
+            "letter-spacing": "normal",
+            "line-height": "1.36",
+            "text-align": "center",
+            "width": "260px"
+        },
+        "elementName": "Lorem-ipsum-dolor-sit-amet-consectetuer-adipiscing-elit-sed-d_x221_y1600",
+        "height": "34px",
+        "left": [],
+        "parent": [
+            "Rectangle-4_x0_y1301"
+        ],
+        "right": [
+            "Lorem-ipsum-dolor-sit-amet-consectetuer-adipiscing-elit-sed-d_x520_y1600"
+        ],
+        "styleGuideX": "221px",
+        "styleGuideY": "1600px",
+        "text": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy",
+        "top": [
+            "line_x308_y1568",
+            "Layer-1_x471_y1505"
+        ],
+        "width": "260px",
+        "xMouseClickPoint": 468,
+        "yMouseClickPoint": 304
+    },
+    "Lorem-ipsum-dolor-sit-amet-consectetuer-adipiscing-elit-sed-d_x520_y1600": {
+        "bottom": [],
+        "click_x": 650.0,
+        "click_y": 1617.0,
+        "contains": [],
+        "cssStyles": {
+            "color": "var(--greyish-brown-two)",
+            "font-family": "OpenSans",
+            "font-size": "14px",
+            "font-stretch": "normal",
+            "font-style": "normal",
+            "font-weight": "300",
+            "height": "34px",
+            "letter-spacing": "normal",
+            "line-height": "1.36",
+            "text-align": "center",
+            "width": "260px"
+        },
+        "elementName": "Lorem-ipsum-dolor-sit-amet-consectetuer-adipiscing-elit-sed-d_x520_y1600",
+        "height": "34px",
+        "left": [
+            "Lorem-ipsum-dolor-sit-amet-consectetuer-adipiscing-elit-sed-d_x221_y1600"
+        ],
+        "parent": [
+            "Rectangle-4_x0_y1301"
+        ],
+        "right": [
+            "Lorem-ipsum-dolor-sit-amet-consectetuer-adipiscing-elit-sed-d_x820_y1600"
+        ],
+        "styleGuideX": "520px",
+        "styleGuideY": "1600px",
+        "text": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy",
+        "top": [
+            "Layer-1_x744_y1505",
+            "line_x608_y1568"
+        ],
+        "width": "260px",
+        "xMouseClickPoint": 166,
+        "yMouseClickPoint": 304
+    },
+    "Lorem-ipsum-dolor-sit-amet-consectetuer-adipiscing-elit-sed-d_x820_y1600": {
+        "bottom": [],
+        "click_x": 950.0,
+        "click_y": 1617.0,
+        "contains": [],
+        "cssStyles": {
+            "color": "var(--greyish-brown-two)",
+            "font-family": "OpenSans",
+            "font-size": "14px",
+            "font-stretch": "normal",
+            "font-style": "normal",
+            "font-weight": "300",
+            "height": "34px",
+            "letter-spacing": "normal",
+            "line-height": "1.36",
+            "text-align": "center",
+            "width": "260px"
+        },
+        "elementName": "Lorem-ipsum-dolor-sit-amet-consectetuer-adipiscing-elit-sed-d_x820_y1600",
+        "height": "34px",
+        "left": [
+            "Lorem-ipsum-dolor-sit-amet-consectetuer-adipiscing-elit-sed-d_x520_y1600"
+        ],
+        "parent": [
+            "Rectangle-4_x0_y1301"
+        ],
+        "right": [
+            "Lorem-ipsum-dolor-sit-amet-consectetuer-adipiscing-elit-sed-d_x1120_y1600"
+        ],
+        "styleGuideX": "820px",
+        "styleGuideY": "1600px",
+        "text": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy",
+        "top": [
+            "link-arrow_x1011_y1534",
+            "line_x908_y1568"
+        ],
+        "width": "260px",
+        "xMouseClickPoint": 469,
+        "yMouseClickPoint": 304
+    },
+    "Lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-Aenean_x1116_y832": {
+        "bottom": [
+            "Try-our-HMB-impact-assessment_x1129_y1108"
+        ],
+        "click_x": 1247.5,
+        "click_y": 948.5,
+        "contains": [],
+        "cssStyles": {
+            "color": "var(--rose)",
+            "font-family": "OpenSans",
+            "font-size": "22px",
+            "font-stretch": "normal",
+            "font-style": "normal",
+            "font-weight": "bold",
+            "height": "233px",
+            "letter-spacing": "normal",
+            "line-height": "1.59",
+            "text-align": "left",
+            "width": "263px"
+        },
+        "elementName": "Lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-Aenean_x1116_y832",
+        "height": "233px",
+        "left": [
+            "video_x215_y717"
+        ],
+        "parent": [
+            "ROOT_REF_WINDOW"
+        ],
+        "right": [],
+        "styleGuideX": "1116px",
+        "styleGuideY": "832px",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean euismod bibendumi laoreet. Proin gravida dolor sit amet lacus.  Cum sociis natoque penatibus mus.",
+        "top": [
+            "line-copy_x1115_y799"
+        ],
+        "width": "263px",
+        "xMouseClickPoint": 155,
+        "yMouseClickPoint": 76
+    },
+    "Play-video_x627_y1132": {
+        "bottom": [],
+        "click_x": 669.5,
+        "click_y": 1140.5,
+        "contains": [],
+        "cssStyles": {
+            "color": "#ffffff",
+            "font-family": "OpenSans",
+            "font-size": "16px",
+            "font-stretch": "normal",
+            "font-style": "normal",
+            "font-weight": "bold",
+            "height": "17px",
+            "letter-spacing": "0.6px",
+            "line-height": "4.38",
+            "text-align": "left",
+            "width": "85px"
+        },
+        "elementName": "Play-video_x627_y1132",
+        "height": "17px",
+        "left": [
+            "icon-play_x587_y1130"
+        ],
+        "parent": [
+            "Rectangle-3_x557_y1115"
+        ],
+        "right": [],
+        "styleGuideX": "627px",
+        "styleGuideY": "1132px",
+        "text": "Play video",
+        "top": [],
+        "width": "85px",
+        "xMouseClickPoint": 197,
+        "yMouseClickPoint": 286
+    },
+    "Prepare-for-your-doctor-visit_x851_y1504": {
+        "bottom": [
+            "line_x908_y1568"
+        ],
+        "click_x": 938.0,
+        "click_y": 1526.5,
+        "contains": [],
+        "cssStyles": {
+            "color": "var(--rose)",
+            "font-family": "OpenSans",
+            "font-size": "20px",
+            "font-stretch": "normal",
+            "font-style": "normal",
+            "font-weight": "bold",
+            "height": "45px",
+            "letter-spacing": "0.8px",
+            "line-height": "1.4",
+            "text-align": "center",
+            "width": "174px"
+        },
+        "elementName": "Prepare-for-your-doctor-visit_x851_y1504",
+        "height": "45px",
+        "left": [
+            "Layer-1_x744_y1505"
+        ],
+        "parent": [
+            "Rectangle-4_x0_y1301"
+        ],
+        "right": [
+            "Frequently-Asked-Questions_x1154_y1504"
+        ],
+        "styleGuideX": "851px",
+        "styleGuideY": "1504px",
+        "text": "Prepare for your\rdoctor visit",
+        "top": [
+            "icon-doctor-visit_x899_y1395"
+        ],
+        "width": "174px",
+        "xMouseClickPoint": 467,
+        "yMouseClickPoint": 205
+    },
+    "Privacy-Statement-Conditions-of-Use-Imprint-About-Us-Sitemap-Re_x215_y1817": {
+        "bottom": [],
+        "click_x": 276.5,
+        "click_y": 1894.5,
+        "contains": [],
+        "cssStyles": {
+            "color": "#ffffff",
+            "font-family": "OpenSans",
+            "font-size": "14px",
+            "font-stretch": "normal",
+            "font-style": "normal",
+            "font-weight": "300",
+            "height": "155px",
+            "letter-spacing": "normal",
+            "line-height": "2",
+            "text-align": "left",
+            "width": "123px"
+        },
+        "elementName": "Privacy-Statement-Conditions-of-Use-Imprint-About-Us-Sitemap-Re_x215_y1817",
+        "height": "155px",
+        "left": [],
+        "parent": [
+            "Rectangle-4-copy_x0_y1724"
+        ],
+        "right": [
+            "-Bayer-AG-This-website-has-been-developed-by-the-HELP-Group-a_x615_y1817"
+        ],
+        "styleGuideX": "215px",
+        "styleGuideY": "1817px",
+        "text": "Privacy Statement\rConditions of Use\rImprint\rAbout Us\rSitemap\rReport a Side Effect",
+        "top": [],
+        "width": "123px",
+        "xMouseClickPoint": 410,
+        "yMouseClickPoint": 280
+    },
+    "ROOT_REF_WINDOW": {
+        "bottom": [],
+        "click_x": 49999.5,
+        "click_y": 49999.5,
+        "contains": [
+            "header-box-copy_x0_y0",
+            "Rectangle-4_x0_y1301",
+            "line-copy_x1115_y799",
+            "header-image_x0_y88",
+            "Lets-chat-heavy-periods_x1117_y717",
+            "Ellipse-3308-copy-2_x793_y616",
+            "video_x215_y717",
+            "Rectangle-4-copy_x0_y1724",
+            "header-box_x0_y44",
+            "Ellipse-3308-copy_x821_y616",
+            "Rectangle-3-copy-2_x1115_y1157",
+            "Lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-Aenean_x1116_y832",
+            "Ellipse-3308-copy-3_x765_y616",
+            "Try-our-HMB-impact-assessment_x1129_y1108"
+        ],
+        "elementName": null,
+        "height": 99999,
+        "left": [],
+        "parent": [],
+        "right": [],
+        "styleGuideX": 0,
+        "styleGuideY": 0,
+        "top": [],
+        "width": 99999
+    },
+    "Rectangle-2_x115_y479": {
+        "bottom": [],
+        "click_x": 236.5,
+        "click_y": 504.0,
+        "contains": [
+            "Learn-about-HMB_x146_y494"
+        ],
+        "cssStyles": {
+            "background-image": "linear-gradient(to right, var(--dark-pink), var(--dark-peach))",
+            "border-radius": "25px",
+            "height": "50px",
+            "width": "243px"
+        },
+        "elementName": "Rectangle-2_x115_y479",
+        "height": "50px",
+        "left": [],
+        "parent": [
+            "Rectangle-5_x0_y88"
+        ],
+        "right": [],
+        "styleGuideX": "115px",
+        "styleGuideY": "479px",
+        "text": null,
+        "top": [
+            "Layer-1_x116_y138"
+        ],
+        "width": "243px",
+        "xMouseClickPoint": 344,
+        "yMouseClickPoint": 386
+    },
+    "Rectangle-3-copy-2_x1115_y1157": {
+        "bottom": [
+            "Rectangle-4_x0_y1301"
+        ],
+        "click_x": 1249.5,
+        "click_y": 1182.0,
+        "contains": [
+            "Visit_x1229_y1174"
+        ],
+        "cssStyles": {
+            "background-image": "linear-gradient(to right, var(--dark-pink), var(--dark-peach))",
+            "border-radius": "25px",
+            "height": "50px",
+            "width": "269px"
+        },
+        "elementName": "Rectangle-3-copy-2_x1115_y1157",
+        "height": "50px",
+        "left": [
+            "video_x215_y717"
+        ],
+        "parent": [
+            "ROOT_REF_WINDOW"
+        ],
+        "right": [],
+        "styleGuideX": "1115px",
+        "styleGuideY": "1157px",
+        "text": null,
+        "top": [
+            "Try-our-HMB-impact-assessment_x1129_y1108"
+        ],
+        "width": "269px",
+        "xMouseClickPoint": 801,
+        "yMouseClickPoint": 463
+    },
+    "Rectangle-3468_x1285_y54": {
+        "bottom": [],
+        "click_x": 1385.0,
+        "click_y": 66.5,
+        "contains": [
+            "element_x1456_y60",
+            "Search_x1300_y61"
+        ],
+        "cssStyles": {
+            "background-color": "var(--blush)",
+            "border": "solid 1px var(--blush)",
+            "height": "25px",
+            "width": "200px"
+        },
+        "elementName": "Rectangle-3468_x1285_y54",
+        "height": "25px",
+        "left": [
+            "Layer-1_x15_y59"
+        ],
+        "parent": [
+            "header-box_x0_y44"
+        ],
+        "right": [
+            "icon-share_x1515_y56"
+        ],
+        "styleGuideX": "1285px",
+        "styleGuideY": "54px",
+        "text": null,
+        "top": [],
+        "width": "200px",
+        "xMouseClickPoint": 1131,
+        "yMouseClickPoint": 135
+    },
+    "Rectangle-3_x557_y1115": {
+        "bottom": [],
+        "click_x": 649.5,
+        "click_y": 1140.0,
+        "contains": [
+            "Play-video_x627_y1132",
+            "icon-play_x587_y1130"
+        ],
+        "cssStyles": {
+            "background-image": "linear-gradient(to right, var(--dark-pink), var(--dark-peach))",
+            "border-radius": "25px",
+            "height": "50px",
+            "width": "185px"
+        },
+        "elementName": "Rectangle-3_x557_y1115",
+        "height": "50px",
+        "left": [],
+        "parent": [
+            "video_x215_y717"
+        ],
+        "right": [],
+        "styleGuideX": "557px",
+        "styleGuideY": "1115px",
+        "text": null,
+        "top": [],
+        "width": "185px",
+        "xMouseClickPoint": 485,
+        "yMouseClickPoint": 518
+    },
+    "Rectangle-4-copy_x0_y1724": {
+        "bottom": [],
+        "click_x": 800.0,
+        "click_y": 1893.0,
+        "contains": [
+            "Privacy-Statement-Conditions-of-Use-Imprint-About-Us-Sitemap-Re_x215_y1817",
+            "-Bayer-AG-This-website-has-been-developed-by-the-HELP-Group-a_x615_y1817"
+        ],
+        "cssStyles": {
+            "background-color": "var(--cool-grey)",
+            "height": "338px",
+            "width": "1600px"
+        },
+        "elementName": "Rectangle-4-copy_x0_y1724",
+        "height": "338px",
+        "left": [],
+        "parent": [
+            "ROOT_REF_WINDOW"
+        ],
+        "right": [],
+        "styleGuideX": "0px",
+        "styleGuideY": "1724px",
+        "text": null,
+        "top": [],
+        "width": "1600px",
+        "xMouseClickPoint": 395,
+        "yMouseClickPoint": 124
+    },
+    "Rectangle-4_x0_y1301": {
+        "bottom": [],
+        "click_x": 800.0,
+        "click_y": 1512.5,
+        "contains": [
+            "Lorem-ipsum-dolor-sit-amet-consectetuer-adipiscing-elit-sed-d_x820_y1600",
+            "line_x308_y1568",
+            "Improve-your-Life_x545_y1504",
+            "Lorem-ipsum-dolor-sit-amet-consectetuer-adipiscing-elit-sed-d_x1120_y1600",
+            "icon-improve-your-life_x599_y1395",
+            "Layer-1_x744_y1505",
+            "Talk-about-your-Period_x218_y1504",
+            "Frequently-Asked-Questions_x1154_y1504",
+            "icon-doctor-visit_x899_y1395",
+            "Prepare-for-your-doctor-visit_x851_y1504",
+            "line_x908_y1568",
+            "line_x1208_y1568",
+            "Lorem-ipsum-dolor-sit-amet-consectetuer-adipiscing-elit-sed-d_x221_y1600",
+            "Vector-Smart-Object_x1525_y1634",
+            "Layer-1_x1199_y1395",
+            "line_x608_y1568",
+            "icon-lets-talk-about-your-period_x299_y1395",
+            "link-arrow_x1011_y1534",
+            "Lorem-ipsum-dolor-sit-amet-consectetuer-adipiscing-elit-sed-d_x520_y1600",
+            "Layer-1_x471_y1505"
+        ],
+        "cssStyles": {
+            "background-color": "var(--pale-grey-two)",
+            "height": "423px",
+            "width": "1600px"
+        },
+        "elementName": "Rectangle-4_x0_y1301",
+        "height": "423px",
+        "left": [],
+        "parent": [
+            "ROOT_REF_WINDOW"
+        ],
+        "right": [],
+        "styleGuideX": "0px",
+        "styleGuideY": "1301px",
+        "text": null,
+        "top": [
+            "video_x215_y717",
+            "Rectangle-3-copy-2_x1115_y1157"
+        ],
+        "width": "1600px",
+        "xMouseClickPoint": 609,
+        "yMouseClickPoint": 369
+    },
+    "Rectangle-5_x0_y88": {
+        "bottom": [],
+        "click_x": 324.0,
+        "click_y": 355.5,
+        "contains": [
+            "Rectangle-2_x115_y479",
+            "Layer-1_x116_y138"
+        ],
+        "cssStyles": {
+            "background-image": "linear-gradient(to right, rgba(250, 248, 251, 0.76) 65%, rgba(255, 255, 255, 0.1) 96%)",
+            "height": "535px",
+            "width": "648px"
+        },
+        "elementName": "Rectangle-5_x0_y88",
+        "height": "535px",
+        "left": [],
+        "parent": [
+            "header-image_x0_y88"
+        ],
+        "right": [
+            "Layer-1_x1436_y124"
+        ],
+        "styleGuideX": "0px",
+        "styleGuideY": "88px",
+        "text": null,
+        "top": [],
+        "width": "648px",
+        "xMouseClickPoint": 236,
+        "yMouseClickPoint": 148
+    },
+    "Search_x1300_y61": {
+        "bottom": [],
+        "click_x": 1318.5,
+        "click_y": 65.5,
+        "contains": [],
+        "cssStyles": {
+            "color": "#ffffff",
+            "font-family": "OpenSans",
+            "font-size": "12px",
+            "font-stretch": "normal",
+            "font-style": "normal",
+            "font-weight": "normal",
+            "height": "9px",
+            "letter-spacing": "normal",
+            "line-height": "normal",
+            "text-align": "left",
+            "width": "37px"
+        },
+        "elementName": "Search_x1300_y61",
+        "height": "9px",
+        "left": [],
+        "parent": [
+            "Rectangle-3468_x1285_y54"
+        ],
+        "right": [
+            "element_x1456_y60"
+        ],
+        "styleGuideX": "1300px",
+        "styleGuideY": "61px",
+        "text": "Search",
+        "top": [],
+        "width": "37px",
+        "xMouseClickPoint": 247,
+        "yMouseClickPoint": 125
+    },
+    "Select-your-country_x1435_y15": {
+        "bottom": [],
+        "click_x": 1498.0,
+        "click_y": 22.5,
+        "contains": [],
+        "cssStyles": {
+            "color": "#ffffff",
+            "font-family": "OpenSans",
+            "font-size": "14px",
+            "font-stretch": "normal",
+            "font-style": "normal",
+            "font-weight": "normal",
+            "height": "15px",
+            "letter-spacing": "normal",
+            "line-height": "normal",
+            "text-align": "right",
+            "width": "126px"
+        },
+        "elementName": "Select-your-country_x1435_y15",
+        "height": "15px",
+        "left": [
+            "For-Healthcare-Professionals_x103_y15"
+        ],
+        "parent": [
+            "header-box-copy_x0_y0"
+        ],
+        "right": [
+            "Layer-1_x1571_y19"
+        ],
+        "styleGuideX": "1435px",
+        "styleGuideY": "15px",
+        "text": "Select your country",
+        "top": [],
+        "width": "126px",
+        "xMouseClickPoint": 426,
+        "yMouseClickPoint": 80
+    },
+    "Share_x1549_y59": {
+        "bottom": [],
+        "click_x": 1567.0,
+        "click_y": 65.0,
+        "contains": [],
+        "cssStyles": {
+            "color": "#ffffff",
+            "font-family": "OpenSans",
+            "font-size": "14px",
+            "font-stretch": "normal",
+            "font-style": "normal",
+            "font-weight": "normal",
+            "height": "12px",
+            "letter-spacing": "normal",
+            "line-height": "normal",
+            "text-align": "right",
+            "width": "36px"
+        },
+        "elementName": "Share_x1549_y59",
+        "height": "12px",
+        "left": [
+            "icon-share_x1515_y56"
+        ],
+        "parent": [
+            "header-box_x0_y44"
+        ],
+        "right": [],
+        "styleGuideX": "1549px",
+        "styleGuideY": "59px",
+        "text": "Share",
+        "top": [],
+        "width": "36px",
+        "xMouseClickPoint": 497,
+        "yMouseClickPoint": 123
+    },
+    "Talk-about-your-Period_x218_y1504": {
+        "bottom": [
+            "line_x308_y1568"
+        ],
+        "click_x": 338.0,
+        "click_y": 1514.5,
+        "contains": [],
+        "cssStyles": {
+            "color": "var(--rose)",
+            "font-family": "OpenSans",
+            "font-size": "20px",
+            "font-stretch": "normal",
+            "font-style": "normal",
+            "font-weight": "bold",
+            "height": "21px",
+            "letter-spacing": "0.8px",
+            "line-height": "3.5",
+            "text-align": "center",
+            "width": "240px"
+        },
+        "elementName": "Talk-about-your-Period_x218_y1504",
+        "height": "21px",
+        "left": [],
+        "parent": [
+            "Rectangle-4_x0_y1301"
+        ],
+        "right": [
+            "Layer-1_x471_y1505"
+        ],
+        "styleGuideX": "218px",
+        "styleGuideY": "1504px",
+        "text": "Talk about your Period",
+        "top": [
+            "icon-lets-talk-about-your-period_x299_y1395"
+        ],
+        "width": "240px",
+        "xMouseClickPoint": 462,
+        "yMouseClickPoint": 206
+    },
+    "Try-our-HMB-impact-assessment_x1129_y1108": {
+        "bottom": [
+            "Rectangle-3-copy-2_x1115_y1157"
+        ],
+        "click_x": 1201.0,
+        "click_y": 1123.0,
+        "contains": [],
+        "cssStyles": {
+            "color": "var(--grape)",
+            "font-family": "OpenSans",
+            "font-size": "14px",
+            "font-stretch": "normal",
+            "font-style": "normal",
+            "font-weight": "600",
+            "height": "30px",
+            "letter-spacing": "0.6px",
+            "line-height": "1.29",
+            "text-align": "left",
+            "width": "144px"
+        },
+        "elementName": "Try-our-HMB-impact-assessment_x1129_y1108",
+        "height": "30px",
+        "left": [
+            "video_x215_y717"
+        ],
+        "parent": [
+            "ROOT_REF_WINDOW"
+        ],
+        "right": [],
+        "styleGuideX": "1129px",
+        "styleGuideY": "1108px",
+        "text": "Try our HMB impact assessment:",
+        "top": [
+            "Lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-Aenean_x1116_y832"
+        ],
+        "width": "144px",
+        "xMouseClickPoint": 141,
+        "yMouseClickPoint": 261
+    },
+    "Vector-Smart-Object_x1525_y1634": {
+        "bottom": [],
+        "click_x": 1555.0,
+        "click_y": 1664.0,
+        "contains": [
+            "Layer-1_x1540_y1655"
+        ],
+        "cssStyles": {
+            "background-image": "linear-gradient(to right, var(--dark-pink), var(--dark-peach))",
+            "box-shadow": "2.1px 2.1px 36px 0 rgba(0, 0, 0, 0.2)",
+            "height": "60px",
+            "width": "60px"
+        },
+        "elementName": "Vector-Smart-Object_x1525_y1634",
+        "height": "60px",
+        "left": [],
+        "parent": [
+            "Rectangle-4_x0_y1301"
+        ],
+        "right": [],
+        "styleGuideX": "1525px",
+        "styleGuideY": "1634px",
+        "text": null,
+        "top": [],
+        "width": "60px",
+        "xMouseClickPoint": 1204,
+        "yMouseClickPoint": 543
+    },
+    "Visit_x1229_y1174": {
+        "bottom": [],
+        "click_x": 1250.0,
+        "click_y": 1181.5,
+        "contains": [],
+        "cssStyles": {
+            "color": "#ffffff",
+            "font-family": "OpenSans",
+            "font-size": "18px",
+            "font-stretch": "normal",
+            "font-style": "normal",
+            "font-weight": "bold",
+            "height": "15px",
+            "letter-spacing": "0.7px",
+            "line-height": "3.89",
+            "text-align": "left",
+            "width": "42px"
+        },
+        "elementName": "Visit_x1229_y1174",
+        "height": "15px",
+        "left": [],
+        "parent": [
+            "Rectangle-3-copy-2_x1115_y1157"
+        ],
+        "right": [],
+        "styleGuideX": "1229px",
+        "styleGuideY": "1174px",
+        "text": "Visit",
+        "top": [],
+        "width": "42px",
+        "xMouseClickPoint": 180,
+        "yMouseClickPoint": 327
+    },
+    "What-is-heavy-menstrual-bleeding-Proin-sodales-pulvinar-tem_x116_y331": {
+        "bottom": [],
+        "click_x": 389.5,
+        "click_y": 386.0,
+        "contains": [],
+        "cssStyles": {
+            "color": "var(--grape)",
+            "font-family": "OpenSans",
+            "font-size": "36px",
+            "font-stretch": "normal",
+            "font-style": "normal",
+            "font-weight": "300",
+            "height": "110px",
+            "letter-spacing": "normal",
+            "line-height": "1.28",
+            "text-align": "left",
+            "width": "547px"
+        },
+        "elementName": "What-is-heavy-menstrual-bleeding-Proin-sodales-pulvinar-tem_x116_y331",
+        "height": "110px",
+        "left": [],
+        "parent": [
+            "header-image_x0_y88"
+        ],
+        "right": [],
+        "styleGuideX": "116px",
+        "styleGuideY": "331px",
+        "text": "What is heavy menstrual bleeding? \r \rProin sodales pulvinar tempor. Cum sociis natoque penatibus\ret magnis dis parturient montes, nascetur ridiculus mus.\r",
+        "top": [],
+        "width": "547px",
+        "xMouseClickPoint": 465,
+        "yMouseClickPoint": 23
+    },
+    "element_x1456_y60": {
+        "bottom": [],
+        "click_x": 1463.0,
+        "click_y": 67.0,
+        "contains": [],
+        "cssStyles": {
+            "color": "#ffffff",
+            "font-family": "icomoon",
+            "font-size": "14px",
+            "font-stretch": "normal",
+            "font-style": "normal",
+            "font-weight": "normal",
+            "height": "14px",
+            "letter-spacing": "normal",
+            "line-height": "2",
+            "text-align": "left",
+            "width": "14px"
+        },
+        "elementName": "element_x1456_y60",
+        "height": "14px",
+        "left": [
+            "Search_x1300_y61"
+        ],
+        "parent": [
+            "Rectangle-3468_x1285_y54"
+        ],
+        "right": [],
+        "styleGuideX": "1456px",
+        "styleGuideY": "60px",
+        "text": "?",
+        "top": [],
+        "width": "14px",
+        "xMouseClickPoint": 1145,
+        "yMouseClickPoint": 126
+    },
+    "header-box-copy_x0_y0": {
+        "bottom": [],
+        "click_x": 800.0,
+        "click_y": 22.0,
+        "contains": [
+            "About-us_x14_y15",
+            "For-Healthcare-Professionals_x103_y15",
+            "Layer-1_x1571_y19",
+            "Select-your-country_x1435_y15"
+        ],
+        "cssStyles": {
+            "background-color": "var(--cool-grey)",
+            "height": "44px",
+            "width": "1600px"
+        },
+        "elementName": "header-box-copy_x0_y0",
+        "height": "44px",
+        "left": [],
+        "parent": [
+            "ROOT_REF_WINDOW"
+        ],
+        "right": [],
+        "styleGuideX": "0px",
+        "styleGuideY": "0px",
+        "text": null,
+        "top": [],
+        "width": "1600px",
+        "xMouseClickPoint": 527,
+        "yMouseClickPoint": 98
+    },
+    "header-box_x0_y44": {
+        "bottom": [],
+        "click_x": 800.0,
+        "click_y": 66.0,
+        "contains": [
+            "Rectangle-3468_x1285_y54",
+            "Layer-1_x15_y59",
+            "icon-share_x1515_y56",
+            "Share_x1549_y59"
+        ],
+        "cssStyles": {
+            "background-image": "linear-gradient(to right, var(--dark-pink), var(--dark-peach))",
+            "height": "44px",
+            "width": "1600px"
+        },
+        "elementName": "header-box_x0_y44",
+        "height": "44px",
+        "left": [],
+        "parent": [
+            "ROOT_REF_WINDOW"
+        ],
+        "right": [],
+        "styleGuideX": "0px",
+        "styleGuideY": "44px",
+        "text": null,
+        "top": [],
+        "width": "1600px",
+        "xMouseClickPoint": 236,
+        "yMouseClickPoint": 132
+    },
+    "header-image_x0_y88": {
+        "bottom": [
+            "Lets-chat-heavy-periods_x1117_y717"
+        ],
+        "click_x": 800.0,
+        "click_y": 355.5,
+        "contains": [
+            "What-is-heavy-menstrual-bleeding-Proin-sodales-pulvinar-tem_x116_y331",
+            "Rectangle-5_x0_y88",
+            "Layer-1_x1436_y124"
+        ],
+        "cssStyles": {
+            "background-color": "#eeede8",
+            "height": "535px",
+            "width": "1600px"
+        },
+        "elementName": "header-image_x0_y88",
+        "height": "535px",
+        "left": [],
+        "parent": [
+            "ROOT_REF_WINDOW"
+        ],
+        "right": [],
+        "styleGuideX": "0px",
+        "styleGuideY": "88px",
+        "text": null,
+        "top": [],
+        "width": "1600px",
+        "xMouseClickPoint": 438,
+        "yMouseClickPoint": 476
+    },
+    "icon-doctor-visit_x899_y1395": {
+        "bottom": [
+            "Prepare-for-your-doctor-visit_x851_y1504"
+        ],
+        "click_x": 950.5,
+        "click_y": 1435.0,
+        "contains": [],
+        "cssStyles": {
+            "height": "80px",
+            "width": "103px"
+        },
+        "elementName": "icon-doctor-visit_x899_y1395",
+        "height": "80px",
+        "left": [
+            "icon-improve-your-life_x599_y1395"
+        ],
+        "parent": [
+            "Rectangle-4_x0_y1301"
+        ],
+        "right": [
+            "Layer-1_x1199_y1395"
+        ],
+        "styleGuideX": "899px",
+        "styleGuideY": "1395px",
+        "text": null,
+        "top": [],
+        "width": "103px",
+        "xMouseClickPoint": 936,
+        "yMouseClickPoint": 283
+    },
+    "icon-improve-your-life_x599_y1395": {
+        "bottom": [
+            "Improve-your-Life_x545_y1504"
+        ],
+        "click_x": 650.5,
+        "click_y": 1435.0,
+        "contains": [],
+        "cssStyles": {
+            "height": "80px",
+            "width": "103px"
+        },
+        "elementName": "icon-improve-your-life_x599_y1395",
+        "height": "80px",
+        "left": [
+            "icon-lets-talk-about-your-period_x299_y1395"
+        ],
+        "parent": [
+            "Rectangle-4_x0_y1301"
+        ],
+        "right": [
+            "icon-doctor-visit_x899_y1395"
+        ],
+        "styleGuideX": "599px",
+        "styleGuideY": "1395px",
+        "text": null,
+        "top": [],
+        "width": "103px",
+        "xMouseClickPoint": 652,
+        "yMouseClickPoint": 323
+    },
+    "icon-lets-talk-about-your-period_x299_y1395": {
+        "bottom": [
+            "Talk-about-your-Period_x218_y1504"
+        ],
+        "click_x": 350.5,
+        "click_y": 1435.0,
+        "contains": [],
+        "cssStyles": {
+            "height": "80px",
+            "width": "103px"
+        },
+        "elementName": "icon-lets-talk-about-your-period_x299_y1395",
+        "height": "80px",
+        "left": [],
+        "parent": [
+            "Rectangle-4_x0_y1301"
+        ],
+        "right": [
+            "icon-improve-your-life_x599_y1395"
+        ],
+        "styleGuideX": "299px",
+        "styleGuideY": "1395px",
+        "text": null,
+        "top": [],
+        "width": "103px",
+        "xMouseClickPoint": 380,
+        "yMouseClickPoint": 321
+    },
+    "icon-play_x587_y1130": {
+        "bottom": [],
+        "click_x": 597.0,
+        "click_y": 1140.0,
+        "contains": [],
+        "cssStyles": {
+            "background-color": "#ffffff",
+            "height": "20px",
+            "width": "20px"
+        },
+        "elementName": "icon-play_x587_y1130",
+        "height": "20px",
+        "left": [],
+        "parent": [
+            "Rectangle-3_x557_y1115"
+        ],
+        "right": [
+            "Play-video_x627_y1132"
+        ],
+        "styleGuideX": "587px",
+        "styleGuideY": "1130px",
+        "text": null,
+        "top": [],
+        "width": "20px",
+        "xMouseClickPoint": 492,
+        "yMouseClickPoint": 503
+    },
+    "icon-share_x1515_y56": {
+        "bottom": [],
+        "click_x": 1525.0,
+        "click_y": 66.0,
+        "contains": [],
+        "cssStyles": {
+            "background-color": "var(--rose)",
+            "height": "20px",
+            "width": "20px"
+        },
+        "elementName": "icon-share_x1515_y56",
+        "height": "20px",
+        "left": [
+            "Rectangle-3468_x1285_y54"
+        ],
+        "parent": [
+            "header-box_x0_y44"
+        ],
+        "right": [
+            "Share_x1549_y59"
+        ],
+        "styleGuideX": "1515px",
+        "styleGuideY": "56px",
+        "text": null,
+        "top": [],
+        "width": "20px",
+        "xMouseClickPoint": 1210,
+        "yMouseClickPoint": 128
+    },
+    "line-copy_x1115_y799": {
+        "bottom": [
+            "Lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-Aenean_x1116_y832"
+        ],
+        "click_x": 1157.0,
+        "click_y": 800.5,
+        "contains": [],
+        "cssStyles": {
+            "background-color": "var(--blush)",
+            "height": "3px",
+            "width": "84px"
+        },
+        "elementName": "line-copy_x1115_y799",
+        "height": "3px",
+        "left": [
+            "video_x215_y717"
+        ],
+        "parent": [
+            "ROOT_REF_WINDOW"
+        ],
+        "right": [],
+        "styleGuideX": "1115px",
+        "styleGuideY": "799px",
+        "text": null,
+        "top": [
+            "Lets-chat-heavy-periods_x1117_y717"
+        ],
+        "width": "84px",
+        "xMouseClickPoint": 782,
+        "yMouseClickPoint": 59
+    },
+    "line_x1208_y1568": {
+        "bottom": [
+            "Lorem-ipsum-dolor-sit-amet-consectetuer-adipiscing-elit-sed-d_x1120_y1600"
+        ],
+        "click_x": 1250.0,
+        "click_y": 1569.5,
+        "contains": [],
+        "cssStyles": {
+            "background-color": "var(--blush)",
+            "height": "3px",
+            "width": "84px"
+        },
+        "elementName": "line_x1208_y1568",
+        "height": "3px",
+        "left": [
+            "line_x908_y1568"
+        ],
+        "parent": [
+            "Rectangle-4_x0_y1301"
+        ],
+        "right": [],
+        "styleGuideX": "1208px",
+        "styleGuideY": "1568px",
+        "text": null,
+        "top": [
+            "Frequently-Asked-Questions_x1154_y1504"
+        ],
+        "width": "84px",
+        "xMouseClickPoint": 1245,
+        "yMouseClickPoint": 428
+    },
+    "line_x308_y1568": {
+        "bottom": [
+            "Lorem-ipsum-dolor-sit-amet-consectetuer-adipiscing-elit-sed-d_x221_y1600"
+        ],
+        "click_x": 350.0,
+        "click_y": 1569.5,
+        "contains": [],
+        "cssStyles": {
+            "background-color": "var(--blush)",
+            "height": "3px",
+            "width": "84px"
+        },
+        "elementName": "line_x308_y1568",
+        "height": "3px",
+        "left": [],
+        "parent": [
+            "Rectangle-4_x0_y1301"
+        ],
+        "right": [
+            "line_x608_y1568"
+        ],
+        "styleGuideX": "308px",
+        "styleGuideY": "1568px",
+        "text": null,
+        "top": [
+            "Talk-about-your-Period_x218_y1504"
+        ],
+        "width": "84px",
+        "xMouseClickPoint": 406,
+        "yMouseClickPoint": 427
+    },
+    "line_x608_y1568": {
+        "bottom": [
+            "Lorem-ipsum-dolor-sit-amet-consectetuer-adipiscing-elit-sed-d_x520_y1600"
+        ],
+        "click_x": 650.0,
+        "click_y": 1569.5,
+        "contains": [],
+        "cssStyles": {
+            "background-color": "var(--blush)",
+            "height": "3px",
+            "width": "84px"
+        },
+        "elementName": "line_x608_y1568",
+        "height": "3px",
+        "left": [
+            "line_x308_y1568"
+        ],
+        "parent": [
+            "Rectangle-4_x0_y1301"
+        ],
+        "right": [
+            "line_x908_y1568"
+        ],
+        "styleGuideX": "608px",
+        "styleGuideY": "1568px",
+        "text": null,
+        "top": [
+            "Improve-your-Life_x545_y1504"
+        ],
+        "width": "84px",
+        "xMouseClickPoint": 648,
+        "yMouseClickPoint": 428
+    },
+    "line_x908_y1568": {
+        "bottom": [
+            "Lorem-ipsum-dolor-sit-amet-consectetuer-adipiscing-elit-sed-d_x820_y1600"
+        ],
+        "click_x": 950.0,
+        "click_y": 1569.5,
+        "contains": [],
+        "cssStyles": {
+            "background-color": "var(--blush)",
+            "height": "3px",
+            "width": "84px"
+        },
+        "elementName": "line_x908_y1568",
+        "height": "3px",
+        "left": [
+            "line_x608_y1568"
+        ],
+        "parent": [
+            "Rectangle-4_x0_y1301"
+        ],
+        "right": [
+            "line_x1208_y1568"
+        ],
+        "styleGuideX": "908px",
+        "styleGuideY": "1568px",
+        "text": null,
+        "top": [
+            "Prepare-for-your-doctor-visit_x851_y1504"
+        ],
+        "width": "84px",
+        "xMouseClickPoint": 951,
+        "yMouseClickPoint": 428
+    },
+    "link-arrow_x1011_y1534": {
+        "bottom": [
+            "Lorem-ipsum-dolor-sit-amet-consectetuer-adipiscing-elit-sed-d_x820_y1600"
+        ],
+        "click_x": 1016.0,
+        "click_y": 1542.5,
+        "contains": [],
+        "cssStyles": {
+            "background-color": "var(--rose)",
+            "height": "17px",
+            "width": "10px"
+        },
+        "elementName": "link-arrow_x1011_y1534",
+        "height": "17px",
+        "left": [],
+        "parent": [
+            "Rectangle-4_x0_y1301"
+        ],
+        "right": [],
+        "styleGuideX": "1011px",
+        "styleGuideY": "1534px",
+        "text": null,
+        "top": [],
+        "width": "10px",
+        "xMouseClickPoint": 1037,
+        "yMouseClickPoint": 399
+    },
+    "link-arrow_x1311_y1534": {
+        "bottom": [],
+        "click_x": 1316.0,
+        "click_y": 1542.5,
+        "contains": [],
+        "cssStyles": {
+            "background-color": "var(--rose)",
+            "height": "17px",
+            "width": "10px"
+        },
+        "elementName": "link-arrow_x1311_y1534",
+        "height": "17px",
+        "left": [],
+        "parent": [
+            "Frequently-Asked-Questions_x1154_y1504"
+        ],
+        "right": [],
+        "styleGuideX": "1311px",
+        "styleGuideY": "1534px",
+        "text": null,
+        "top": [],
+        "width": "10px",
+        "xMouseClickPoint": 1111,
+        "yMouseClickPoint": 404
+    },
+    "video_x215_y717": {
+        "bottom": [
+            "Rectangle-4_x0_y1301"
+        ],
+        "click_x": 650.0,
+        "click_y": 962.0,
+        "contains": [
+            "Rectangle-3_x557_y1115"
+        ],
+        "cssStyles": {
+            "height": "490px",
+            "width": "870px"
+        },
+        "elementName": "video_x215_y717",
+        "height": "490px",
+        "left": [],
+        "parent": [
+            "ROOT_REF_WINDOW"
+        ],
+        "right": [
+            "line-copy_x1115_y799",
+            "Rectangle-3-copy-2_x1115_y1157",
+            "Lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-Aenean_x1116_y832",
+            "Lets-chat-heavy-periods_x1117_y717",
+            "Try-our-HMB-impact-assessment_x1129_y1108"
+        ],
+        "styleGuideX": "215px",
+        "styleGuideY": "717px",
+        "text": null,
+        "top": [
+            "Ellipse-3308-copy_x821_y616",
+            "Ellipse-3308-copy-3_x765_y616",
+            "Ellipse-3308-copy-2_x793_y616"
+        ],
+        "width": "870px",
+        "xMouseClickPoint": 252,
+        "yMouseClickPoint": 451
+    }
+}

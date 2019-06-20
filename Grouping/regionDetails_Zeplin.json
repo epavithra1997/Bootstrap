@@ -1,0 +1,806 @@
+{
+  "WERE-ADDRESSING-LOCAL-HEALTH-CARE-CHALLENGES_x569_y1633": {
+    "parent": [
+      "screen"
+    ],
+    "bottom": [
+      "Respiratory-diseases-among-premature-babies-is-a-leading-cause_x362_y1701"
+    ],
+    "yMouseClickPoint": 408,
+    "click_y": 1642.5,
+    "click_x": 937.5,
+    "right": [
+    ],
+    "cssStyles": {
+      "color": "#272727",
+      "font-weight": "bold",
+      "letter-spacing": "normal",
+      "width": "737px",
+      "font-size": "28px",
+      "font-family": "ProximaNova",
+      "line-height": "1.57",
+      "font-stretch": "normal",
+      "font-style": "normal",
+      "height": "19px",
+      "text-align": "left"
+    },
+    "elementName": "WERE-ADDRESSING-LOCAL-HEALTH-CARE-CHALLENGES_x569_y1633",
+    "actElementName": "WERE-ADDRESSING-LOCAL-HEALTH-CARE-CHALLENGES_x569_y1633",
+    "contains": [
+    ],
+    "styleGuideY": "1633px",
+    "top": [
+      "THEY-INCLUDE-THREE-COMMITMENTS_x485_y1520"
+    ],
+    "left": [
+    ],
+    "xMouseClickPoint": 733,
+    "styleGuideX": "569px",
+    "width": "737px",
+    "text": "WE\u2019RE ADDRESSING LOCAL HEALTH CARE CHALLENGES",
+    "elementType": "heading",
+    "height": "19px"
+  },
+  "Banner_Image_1": {
+    "parent": [
+      "screen"
+    ],
+    "bottom": [
+      "ABBVIE-ANNOUNCES-MULTIPLE-MILESTONES-FOR-PHASE-3-CLL14-VENETOCL_x376_y718"
+    ],
+    "yMouseClickPoint": 320,
+    "click_y": 416.0,
+    "click_x": 938.5,
+    "right": [
+    ],
+    "cssStyles": {
+      "width": "1877px",
+      "height": "470px"
+    },
+    "elementName": "Banner_Image_1",
+    "actElementName": "Layer-6_x0_y181",
+    "contains": [
+      "We-go-beyond-medicine-to-deliver-innovative-holistic-health-ca_x487_y368"
+    ],
+    "styleGuideY": "181px",
+    "top": [
+      "Patient-Support_x723_y98"
+    ],
+    "left": [
+    ],
+    "xMouseClickPoint": 532,
+    "styleGuideX": "0px",
+    "width": "1877px",
+    "text": null,
+    "elementType": "image",
+    "height": "470px"
+  },
+  "Banner_Image_2": {
+    "parent": [
+      "screen"
+    ],
+    "bottom": [
+      "THEY-INCLUDE-THREE-COMMITMENTS_x485_y1520"
+    ],
+    "yMouseClickPoint": 371,
+    "click_y": 1219.0,
+    "click_x": 938.5,
+    "right": [
+    ],
+    "cssStyles": {
+      "width": "1877px",
+      "height": "462px"
+    },
+    "elementName": "Banner_Image_2",
+    "actElementName": "Layer-7_x0_y988",
+    "contains": [
+      "By-putting-patients-first-we-explore-new-medical-innovations-a_x468_y1175"
+    ],
+    "styleGuideY": "988px",
+    "top": [
+      "ABBVIE-ANNOUNCES-MULTIPLE-MILESTONES-FOR-PHASE-3-CLL14-VENETOCL_x376_y718"
+    ],
+    "left": [
+    ],
+    "xMouseClickPoint": 560,
+    "styleGuideX": "0px",
+    "width": "1877px",
+    "text": null,
+    "elementType": "image",
+    "height": "462px"
+  },
+  "Up_Arrow": {
+    "parent": [
+      "Up_Arrow_Container"
+    ],
+    "bottom": [
+    ],
+    "yMouseClickPoint": 495,
+    "click_y": 2776.5,
+    "click_x": 1024.5,
+    "right": [
+    ],
+    "cssStyles": {
+      "width": "17px",
+      "height": "25px"
+    },
+    "elementName": "Up_Arrow",
+    "actElementName": "Layer-5_x1016_y2764",
+    "contains": [
+    ],
+    "styleGuideY": "2764px",
+    "top": [
+    ],
+    "left": [
+    ],
+    "xMouseClickPoint": 1143,
+    "styleGuideX": "1016px",
+    "width": "17px",
+    "text": null,
+    "elementType": "icon",
+    "height": "25px"
+  },
+  "WERE-IMPROVING-PATIENT-TREATMENT-OUTCOMES_x592_y2257": {
+    "parent": [
+      "screen"
+    ],
+    "bottom": [
+      "It-takes-a-collaborative-approach-to-improve-the-lives-of-our-p_x362_y2324"
+    ],
+    "yMouseClickPoint": 228,
+    "click_y": 2266.5,
+    "click_x": 938.5,
+    "right": [
+    ],
+    "cssStyles": {
+      "color": "#272727",
+      "font-weight": "bold",
+      "letter-spacing": "normal",
+      "width": "693px",
+      "font-size": "28px",
+      "font-family": "ProximaNova",
+      "line-height": "1.57",
+      "font-stretch": "normal",
+      "font-style": "normal",
+      "height": "19px",
+      "text-align": "left"
+    },
+    "elementName": "WERE-IMPROVING-PATIENT-TREATMENT-OUTCOMES_x592_y2257",
+    "actElementName": "WERE-IMPROVING-PATIENT-TREATMENT-OUTCOMES_x592_y2257",
+    "contains": [
+    ],
+    "styleGuideY": "2257px",
+    "top": [
+      "Through-partnerships-and-recent-licensing-agreements-AbbVie-is_x361_y1965"
+    ],
+    "left": [
+    ],
+    "xMouseClickPoint": 797,
+    "styleGuideX": "592px",
+    "width": "693px",
+    "text": "WE\u2019RE IMPROVING PATIENT TREATMENT OUTCOMES",
+    "elementType": "heading",
+    "height": "19px"
+  },
+  "screen": {
+    "parent": [
+      "ROOT_REF_WINDOW"
+    ],
+    "bottom": [
+    ],
+    "yMouseClickPoint": 0,
+    "click_y": 1400.0,
+    "click_x": 939.0,
+    "right": [
+    ],
+    "elementName": "screen",
+    "actElementName": "screen",
+    "contains": [
+      "WERE-ADDRESSING-LOCAL-HEALTH-CARE-CHALLENGES_x569_y1633",
+      "Banner_Image_1",
+      "Banner_Image_2",
+      "WERE-IMPROVING-PATIENT-TREATMENT-OUTCOMES_x592_y2257",
+      "Through-partnerships-and-recent-licensing-agreements-AbbVie-is_x361_y1965",
+      "THEY-INCLUDE-THREE-COMMITMENTS_x485_y1520",
+      "Respiratory-diseases-among-premature-babies-is-a-leading-cause_x362_y1701",
+      "Footer",
+      "ABBVIE-ANNOUNCES-MULTIPLE-MILESTONES-FOR-PHASE-3-CLL14-VENETOCL_x376_y718",
+      "Patient-Support_x723_y98",
+      "WERE-INCREASING-ACCESS-TO-TREATMENT_x647_y1897",
+      "It-takes-a-collaborative-approach-to-improve-the-lives-of-our-p_x362_y2324"
+    ],
+    "styleGuideY": "0px",
+    "top": [
+    ],
+    "left": [
+    ],
+    "xMouseClickPoint": 0,
+    "styleGuideX": "0px",
+    "width": "1878px",
+    "elementType": null,
+    "height": "2800px"
+  },
+  "By-putting-patients-first-we-explore-new-medical-innovations-a_x468_y1175": {
+    "parent": [
+      "Banner_Image_2"
+    ],
+    "bottom": [
+    ],
+    "yMouseClickPoint": 374,
+    "click_y": 1218.5,
+    "click_x": 937.5,
+    "right": [
+    ],
+    "cssStyles": {
+      "text-shadow": "1.1px 1.7px 0.7px rgba(0, 0, 0, 0.47)",
+      "color": "#ffffff",
+      "font-weight": "900",
+      "letter-spacing": "0px",
+      "width": "939px",
+      "font-size": "48px",
+      "font-family": "ProximaNova",
+      "line-height": "1.17",
+      "font-stretch": "normal",
+      "font-style": "normal",
+      "height": "87px",
+      "text-align": "center"
+    },
+    "elementName": "By-putting-patients-first-we-explore-new-medical-innovations-a_x468_y1175",
+    "actElementName": "By-putting-patients-first-we-explore-new-medical-innovations-a_x468_y1175",
+    "contains": [
+    ],
+    "styleGuideY": "1175px",
+    "top": [
+    ],
+    "left": [
+    ],
+    "xMouseClickPoint": 864,
+    "styleGuideX": "468px",
+    "width": "939px",
+    "text": "By putting patients first, we explore new medical innovations and ways to enhance access\rAbbvie Home",
+    "elementType": "text",
+    "height": "87px"
+  },
+  "Through-partnerships-and-recent-licensing-agreements-AbbVie-is_x361_y1965": {
+    "parent": [
+      "screen"
+    ],
+    "bottom": [
+      "WERE-IMPROVING-PATIENT-TREATMENT-OUTCOMES_x592_y2257"
+    ],
+    "yMouseClickPoint": 285,
+    "click_y": 2093.0,
+    "click_x": 928.0,
+    "right": [
+    ],
+    "cssStyles": {
+      "color": "#272727",
+      "font-weight": "300",
+      "letter-spacing": "normal",
+      "width": "1134px",
+      "font-size": "14px",
+      "font-family": "ProximaNova",
+      "line-height": "1.64",
+      "font-stretch": "normal",
+      "font-style": "normal",
+      "height": "256px",
+      "text-align": "left"
+    },
+    "elementName": "Through-partnerships-and-recent-licensing-agreements-AbbVie-is_x361_y1965",
+    "actElementName": "Through-partnerships-and-recent-licensing-agreements-AbbVie-is_x361_y1965",
+    "contains": [
+    ],
+    "styleGuideY": "1965px",
+    "top": [
+      "WERE-INCREASING-ACCESS-TO-TREATMENT_x647_y1897"
+    ],
+    "left": [
+    ],
+    "xMouseClickPoint": 640,
+    "styleGuideX": "361px",
+    "width": "1134px",
+    "text": "Through partnerships and recent licensing agreements, AbbVie is working to improve the lives of individuals living with HIV. For example:\r\r1. AbbVie and the Medicines Patent Pool signed an agreement in 2014 that will increase access to HIV treatment and improve the lives of children living with the disease.\r\r2. We signed another licensing agreement with Medicines Patent Pool (MPP) in 2015 to address future demands for HIV-1 treatment in South Africa and across Africa.\r\r 3. Our partnership with HarborPath provides free anti-retroviral medications to uninsured patients in the United States, including those eligible for the AIDS Drug Assistance Program but not able to access medication due to state funding limits.",
+    "elementType": "text",
+    "height": "256px"
+  },
+  "ROOT_REF_WINDOW": {
+    "parent": [
+    ],
+    "bottom": [
+    ],
+    "click_y": 49999.5,
+    "click_x": 49999.5,
+    "right": [
+    ],
+    "elementName": null,
+    "contains": [
+      "screen"
+    ],
+    "styleGuideY": 0,
+    "top": [
+    ],
+    "left": [
+    ],
+    "styleGuideX": 0,
+    "width": 99999,
+    "height": 99999
+  },
+  "THEY-INCLUDE-THREE-COMMITMENTS_x485_y1520": {
+    "parent": [
+      "screen"
+    ],
+    "bottom": [
+      "WERE-ADDRESSING-LOCAL-HEALTH-CARE-CHALLENGES_x569_y1633"
+    ],
+    "yMouseClickPoint": 290,
+    "click_y": 1536.5,
+    "click_x": 938.5,
+    "right": [
+    ],
+    "cssStyles": {
+      "color": "#272727",
+      "font-weight": "900",
+      "letter-spacing": "normal",
+      "width": "907px",
+      "font-size": "48px",
+      "font-family": "ProximaNova",
+      "line-height": "1.29",
+      "font-stretch": "normal",
+      "font-style": "normal",
+      "height": "33px",
+      "text-align": "center"
+    },
+    "elementName": "THEY-INCLUDE-THREE-COMMITMENTS_x485_y1520",
+    "actElementName": "THEY-INCLUDE-THREE-COMMITMENTS_x485_y1520",
+    "contains": [
+    ],
+    "styleGuideY": "1520px",
+    "top": [
+      "Banner_Image_2"
+    ],
+    "left": [
+    ],
+    "xMouseClickPoint": 701,
+    "styleGuideX": "485px",
+    "width": "907px",
+    "text": "THEY INCLUDE THREE COMMITMENTS:",
+    "elementType": "heading",
+    "height": "33px"
+  },
+  "Respiratory-diseases-among-premature-babies-is-a-leading-cause_x362_y1701": {
+    "parent": [
+      "screen"
+    ],
+    "bottom": [
+      "WERE-INCREASING-ACCESS-TO-TREATMENT_x647_y1897"
+    ],
+    "yMouseClickPoint": 317,
+    "click_y": 1778.5,
+    "click_x": 926.0,
+    "right": [
+    ],
+    "cssStyles": {
+      "color": "#272727",
+      "font-weight": "300",
+      "letter-spacing": "normal",
+      "width": "1128px",
+      "font-size": "14px",
+      "font-family": "ProximaNova",
+      "line-height": "1.64",
+      "font-stretch": "normal",
+      "font-style": "normal",
+      "height": "155px",
+      "text-align": "left"
+    },
+    "elementName": "Respiratory-diseases-among-premature-babies-is-a-leading-cause_x362_y1701",
+    "actElementName": "Respiratory-diseases-among-premature-babies-is-a-leading-cause_x362_y1701",
+    "contains": [
+    ],
+    "styleGuideY": "1701px",
+    "top": [
+      "WERE-ADDRESSING-LOCAL-HEALTH-CARE-CHALLENGES_x569_y1633"
+    ],
+    "left": [
+    ],
+    "xMouseClickPoint": 615,
+    "styleGuideX": "362px",
+    "width": "1128px",
+    "text": "Respiratory diseases among premature babies is a leading cause of infant mortality in many countries and we work with partners to find solutions and raise awareness. One of our global initiatives is made up of 20 coalitions bringing together parent groups, medical and scientific organizations and other multi-disciplinary stakeholders around the world. Our aim is to improve standards of care and access to treatment and support for premature infants.\r\rIn the Philippines, we\u2019re partnering with the Philippines Society of Newborn Medicine to reduce prevalence of respiratory distress syndrome (RDS), the second leading cause of infant mortality there. Together we\u2019ve created a national online registry to track disease rates, a crucial first step in controlling RDS.",
+    "elementType": "text",
+    "height": "155px"
+  },
+  "We-go-beyond-medicine-to-deliver-innovative-holistic-health-ca_x487_y368": {
+    "parent": [
+      "Banner_Image_1"
+    ],
+    "bottom": [
+    ],
+    "yMouseClickPoint": 476,
+    "click_y": 415.5,
+    "click_x": 939.0,
+    "right": [
+    ],
+    "cssStyles": {
+      "text-shadow": "1.1px 1.7px 0.7px rgba(0, 0, 0, 0.47)",
+      "color": "#ffffff",
+      "font-weight": "900",
+      "letter-spacing": "0px",
+      "width": "904px",
+      "font-size": "48px",
+      "font-family": "ProximaNova",
+      "line-height": "2.38",
+      "font-stretch": "normal",
+      "font-style": "normal",
+      "height": "95px",
+      "text-align": "center"
+    },
+    "elementName": "We-go-beyond-medicine-to-deliver-innovative-holistic-health-ca_x487_y368",
+    "actElementName": "We-go-beyond-medicine-to-deliver-innovative-holistic-health-ca_x487_y368",
+    "contains": [
+    ],
+    "styleGuideY": "368px",
+    "top": [
+    ],
+    "left": [
+    ],
+    "xMouseClickPoint": 830,
+    "styleGuideX": "487px",
+    "width": "904px",
+    "text": "We go beyond medicine to deliver innovative, holistic health care solutions to patients.\rNEARLY 81,000 U.S. PATIENTS",
+    "elementType": "text",
+    "height": "95px"
+  },
+  "Footer": {
+    "parent": [
+      "screen"
+    ],
+    "bottom": [
+    ],
+    "yMouseClickPoint": 424,
+    "click_y": 2682.0,
+    "click_x": 939.0,
+    "right": [
+    ],
+    "cssStyles": {
+      "width": "1878px",
+      "height": "230px"
+    },
+    "elementName": "Footer",
+    "actElementName": "Layer-2_x0_y2567",
+    "contains": [
+      "Up_Arrow_Container",
+      "-All-rights-reserved-Terms-of-use-privacy-policy_x831_y2674",
+      "Ride_To_Top_Button"
+    ],
+    "styleGuideY": "2567px",
+    "top": [
+      "It-takes-a-collaborative-approach-to-improve-the-lives-of-our-p_x362_y2324"
+    ],
+    "left": [
+    ],
+    "xMouseClickPoint": 530,
+    "styleGuideX": "0px",
+    "width": "1878px",
+    "text": null,
+    "elementType": "footer",
+    "height": "230px"
+  },
+  "Up_Arrow_Container": {
+    "parent": [
+      "Footer"
+    ],
+    "bottom": [
+    ],
+    "yMouseClickPoint": 504,
+    "click_y": 2777.0,
+    "click_x": 1024.0,
+    "right": [
+    ],
+    "cssStyles": {
+      "width": "40px",
+      "height": "40px"
+    },
+    "elementName": "Up_Arrow_Container",
+    "actElementName": "Layer-2-copy_x1004_y2757",
+    "contains": [
+      "Up_Arrow"
+    ],
+    "styleGuideY": "2757px",
+    "top": [
+      "-All-rights-reserved-Terms-of-use-privacy-policy_x831_y2674"
+    ],
+    "left": [
+      "Ride_To_Top_Button"
+    ],
+    "xMouseClickPoint": 1127,
+    "styleGuideX": "1004px",
+    "width": "40px",
+    "text": null,
+    "elementType": "button",
+    "height": "40px"
+  },
+  "-All-rights-reserved-Terms-of-use-privacy-policy_x831_y2674": {
+    "parent": [
+      "Footer"
+    ],
+    "bottom": [
+      "Up_Arrow_Container",
+      "Ride_To_Top_Button"
+    ],
+    "yMouseClickPoint": 413,
+    "click_y": 2690.5,
+    "click_x": 938.5,
+    "right": [
+    ],
+    "cssStyles": {
+      "color": "rgba(255, 255, 255, 0.3)",
+      "font-weight": "normal",
+      "letter-spacing": "normal",
+      "width": "215px",
+      "font-size": "14px",
+      "font-family": "ProximaNova",
+      "line-height": "0.68",
+      "font-stretch": "normal",
+      "font-style": "normal",
+      "opacity": "0.3",
+      "height": "33px",
+      "text-align": "center"
+    },
+    "elementName": "-All-rights-reserved-Terms-of-use-privacy-policy_x831_y2674",
+    "actElementName": "-All-rights-reserved-Terms-of-use-privacy-policy_x831_y2674",
+    "contains": [
+    ],
+    "styleGuideY": "2674px",
+    "top": [
+    ],
+    "left": [
+    ],
+    "xMouseClickPoint": 1044,
+    "styleGuideX": "831px",
+    "width": "215px",
+    "text": "©  All rights reserved\rTerms of use &amp; privacy policy",
+    "elementType": "text",
+    "height": "33px"
+  },
+  "ABBVIE-ANNOUNCES-MULTIPLE-MILESTONES-FOR-PHASE-3-CLL14-VENETOCL_x376_y718": {
+    "parent": [
+      "screen"
+    ],
+    "bottom": [
+      "Banner_Image_2"
+    ],
+    "yMouseClickPoint": 408,
+    "click_y": 818.5,
+    "click_x": 940.0,
+    "right": [
+    ],
+    "cssStyles": {
+      "color": "#272727",
+      "font-weight": "900",
+      "letter-spacing": "normal",
+      "width": "1128px",
+      "font-size": "48px",
+      "font-family": "ProximaNova",
+      "line-height": "1.17",
+      "font-stretch": "normal",
+      "font-style": "normal",
+      "height": "201px",
+      "text-align": "center"
+    },
+    "elementName": "ABBVIE-ANNOUNCES-MULTIPLE-MILESTONES-FOR-PHASE-3-CLL14-VENETOCL_x376_y718",
+    "actElementName": "ABBVIE-ANNOUNCES-MULTIPLE-MILESTONES-FOR-PHASE-3-CLL14-VENETOCL_x376_y718",
+    "contains": [
+    ],
+    "styleGuideY": "718px",
+    "top": [
+      "Banner_Image_1"
+    ],
+    "left": [
+    ],
+    "xMouseClickPoint": 612,
+    "styleGuideX": "376px",
+    "width": "1128px",
+    "text": "ABBVIE ANNOUNCES MULTIPLE MILESTONES FOR PHASE 3 CLL14 VENETOCLAX STUDY OF FIXED DURATION TREATMENT IN PREVIOUSLY-\u0003UNTREATED CHRONIC LYMPHOCYTIC LEUKEMIA",
+    "elementType": "text",
+    "height": "201px"
+  },
+  "Ride_To_Top_Button": {
+    "parent": [
+      "Footer"
+    ],
+    "bottom": [
+    ],
+    "yMouseClickPoint": 501,
+    "click_y": 2777.0,
+    "click_x": 915.0,
+    "right": [
+      "Up_Arrow_Container"
+    ],
+    "cssStyles": {
+      "width": "170px",
+      "height": "40px"
+    },
+    "elementName": "Ride_To_Top_Button",
+    "actElementName": "Layer-4_x830_y2757",
+    "contains": [
+      "Ride-to-the-top_x852_y2771"
+    ],
+    "styleGuideY": "2757px",
+    "top": [
+      "-All-rights-reserved-Terms-of-use-privacy-policy_x831_y2674"
+    ],
+    "left": [
+    ],
+    "xMouseClickPoint": 957,
+    "styleGuideX": "830px",
+    "width": "170px",
+    "text": null,
+    "elementType": "button",
+    "height": "40px"
+  },
+  "Ride-to-the-top_x852_y2771": {
+    "parent": [
+      "Ride_To_Top_Button"
+    ],
+    "bottom": [
+    ],
+    "yMouseClickPoint": 493,
+    "click_y": 2776.5,
+    "click_x": 916.5,
+    "right": [
+    ],
+    "cssStyles": {
+      "color": "#ffffff",
+      "font-weight": "bold",
+      "letter-spacing": "normal",
+      "width": "129px",
+      "font-size": "16px",
+      "font-family": "ProximaNova",
+      "line-height": "0.59",
+      "font-stretch": "normal",
+      "font-style": "normal",
+      "height": "11px",
+      "text-align": "center"
+    },
+    "elementName": "Ride-to-the-top_x852_y2771",
+    "actElementName": "Ride-to-the-top_x852_y2771",
+    "contains": [
+    ],
+    "styleGuideY": "2771px",
+    "top": [
+    ],
+    "left": [
+    ],
+    "xMouseClickPoint": 1039,
+    "styleGuideX": "852px",
+    "width": "129px",
+    "text": "Ride to the top",
+    "elementType": "text",
+    "height": "11px"
+  },
+  "Patient-Support_x723_y98": {
+    "parent": [
+      "screen"
+    ],
+    "bottom": [
+      "Banner_Image_1"
+    ],
+    "yMouseClickPoint": 186,
+    "click_y": 114.5,
+    "click_x": 939.5,
+    "right": [
+    ],
+    "cssStyles": {
+      "color": "#272727",
+      "font-weight": "900",
+      "letter-spacing": "normal",
+      "width": "433px",
+      "font-size": "48px",
+      "font-family": "ProximaNova",
+      "line-height": "0.31",
+      "font-stretch": "normal",
+      "font-style": "normal",
+      "height": "33px",
+      "text-align": "left"
+    },
+    "elementName": "Patient-Support_x723_y98",
+    "actElementName": "Patient-Support_x723_y98",
+    "contains": [
+    ],
+    "styleGuideY": "98px",
+    "top": [
+    ],
+    "left": [
+    ],
+    "xMouseClickPoint": 906,
+    "styleGuideX": "723px",
+    "width": "433px",
+    "text": "Patient Support",
+    "elementType": "heading",
+    "height": "33px"
+  },
+  "It-takes-a-collaborative-approach-to-improve-the-lives-of-our-p_x362_y2324": {
+    "parent": [
+      "screen"
+    ],
+    "bottom": [
+      "Footer"
+    ],
+    "yMouseClickPoint": 355,
+    "click_y": 2390.5,
+    "click_x": 909.0,
+    "right": [
+    ],
+    "cssStyles": {
+      "color": "#272727",
+      "font-weight": "300",
+      "letter-spacing": "normal",
+      "width": "1094px",
+      "font-size": "14px",
+      "font-family": "ProximaNova",
+      "line-height": "1.64",
+      "font-stretch": "normal",
+      "font-style": "normal",
+      "height": "133px",
+      "text-align": "left"
+    },
+    "elementName": "It-takes-a-collaborative-approach-to-improve-the-lives-of-our-p_x362_y2324",
+    "actElementName": "It-takes-a-collaborative-approach-to-improve-the-lives-of-our-p_x362_y2324",
+    "contains": [
+    ],
+    "styleGuideY": "2324px",
+    "top": [
+      "WERE-IMPROVING-PATIENT-TREATMENT-OUTCOMES_x592_y2257"
+    ],
+    "left": [
+    ],
+    "xMouseClickPoint": 664,
+    "styleGuideX": "362px",
+    "width": "1094px",
+    "text": "It takes a collaborative approach to improve the lives of our patients. Pharmacy Solutions, an AbbVie pharmacy in the United States, is working with health care providers, patients and\u0003payers to improve patient treatment outcomes by supporting access to medications, pharmacy services and care management solutions. \r\rPharmacy Solutions is the first biopharmaceutical company-owned specialty pharmacy to receive accreditation status by the Accreditation Commission for Health Care (ACHC) for the\u0003services of Specialty Pharmacy and Durable Medical Equipment Service (DMEPOS) in 2013.",
+    "elementType": "text",
+    "height": "133px"
+  },
+  "WERE-INCREASING-ACCESS-TO-TREATMENT_x647_y1897": {
+    "parent": [
+      "screen"
+    ],
+    "bottom": [
+      "Through-partnerships-and-recent-licensing-agreements-AbbVie-is_x361_y1965"
+    ],
+    "yMouseClickPoint": 271,
+    "click_y": 1906.5,
+    "click_x": 938.5,
+    "right": [
+    ],
+    "cssStyles": {
+      "color": "#272727",
+      "font-weight": "bold",
+      "letter-spacing": "normal",
+      "width": "583px",
+      "font-size": "28px",
+      "font-family": "ProximaNova",
+      "line-height": "1.57",
+      "font-stretch": "normal",
+      "font-style": "normal",
+      "height": "19px",
+      "text-align": "left"
+    },
+    "elementName": "WERE-INCREASING-ACCESS-TO-TREATMENT_x647_y1897",
+    "actElementName": "WERE-INCREASING-ACCESS-TO-TREATMENT_x647_y1897",
+    "contains": [
+    ],
+    "styleGuideY": "1897px",
+    "top": [
+      "Respiratory-diseases-among-premature-babies-is-a-leading-cause_x362_y1701"
+    ],
+    "left": [
+    ],
+    "xMouseClickPoint": 817,
+    "styleGuideX": "647px",
+    "width": "583px",
+    "text": "WE\u2019RE INCREASING ACCESS TO TREATMENT",
+    "elementType": "heading",
+    "height": "19px"
+  }
+}

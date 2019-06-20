@@ -1,0 +1,599 @@
+{
+  "Home-_x138_y31": {
+    "parent": [
+      "Rectangle-1-_x8_y13"
+    ],
+    "bottom": [],
+    "yMouseClickPoint": 96,
+    "click_y": 36.5,
+    "click_x": 157.5,
+    "right": [
+      "Features-_x198_y31"
+    ],
+    "cssStyles": {
+      "color": "#ffffff",
+      "font-weight": "normal",
+      "letter-spacing": "normal",
+      "width": "39px",
+      "font-size": "16px",
+      "font-family": "Myriad Pro",
+      "line-height": "0.94",
+      "font-stretch": "normal",
+      "font-style": "normal",
+      "height": "11px",
+      "text-align": "left"
+    },
+    "elementName": "Home-_x138_y31",
+    "contains": [],
+    "styleGuideY": "31px",
+    "top": [],
+    "left": [
+      "Welcome-_x25_y28"
+    ],
+    "xMouseClickPoint": 273,
+    "styleGuideX": "138px",
+    "width": "39px",
+    "text": "Home",
+    "height": "11px"
+  },
+  "Heading-_x402_y391": {
+    "parent": [
+      "Rectangle-2-copy-_x383_y383"
+    ],
+    "bottom": [
+      "Lorem-Ipsum-has-been_x399_y437"
+    ],
+    "yMouseClickPoint": 268,
+    "click_y": 408,
+    "click_x": 459,
+    "right": [],
+    "cssStyles": {
+      "color": "#212529",
+      "font-weight": "normal",
+      "letter-spacing": "-0.7px",
+      "width": "114px",
+      "font-size": "33px",
+      "font-family": "SegoeUI",
+      "line-height": "0.56",
+      "font-stretch": "normal",
+      "font-style": "normal",
+      "height": "34px",
+      "text-align": "left"
+    },
+    "elementName": "Heading-_x402_y391",
+    "contains": [],
+    "styleGuideY": "391px",
+    "top": [],
+    "left": [],
+    "xMouseClickPoint": 571,
+    "styleGuideX": "402px",
+    "width": "114px",
+    "text": "Heading",
+    "height": "34px"
+  },
+  "This-is-a-demo-page-_x398_y252": {
+    "parent": [
+      "Rounded-Rectangle-1-_x8_y87"
+    ],
+    "bottom": [],
+    "yMouseClickPoint": 326,
+    "click_y": 261,
+    "click_x": 868.5,
+    "right": [],
+    "cssStyles": {
+      "color": "#212529",
+      "font-weight": "normal",
+      "letter-spacing": "normal",
+      "width": "941px",
+      "font-size": "16px",
+      "font-family": "SegoeUI",
+      "line-height": "1.16",
+      "font-stretch": "normal",
+      "font-style": "normal",
+      "height": "18px",
+      "text-align": "left"
+    },
+    "elementName": "This-is-a-demo-page-_x398_y252",
+    "contains": [],
+    "styleGuideY": "252px",
+    "top": [
+      "Demo-Page-_x403_y172"
+    ],
+    "left": [],
+    "xMouseClickPoint": 601,
+    "styleGuideX": "398px",
+    "width": "941px",
+    "text": "This is a demo page. This page is used as an input to the layout generator system. Supply corresponding detected layout as the input.",
+    "height": "18px"
+  },
+  "screen": {
+    "parent": [
+      "ROOT_REF_WINDOW"
+    ],
+    "bottom": [],
+    "yMouseClickPoint": 0,
+    "click_y": 377,
+    "click_x": 953,
+    "right": [],
+    "elementName": "screen",
+    "contains": [
+      "Rectangle-1-_x8_y13",
+      "Rounded-Rectangle-1-_x8_y87",
+      "Rectangle-2-copy-_x926_y383",
+      "Rectangle-2-copy-_x383_y383",
+      "Rectangle-2-_x8_y677"
+    ],
+    "styleGuideY": "0px",
+    "top": [],
+    "left": [],
+    "xMouseClickPoint": 0,
+    "styleGuideX": "0px",
+    "width": "1906px",
+    "height": "754px"
+  },
+  "Features-_x198_y31": {
+    "parent": [
+      "Rectangle-1-_x8_y13"
+    ],
+    "bottom": [],
+    "yMouseClickPoint": 94,
+    "click_y": 36.5,
+    "click_x": 225.5,
+    "right": [
+      "About-us-_x272_y30"
+    ],
+    "cssStyles": {
+      "color": "#9a9da0",
+      "font-weight": "normal",
+      "letter-spacing": "normal",
+      "width": "55px",
+      "font-size": "16px",
+      "font-family": "Myriad Pro",
+      "line-height": "0.94",
+      "font-stretch": "normal",
+      "font-style": "normal",
+      "height": "11px",
+      "text-align": "left"
+    },
+    "elementName": "Features-_x198_y31",
+    "contains": [],
+    "styleGuideY": "31px",
+    "top": [],
+    "left": [
+      "Home-_x138_y31"
+    ],
+    "xMouseClickPoint": 355,
+    "styleGuideX": "198px",
+    "width": "55px",
+    "text": "Features",
+    "height": "11px"
+  },
+  "Welcome-_x25_y28": {
+    "parent": [
+      "Rectangle-1-_x8_y13"
+    ],
+    "bottom": [],
+    "yMouseClickPoint": 97,
+    "click_y": 35.5,
+    "click_x": 67,
+    "right": [
+      "Home-_x138_y31"
+    ],
+    "cssStyles": {
+      "color": "#ffffff",
+      "font-weight": "normal",
+      "letter-spacing": "0.4px",
+      "width": "84px",
+      "font-size": "20px",
+      "font-family": "Myriad Pro",
+      "line-height": "0.75",
+      "font-stretch": "normal",
+      "font-style": "normal",
+      "height": "15px",
+      "text-align": "left"
+    },
+    "elementName": "Welcome-_x25_y28",
+    "contains": [],
+    "styleGuideY": "28px",
+    "top": [],
+    "left": [],
+    "xMouseClickPoint": 185,
+    "styleGuideX": "25px",
+    "width": "84px",
+    "text": "Welcome!",
+    "height": "15px"
+  },
+  "-Company-2017-2019-_x871_y685": {
+    "parent": [
+      "Rectangle-2-_x8_y677"
+    ],
+    "bottom": [],
+    "yMouseClickPoint": 454,
+    "click_y": 693.5,
+    "click_x": 953,
+    "right": [],
+    "cssStyles": {
+      "color": "#212529",
+      "font-weight": "normal",
+      "letter-spacing": "normal",
+      "width": "164px",
+      "font-size": "16px",
+      "font-family": "SegoeUI",
+      "line-height": "1.16",
+      "font-stretch": "normal",
+      "font-style": "normal",
+      "height": "17px",
+      "text-align": "left"
+    },
+    "elementName": "-Company-2017-2019-_x871_y685",
+    "contains": [],
+    "styleGuideY": "685px",
+    "top": [],
+    "left": [],
+    "xMouseClickPoint": 895,
+    "styleGuideX": "871px",
+    "width": "164px",
+    "text": "© Company 2017-2019",
+    "height": "17px"
+  },
+  "Heading-_x945_y391": {
+    "parent": [
+      "Rectangle-2-copy-_x926_y383"
+    ],
+    "bottom": [
+      "Lorem-Ipsum-has-been_x942_y437"
+    ],
+    "yMouseClickPoint": 267,
+    "click_y": 408,
+    "click_x": 1002,
+    "right": [],
+    "cssStyles": {
+      "color": "#212529",
+      "font-weight": "normal",
+      "letter-spacing": "-0.7px",
+      "width": "114px",
+      "font-size": "33px",
+      "font-family": "SegoeUI",
+      "line-height": "0.56",
+      "font-stretch": "normal",
+      "font-style": "normal",
+      "height": "34px",
+      "text-align": "left"
+    },
+    "elementName": "Heading-_x945_y391",
+    "contains": [],
+    "styleGuideY": "391px",
+    "top": [],
+    "left": [],
+    "xMouseClickPoint": 662,
+    "styleGuideX": "945px",
+    "width": "114px",
+    "text": "Heading",
+    "height": "34px"
+  },
+  "Rectangle-1-_x8_y13": {
+    "parent": [
+      "screen"
+    ],
+    "bottom": [
+      "Rounded-Rectangle-1-_x8_y87"
+    ],
+    "yMouseClickPoint": 117,
+    "click_y": 38,
+    "click_x": 953,
+    "right": [],
+    "cssStyles": {
+      "background-color": "#343a40",
+      "width": "1890px",
+      "height": "50px"
+    },
+    "elementName": "Rectangle-1-_x8_y13",
+    "contains": [
+      "Home-_x138_y31",
+      "Welcome-_x25_y28",
+      "Features-_x198_y31",
+      "About-us-_x272_y30"
+    ],
+    "styleGuideY": "13px",
+    "top": [],
+    "left": [],
+    "xMouseClickPoint": 300,
+    "styleGuideX": "8px",
+    "width": "1890px",
+    "text": null,
+    "height": "50px"
+  },
+  "Rectangle-2-copy-_x926_y383": {
+    "parent": [
+      "screen"
+    ],
+    "bottom": [
+      "Rectangle-2-_x8_y677"
+    ],
+    "yMouseClickPoint": 463,
+    "click_y": 508,
+    "click_x": 1163.5,
+    "right": [],
+    "cssStyles": {
+      "background-color": "#ffffff",
+      "border": "solid 1px #b3b3cc",
+      "width": "475px",
+      "height": "250px"
+    },
+    "elementName": "Rectangle-2-copy-_x926_y383",
+    "contains": [
+      "Heading-_x945_y391",
+      "Lorem-Ipsum-has-been_x942_y437"
+    ],
+    "styleGuideY": "383px",
+    "top": [
+      "Rounded-Rectangle-1-_x8_y87"
+    ],
+    "left": [
+      "Rectangle-2-copy-_x383_y383"
+    ],
+    "xMouseClickPoint": 1047,
+    "styleGuideX": "926px",
+    "width": "475px",
+    "text": null,
+    "height": "250px"
+  },
+  "Rounded-Rectangle-1-_x8_y87": {
+    "parent": [
+      "screen"
+    ],
+    "bottom": [
+      "Rectangle-2-copy-_x926_y383",
+      "Rectangle-2-copy-_x383_y383"
+    ],
+    "yMouseClickPoint": 182,
+    "click_y": 219,
+    "click_x": 953,
+    "right": [],
+    "cssStyles": {
+      "background-color": "#e9ecef",
+      "border": "solid 1px #666699",
+      "border-radius": "5px",
+      "width": "1890px",
+      "height": "264px"
+    },
+    "elementName": "Rounded-Rectangle-1-_x8_y87",
+    "contains": [
+      "This-is-a-demo-page-_x398_y252",
+      "Demo-Page-_x403_y172"
+    ],
+    "styleGuideY": "87px",
+    "top": [
+      "Rectangle-1-_x8_y13"
+    ],
+    "left": [],
+    "xMouseClickPoint": 561,
+    "styleGuideX": "8px",
+    "width": "1890px",
+    "text": null,
+    "height": "264px"
+  },
+  "Lorem-Ipsum-has-been_x399_y437": {
+    "parent": [
+      "Rectangle-2-copy-_x383_y383"
+    ],
+    "bottom": [],
+    "yMouseClickPoint": 356,
+    "click_y": 530,
+    "click_x": 619.5,
+    "right": [],
+    "cssStyles": {
+      "color": "#212529",
+      "font-weight": "normal",
+      "letter-spacing": "normal",
+      "width": "441px",
+      "font-size": "16px",
+      "font-family": "SegoeUI",
+      "line-height": "1.5",
+      "font-stretch": "normal",
+      "font-style": "normal",
+      "height": "186px",
+      "text-align": "left"
+    },
+    "elementName": "Lorem-Ipsum-has-been_x399_y437",
+    "contains": [],
+    "styleGuideY": "437px",
+    "top": [
+      "Heading-_x402_y391"
+    ],
+    "left": [],
+    "xMouseClickPoint": 583,
+    "styleGuideX": "399px",
+    "width": "441px",
+    "text": "Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+    "height": "186px"
+  },
+  "ROOT_REF_WINDOW": {
+    "parent": [],
+    "bottom": [],
+    "click_y": 49999.5,
+    "click_x": 49999.5,
+    "right": [],
+    "elementName": null,
+    "contains": [
+      "screen"
+    ],
+    "styleGuideY": 0,
+    "top": [],
+    "left": [],
+    "styleGuideX": 0,
+    "width": 99999,
+    "height": 99999
+  },
+  "Demo-Page-_x403_y172": {
+    "parent": [
+      "Rounded-Rectangle-1-_x8_y87"
+    ],
+    "bottom": [
+      "This-is-a-demo-page-_x398_y252"
+    ],
+    "yMouseClickPoint": 292,
+    "click_y": 208,
+    "click_x": 576,
+    "right": [],
+    "cssStyles": {
+      "color": "#212529",
+      "font-weight": "300",
+      "letter-spacing": "-1.5px",
+      "width": "346px",
+      "font-size": "75px",
+      "font-family": "SegoeUI",
+      "line-height": "0.25",
+      "font-stretch": "normal",
+      "font-style": "normal",
+      "height": "72px",
+      "text-align": "left"
+    },
+    "elementName": "Demo-Page-_x403_y172",
+    "contains": [],
+    "styleGuideY": "172px",
+    "top": [],
+    "left": [],
+    "xMouseClickPoint": 596,
+    "styleGuideX": "403px",
+    "width": "346px",
+    "text": "Demo Page",
+    "height": "72px"
+  },
+  "Lorem-Ipsum-has-been_x942_y437": {
+    "parent": [
+      "Rectangle-2-copy-_x926_y383"
+    ],
+    "bottom": [],
+    "yMouseClickPoint": 330,
+    "click_y": 530,
+    "click_x": 1162.5,
+    "right": [],
+    "cssStyles": {
+      "color": "#212529",
+      "font-weight": "normal",
+      "letter-spacing": "normal",
+      "width": "441px",
+      "font-size": "16px",
+      "font-family": "SegoeUI",
+      "line-height": "1.5",
+      "font-stretch": "normal",
+      "font-style": "normal",
+      "height": "186px",
+      "text-align": "left"
+    },
+    "elementName": "Lorem-Ipsum-has-been_x942_y437",
+    "contains": [],
+    "styleGuideY": "437px",
+    "top": [
+      "Heading-_x945_y391"
+    ],
+    "left": [],
+    "xMouseClickPoint": 657,
+    "styleGuideX": "942px",
+    "width": "441px",
+    "text": "Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+    "height": "186px"
+  },
+  "About-us-_x272_y30": {
+    "parent": [
+      "Rectangle-1-_x8_y13"
+    ],
+    "bottom": [],
+    "yMouseClickPoint": 97,
+    "click_y": 36,
+    "click_x": 302,
+    "right": [],
+    "cssStyles": {
+      "color": "#9a9da0",
+      "font-weight": "normal",
+      "letter-spacing": "normal",
+      "width": "60px",
+      "font-size": "16px",
+      "font-family": "Myriad Pro",
+      "line-height": "0.94",
+      "font-stretch": "normal",
+      "font-style": "normal",
+      "height": "12px",
+      "text-align": "left"
+    },
+    "elementName": "About-us-_x272_y30",
+    "contains": [],
+    "styleGuideY": "30px",
+    "top": [],
+    "left": [
+      "Features-_x198_y31"
+    ],
+    "xMouseClickPoint": 439,
+    "styleGuideX": "272px",
+    "width": "60px",
+    "text": "About us",
+    "height": "12px"
+  },
+  "Rectangle-2-copy-_x383_y383": {
+    "parent": [
+      "screen"
+    ],
+    "bottom": [
+      "Rectangle-2-_x8_y677"
+    ],
+    "yMouseClickPoint": 390,
+    "click_y": 508,
+    "click_x": 620.5,
+    "right": [
+      "Rectangle-2-copy-_x926_y383"
+    ],
+    "cssStyles": {
+      "background-color": "#ffffff",
+      "border": "solid 1px #b3b3cc",
+      "width": "475px",
+      "height": "250px"
+    },
+    "elementName": "Rectangle-2-copy-_x383_y383",
+    "contains": [
+      "Heading-_x402_y391",
+      "Lorem-Ipsum-has-been_x399_y437"
+    ],
+    "styleGuideY": "383px",
+    "top": [
+      "Rounded-Rectangle-1-_x8_y87"
+    ],
+    "left": [],
+    "xMouseClickPoint": 507,
+    "styleGuideX": "383px",
+    "width": "475px",
+    "text": null,
+    "height": "250px"
+  },
+  "Rectangle-2-_x8_y677": {
+    "parent": [
+      "screen"
+    ],
+    "bottom": [],
+    "yMouseClickPoint": 496,
+    "click_y": 710,
+    "click_x": 953,
+    "right": [],
+    "cssStyles": {
+      "background-color": "#e9ecef",
+      "border": "solid 1px #666699",
+      "width": "1890px",
+      "height": "66px"
+    },
+    "elementName": "Rectangle-2-_x8_y677",
+    "contains": [
+      "-Company-2017-2019-_x871_y685"
+    ],
+    "styleGuideY": "677px",
+    "top": [
+      "Rectangle-2-copy-_x926_y383",
+      "Rectangle-2-copy-_x383_y383"
+    ],
+    "left": [],
+    "xMouseClickPoint": 533,
+    "styleGuideX": "8px",
+    "width": "1890px",
+    "text": null,
+    "height": "66px"
+  }
+}

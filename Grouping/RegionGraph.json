@@ -1,0 +1,927 @@
+{
+  "Layer-4_x773_y91": {
+    "parent": [
+      "screen"
+    ],
+    "bottom": [
+      "Layer-1_x776_y219"
+    ],
+    "yMouseClickPoint": 171,
+    "click_y": 101.5,
+    "click_x": 785,
+    "right": [
+      "Layer-3_x808_y70"
+    ],
+    "cssStyles": {
+      "box-shadow": "0px 2px 5px 0 rgba(0, 0, 0, 0.92)",
+      "width": "24px",
+      "height": "21px"
+    },
+    "elementName": "Layer-4_x773_y91",
+    "contains": [],
+    "styleGuideY": "91px",
+    "top": [],
+    "left": [
+      "Xuzal-Gillard-2005_x21_y84"
+    ],
+    "xMouseClickPoint": 988,
+    "styleGuideX": "773px",
+    "width": "24px",
+    "text": null,
+    "height": "21px"
+  },
+  "Otros-antihistamnicos_x570_y485": {
+    "parent": [
+      "screen"
+    ],
+    "bottom": [
+      "Kios-2015-Horak-2004-Schoepke-2013-Larenas-2015_x651_y558"
+    ],
+    "yMouseClickPoint": 108,
+    "click_y": 503,
+    "click_x": 635.5,
+    "right": [],
+    "cssStyles": {
+      "color": "#0000cd",
+      "font-weight": "normal",
+      "letter-spacing": "0.9px",
+      "width": "131px",
+      "font-size": "18px",
+      "font-family": "TimesNewRomanPSMT",
+      "line-height": "1.34",
+      "font-stretch": "normal",
+      "font-style": "normal",
+      "height": "36px",
+      "text-align": "center"
+    },
+    "elementName": "Otros-antihistamnicos_x570_y485",
+    "contains": [],
+    "styleGuideY": "485px",
+    "top": [
+      "PACIENTE_x564_y339"
+    ],
+    "left": [],
+    "xMouseClickPoint": 170,
+    "styleGuideX": "570px",
+    "width": "131px",
+    "text": "Otros\rantihistamínicos",
+    "height": "36px"
+  },
+  "Seguridad_x602_y208": {
+    "parent": [
+      "screen"
+    ],
+    "bottom": [
+      "Vector-Smart-Object_x343_y253"
+    ],
+    "yMouseClickPoint": 279,
+    "click_y": 219.5,
+    "click_x": 650,
+    "right": [
+      "Layer-1_x776_y219"
+    ],
+    "cssStyles": {
+      "color": "#0d1d4f",
+      "font-weight": "normal",
+      "letter-spacing": "normal",
+      "font-size": "24px",
+      "line-height": "normal",
+      "font-stretch": "normal",
+      "font-style": "normal",
+      "background-color": "#0d1d4f",
+      "text-shadow": "0px 4px 0 rgba(0, 0, 0, 0.1)",
+      "width": "96px",
+      "font-family": "TimesNewRomanPSMT",
+      "height": "23px",
+      "text-align": "center"
+    },
+    "elementName": "Seguridad_x602_y208",
+    "contains": [],
+    "styleGuideY": "208px",
+    "top": [
+      "IPP-Xuzal-Gillard-2005-Larens-2015_x542_y117"
+    ],
+    "left": [],
+    "xMouseClickPoint": 183,
+    "styleGuideX": "602px",
+    "width": "96px",
+    "text": "Seguridad\r",
+    "height": "23px"
+  },
+  "IPP-Xuzal-Gillard-2005-Larens-2015_x542_y117": {
+    "parent": [
+      "screen"
+    ],
+    "bottom": [
+      "Seguridad_x602_y208"
+    ],
+    "yMouseClickPoint": 206,
+    "click_y": 142,
+    "click_x": 584,
+    "right": [
+      "Layer-3_x808_y70"
+    ],
+    "cssStyles": {
+      "color": "#ffffff",
+      "font-weight": "normal",
+      "letter-spacing": "normal",
+      "width": "84px",
+      "font-size": "15.7px",
+      "font-family": "TimesNewRomanPSMT",
+      "line-height": "normal",
+      "font-stretch": "normal",
+      "font-style": "normal",
+      "height": "50px",
+      "text-align": "center"
+    },
+    "elementName": "IPP-Xuzal-Gillard-2005-Larens-2015_x542_y117",
+    "contains": [],
+    "styleGuideY": "117px",
+    "top": [],
+    "left": [],
+    "xMouseClickPoint": 784,
+    "styleGuideX": "542px",
+    "width": "84px",
+    "text": "IPP, Xuzal\rGillard, 2005\rLarens, 2015",
+    "height": "50px"
+  },
+  "screen": {
+    "parent": [
+      "ROOT_REF_WINDOW"
+    ],
+    "bottom": [],
+    "yMouseClickPoint": 0,
+    "click_y": 384,
+    "click_x": 512,
+    "right": [],
+    "elementName": "screen",
+    "contains": [
+      "Layer-4_x773_y91",
+      "Seguridad_x602_y208",
+      "Otros-antihistamnicos_x570_y485",
+      "IPP-Xuzal-Gillard-2005-Larens-2015_x542_y117",
+      "Kios-2015-Horak-2004-Schoepke-2013-Larenas-2015_x651_y558",
+      "No-De-aviso-COFEPRIS-XXXXXXXX-Reg-No-236M2009-SSA-Reg-No_x855_y639",
+      "Xuzal-Gillard-2005_x21_y84",
+      "Layer-1_x776_y219",
+      "Layer-1117-copy-2_x873_y83",
+      "Layer-1117-copy-3_x933_y83",
+      "Layer-3_x808_y70",
+      "Vector-Smart-Object_x343_y253",
+      "Layer-2-copy-7_x23_y23",
+      "Rectangle-1-copy-2_x0_y685",
+      "PACIENTE_x564_y339"
+    ],
+    "styleGuideY": "0px",
+    "top": [],
+    "left": [],
+    "xMouseClickPoint": 0,
+    "styleGuideX": "0px",
+    "width": "1024px",
+    "height": "768px"
+  },
+  "Kios-2015-Horak-2004-Schoepke-2013-Larenas-2015_x651_y558": {
+    "parent": [
+      "screen"
+    ],
+    "bottom": [
+      "Rectangle-1-copy-2_x0_y685"
+    ],
+    "yMouseClickPoint": 193,
+    "click_y": 591.5,
+    "click_x": 698,
+    "right": [],
+    "cssStyles": {
+      "color": "#ffffff",
+      "font-weight": "normal",
+      "letter-spacing": "normal",
+      "width": "94px",
+      "font-size": "14.9px",
+      "font-family": "TimesNewRomanPSMT",
+      "line-height": "normal",
+      "font-stretch": "normal",
+      "font-style": "normal",
+      "height": "67px",
+      "text-align": "center"
+    },
+    "elementName": "Kios-2015-Horak-2004-Schoepke-2013-Larenas-2015_x651_y558",
+    "contains": [],
+    "styleGuideY": "558px",
+    "top": [
+      "Otros-antihistamnicos_x570_y485"
+    ],
+    "left": [],
+    "xMouseClickPoint": 224,
+    "styleGuideX": "651px",
+    "width": "94px",
+    "text": "Kios, 2015\rHorak, 2004\rSchoepke, 2013\rLarenas, 2015",
+    "height": "67px"
+  },
+  "No-De-aviso-COFEPRIS-XXXXXXXX-Reg-No-236M2009-SSA-Reg-No_x855_y639": {
+    "parent": [
+      "screen"
+    ],
+    "bottom": [
+      "Rectangle-1-copy-2_x0_y685"
+    ],
+    "yMouseClickPoint": 257,
+    "click_y": 653.5,
+    "click_x": 932,
+    "right": [],
+    "cssStyles": {
+      "color": "#5e390e",
+      "font-weight": "normal",
+      "letter-spacing": "0.4px",
+      "width": "154px",
+      "font-size": "8.5px",
+      "font-family": "AvantGardeLT-Demi",
+      "line-height": "normal",
+      "font-stretch": "normal",
+      "font-style": "normal",
+      "height": "29px",
+      "text-align": "right"
+    },
+    "elementName": "No-De-aviso-COFEPRIS-XXXXXXXX-Reg-No-236M2009-SSA-Reg-No_x855_y639",
+    "contains": [],
+    "styleGuideY": "639px",
+    "top": [
+      "Layer-1_x776_y219"
+    ],
+    "left": [],
+    "xMouseClickPoint": 477,
+    "styleGuideX": "855px",
+    "width": "154px",
+    "text": "No. De aviso COFEPRIS: XXXXXXXX\rReg. No: 236M2009 SSA\rReg. No: 19MM2003 SSA\r",
+    "height": "29px"
+  },
+  "Eficacia_x619_y719": {
+    "parent": [
+      "Rectangle-1-copy-2_x0_y685"
+    ],
+    "bottom": [],
+    "yMouseClickPoint": 330,
+    "click_y": 724,
+    "click_x": 649.5,
+    "right": [
+      "Beneficios_x718_y719"
+    ],
+    "cssStyles": {
+      "text-shadow": "0px 3px 2px rgba(83, 84, 74, 0.75)",
+      "color": "#ffffff",
+      "font-weight": "800",
+      "letter-spacing": "0.1px",
+      "width": "61px",
+      "font-size": "12px",
+      "font-family": "AXIS",
+      "line-height": "1.58",
+      "font-stretch": "normal",
+      "font-style": "normal",
+      "height": "10px",
+      "text-align": "center"
+    },
+    "elementName": "Eficacia_x619_y719",
+    "contains": [],
+    "styleGuideY": "719px",
+    "top": [],
+    "left": [
+      "Algoritmos_x495_y719"
+    ],
+    "xMouseClickPoint": 183,
+    "styleGuideX": "619px",
+    "width": "61px",
+    "text": "Eficacia",
+    "height": "10px"
+  },
+  "ROOT_REF_WINDOW": {
+    "parent": [],
+    "bottom": [],
+    "click_y": 49999.5,
+    "click_x": 49999.5,
+    "right": [],
+    "elementName": null,
+    "contains": [
+      "screen"
+    ],
+    "styleGuideY": 0,
+    "top": [],
+    "left": [],
+    "styleGuideX": 0,
+    "width": 99999,
+    "height": 99999
+  },
+  "ucb_x862_y708": {
+    "parent": [
+      "Rectangle-1-copy-2_x0_y685"
+    ],
+    "bottom": [],
+    "yMouseClickPoint": 329,
+    "click_y": 722.5,
+    "click_x": 931.5,
+    "right": [],
+    "cssStyles": {
+      "background-color": "#ffffff",
+      "width": "139px",
+      "height": "29px"
+    },
+    "elementName": "ucb_x862_y708",
+    "contains": [],
+    "styleGuideY": "708px",
+    "top": [],
+    "left": [
+      "Beneficios_x718_y719"
+    ],
+    "xMouseClickPoint": 463,
+    "styleGuideX": "862px",
+    "width": "139px",
+    "text": null,
+    "height": "29px"
+  },
+  "Eficacia_x452_y330": {
+    "parent": [
+      "Vector-Smart-Object_x343_y253"
+    ],
+    "bottom": [],
+    "yMouseClickPoint": 399,
+    "click_y": 338,
+    "click_x": 484.5,
+    "right": [],
+    "cssStyles": {
+      "color": "#ffffff",
+      "font-weight": "normal",
+      "letter-spacing": "normal",
+      "width": "65px",
+      "font-size": "20px",
+      "font-family": "TimesNewRomanPSMT",
+      "line-height": "normal",
+      "font-stretch": "normal",
+      "font-style": "normal",
+      "height": "16px",
+      "text-align": "center"
+    },
+    "elementName": "Eficacia_x452_y330",
+    "contains": [],
+    "styleGuideY": "330px",
+    "top": [],
+    "left": [],
+    "xMouseClickPoint": 17,
+    "styleGuideX": "452px",
+    "width": "65px",
+    "text": "Eficacia\r",
+    "height": "16px"
+  },
+  "Potencia_x288_y719": {
+    "parent": [
+      "Rectangle-1-copy-2_x0_y685"
+    ],
+    "bottom": [],
+    "yMouseClickPoint": 331,
+    "click_y": 724,
+    "click_x": 321.5,
+    "right": [
+      "REDUCCIN-DE-SNTOMAS-copy_x396_y714"
+    ],
+    "cssStyles": {
+      "text-shadow": "0px 3px 2px rgba(83, 84, 74, 0.75)",
+      "color": "#ffffff",
+      "font-weight": "800",
+      "letter-spacing": "0.1px",
+      "width": "67px",
+      "font-size": "12px",
+      "font-family": "AXIS",
+      "line-height": "1.58",
+      "font-stretch": "normal",
+      "font-style": "normal",
+      "height": "10px",
+      "text-align": "center"
+    },
+    "elementName": "Potencia_x288_y719",
+    "contains": [],
+    "styleGuideY": "719px",
+    "top": [],
+    "left": [
+      "Xuzal_x188_y719"
+    ],
+    "xMouseClickPoint": 441,
+    "styleGuideX": "288px",
+    "width": "67px",
+    "text": "Potencia",
+    "height": "10px"
+  },
+  "Xuzal-Gillard-2005_x21_y84": {
+    "parent": [
+      "screen"
+    ],
+    "bottom": [
+      "Rectangle-1-copy-2_x0_y685"
+    ],
+    "yMouseClickPoint": 149,
+    "click_y": 90.5,
+    "click_x": 78,
+    "right": [
+      "Layer-4_x773_y91"
+    ],
+    "cssStyles": {
+      "color": "#ffffff",
+      "font-weight": "normal",
+      "letter-spacing": "0.1px",
+      "width": "114px",
+      "font-size": "14px",
+      "font-family": "TimesNewRomanPSMT",
+      "line-height": "normal",
+      "font-stretch": "normal",
+      "font-style": "normal",
+      "height": "13px",
+      "text-align": "center"
+    },
+    "elementName": "Xuzal-Gillard-2005_x21_y84",
+    "contains": [],
+    "styleGuideY": "84px",
+    "top": [
+      "Layer-2-copy-7_x23_y23"
+    ],
+    "left": [],
+    "xMouseClickPoint": 176,
+    "styleGuideX": "21px",
+    "width": "114px",
+    "text": "Xuzal Gillard, 2005",
+    "height": "13px"
+  },
+  "REDUCCIN-DE-SNTOMAS-copy_x396_y714": {
+    "parent": [
+      "Rectangle-1-copy-2_x0_y685"
+    ],
+    "bottom": [],
+    "yMouseClickPoint": 329,
+    "click_y": 723,
+    "click_x": 428.5,
+    "right": [
+      "Algoritmos_x495_y719"
+    ],
+    "cssStyles": {
+      "text-shadow": "0px 3px 2px rgba(83, 84, 74, 0.75)",
+      "color": "#ffffff",
+      "font-weight": "800",
+      "letter-spacing": "0.1px",
+      "width": "65px",
+      "font-size": "8px",
+      "font-family": "AXIS",
+      "line-height": "1.19",
+      "font-stretch": "normal",
+      "font-style": "normal",
+      "height": "18px",
+      "text-align": "center"
+    },
+    "elementName": "REDUCCIN-DE-SNTOMAS-copy_x396_y714",
+    "contains": [],
+    "styleGuideY": "714px",
+    "top": [],
+    "left": [
+      "Potencia_x288_y719"
+    ],
+    "xMouseClickPoint": 549,
+    "styleGuideX": "396px",
+    "width": "65px",
+    "text": "REDUCCIÓN DE \rSÍNTOMAS",
+    "height": "18px"
+  },
+  "Layer-1117-copy-2_x873_y83": {
+    "parent": [
+      "screen"
+    ],
+    "bottom": [
+      "Layer-1_x776_y219"
+    ],
+    "yMouseClickPoint": 178,
+    "click_y": 103,
+    "click_x": 892.5,
+    "right": [
+      "Layer-1117-copy-3_x933_y83"
+    ],
+    "cssStyles": {
+      "width": "39px",
+      "height": "40px"
+    },
+    "elementName": "Layer-1117-copy-2_x873_y83",
+    "contains": [],
+    "styleGuideY": "83px",
+    "top": [],
+    "left": [
+      "Layer-3_x808_y70"
+    ],
+    "xMouseClickPoint": 1097,
+    "styleGuideX": "873px",
+    "width": "39px",
+    "text": null,
+    "height": "40px"
+  },
+  "Layer-1117-copy-3_x933_y83": {
+    "parent": [
+      "screen"
+    ],
+    "bottom": [
+      "Layer-1_x776_y219"
+    ],
+    "yMouseClickPoint": 179,
+    "click_y": 103,
+    "click_x": 952.5,
+    "right": [],
+    "cssStyles": {
+      "width": "39px",
+      "height": "40px"
+    },
+    "elementName": "Layer-1117-copy-3_x933_y83",
+    "contains": [],
+    "styleGuideY": "83px",
+    "top": [],
+    "left": [
+      "Layer-1117-copy-2_x873_y83"
+    ],
+    "xMouseClickPoint": 1153,
+    "styleGuideX": "933px",
+    "width": "39px",
+    "text": null,
+    "height": "40px"
+  },
+  "Layer-1_x776_y219": {
+    "parent": [
+      "screen"
+    ],
+    "bottom": [
+      "No-De-aviso-COFEPRIS-XXXXXXXX-Reg-No-236M2009-SSA-Reg-No_x855_y639"
+    ],
+    "yMouseClickPoint": 425,
+    "click_y": 302.5,
+    "click_x": 858.5,
+    "right": [],
+    "cssStyles": {
+      "width": "165px",
+      "height": "167px"
+    },
+    "elementName": "Layer-1_x776_y219",
+    "contains": [
+      "ARIA-2014_x815_y290"
+    ],
+    "styleGuideY": "219px",
+    "top": [
+      "Layer-1117-copy-2_x873_y83",
+      "Layer-4_x773_y91",
+      "Layer-3_x808_y70",
+      "Layer-1117-copy-3_x933_y83"
+    ],
+    "left": [
+      "PACIENTE_x564_y339",
+      "Seguridad_x602_y208"
+    ],
+    "xMouseClickPoint": 320,
+    "styleGuideX": "776px",
+    "width": "165px",
+    "text": null,
+    "height": "167px"
+  },
+  "Algoritmos_x495_y719": {
+    "parent": [
+      "Rectangle-1-copy-2_x0_y685"
+    ],
+    "bottom": [],
+    "yMouseClickPoint": 330,
+    "click_y": 723.5,
+    "click_x": 537.5,
+    "right": [
+      "Eficacia_x619_y719"
+    ],
+    "cssStyles": {
+      "text-shadow": "0px 3px 2px rgba(83, 84, 74, 0.75)",
+      "color": "#ffffff",
+      "font-weight": "800",
+      "letter-spacing": "0.1px",
+      "width": "85px",
+      "font-size": "11.5px",
+      "font-family": "AXIS",
+      "line-height": "1.61",
+      "font-stretch": "normal",
+      "font-style": "normal",
+      "height": "9px",
+      "text-align": "center"
+    },
+    "elementName": "Algoritmos_x495_y719",
+    "contains": [],
+    "styleGuideY": "719px",
+    "top": [],
+    "left": [
+      "REDUCCIN-DE-SNTOMAS-copy_x396_y714"
+    ],
+    "xMouseClickPoint": 74,
+    "styleGuideX": "495px",
+    "width": "85px",
+    "text": "Algoritmos",
+    "height": "9px"
+  },
+  "Layer-3_x808_y70": {
+    "parent": [
+      "screen"
+    ],
+    "bottom": [
+      "Layer-1_x776_y219"
+    ],
+    "yMouseClickPoint": 179,
+    "click_y": 101,
+    "click_x": 838,
+    "right": [
+      "Layer-1117-copy-2_x873_y83"
+    ],
+    "cssStyles": {
+      "width": "60px",
+      "height": "62px"
+    },
+    "elementName": "Layer-3_x808_y70",
+    "contains": [],
+    "styleGuideY": "70px",
+    "top": [],
+    "left": [
+      "Layer-4_x773_y91",
+      "Layer-2-copy-7_x23_y23",
+      "IPP-Xuzal-Gillard-2005-Larens-2015_x542_y117"
+    ],
+    "xMouseClickPoint": 1043,
+    "styleGuideX": "808px",
+    "width": "60px",
+    "text": null,
+    "height": "62px"
+  },
+  "Paciente_x73_y720": {
+    "parent": [
+      "Rectangle-1-copy-2_x0_y685"
+    ],
+    "bottom": [],
+    "yMouseClickPoint": 331,
+    "click_y": 724.5,
+    "click_x": 105,
+    "right": [
+      "Xuzal_x188_y719"
+    ],
+    "cssStyles": {
+      "text-shadow": "0px 3px 2px rgba(83, 84, 74, 0.75)",
+      "color": "#ffffff",
+      "font-weight": "800",
+      "letter-spacing": "0.1px",
+      "width": "64px",
+      "font-size": "12px",
+      "font-family": "AXIS",
+      "line-height": "1.58",
+      "font-stretch": "normal",
+      "font-style": "normal",
+      "height": "9px",
+      "text-align": "center"
+    },
+    "elementName": "Paciente_x73_y720",
+    "contains": [],
+    "styleGuideY": "720px",
+    "top": [],
+    "left": [],
+    "xMouseClickPoint": 225,
+    "styleGuideX": "73px",
+    "width": "64px",
+    "text": "Paciente",
+    "height": "9px"
+  },
+  "Vector-Smart-Object_x343_y253": {
+    "parent": [
+      "screen"
+    ],
+    "bottom": [],
+    "yMouseClickPoint": 87,
+    "click_y": 372.5,
+    "click_x": 488.5,
+    "right": [],
+    "cssStyles": {
+      "width": "291px",
+      "height": "239px"
+    },
+    "elementName": "Vector-Smart-Object_x343_y253",
+    "contains": [
+      "Eficacia_x452_y330"
+    ],
+    "styleGuideY": "253px",
+    "top": [
+      "Seguridad_x602_y208"
+    ],
+    "left": [],
+    "xMouseClickPoint": 165,
+    "styleGuideX": "343px",
+    "width": "291px",
+    "text": null,
+    "height": "239px"
+  },
+  "Xuzal_x188_y719": {
+    "parent": [
+      "Rectangle-1-copy-2_x0_y685"
+    ],
+    "bottom": [],
+    "yMouseClickPoint": 331,
+    "click_y": 725,
+    "click_x": 211.5,
+    "right": [
+      "Potencia_x288_y719"
+    ],
+    "cssStyles": {
+      "text-shadow": "0px 3px 2px rgba(83, 84, 74, 0.75)",
+      "color": "#ffffff",
+      "font-weight": "normal",
+      "letter-spacing": "0.2px",
+      "width": "47px",
+      "font-size": "15.5px",
+      "font-family": "Myriad Pro",
+      "line-height": "1.58",
+      "font-stretch": "normal",
+      "font-style": "normal",
+      "height": "12px",
+      "text-align": "center"
+    },
+    "elementName": "Xuzal_x188_y719",
+    "contains": [],
+    "styleGuideY": "719px",
+    "top": [],
+    "left": [
+      "Paciente_x73_y720"
+    ],
+    "xMouseClickPoint": 331,
+    "styleGuideX": "188px",
+    "width": "47px",
+    "text": "Xuzal®",
+    "height": "12px"
+  },
+  "Layer-2-copy-7_x23_y23": {
+    "parent": [
+      "screen"
+    ],
+    "bottom": [
+      "Xuzal-Gillard-2005_x21_y84"
+    ],
+    "yMouseClickPoint": 103,
+    "click_y": 47,
+    "click_x": 67,
+    "right": [
+      "Layer-3_x808_y70"
+    ],
+    "cssStyles": {
+      "background-color": "#ffffff",
+      "width": "88px",
+      "height": "48px"
+    },
+    "elementName": "Layer-2-copy-7_x23_y23",
+    "contains": [],
+    "styleGuideY": "23px",
+    "top": [],
+    "left": [],
+    "xMouseClickPoint": 176,
+    "styleGuideX": "23px",
+    "width": "88px",
+    "text": null,
+    "height": "48px"
+  },
+  "Beneficios_x718_y719": {
+    "parent": [
+      "Rectangle-1-copy-2_x0_y685"
+    ],
+    "bottom": [],
+    "yMouseClickPoint": 332,
+    "click_y": 724,
+    "click_x": 756.5,
+    "right": [
+      "ucb_x862_y708"
+    ],
+    "cssStyles": {
+      "text-shadow": "0px 3px 2px rgba(83, 84, 74, 0.75)",
+      "color": "#ffffff",
+      "font-weight": "800",
+      "letter-spacing": "0.1px",
+      "width": "77px",
+      "font-size": "12px",
+      "font-family": "AXIS",
+      "line-height": "1.58",
+      "font-stretch": "normal",
+      "font-style": "normal",
+      "height": "10px",
+      "text-align": "center"
+    },
+    "elementName": "Beneficios_x718_y719",
+    "contains": [],
+    "styleGuideY": "719px",
+    "top": [],
+    "left": [
+      "Eficacia_x619_y719"
+    ],
+    "xMouseClickPoint": 290,
+    "styleGuideX": "718px",
+    "width": "77px",
+    "text": "Beneficios",
+    "height": "10px"
+  },
+  "ARIA-2014_x815_y290": {
+    "parent": [
+      "Layer-1_x776_y219"
+    ],
+    "bottom": [],
+    "yMouseClickPoint": 354,
+    "click_y": 296.5,
+    "click_x": 855,
+    "right": [],
+    "cssStyles": {
+      "color": "#ffffff",
+      "font-weight": "normal",
+      "letter-spacing": "normal",
+      "width": "80px",
+      "font-size": "16.1px",
+      "font-family": "TimesNewRomanPSMT",
+      "line-height": "normal",
+      "font-stretch": "normal",
+      "font-style": "normal",
+      "height": "13px",
+      "text-align": "center"
+    },
+    "elementName": "ARIA-2014_x815_y290",
+    "contains": [],
+    "styleGuideY": "290px",
+    "top": [],
+    "left": [],
+    "xMouseClickPoint": 381,
+    "styleGuideX": "815px",
+    "width": "80px",
+    "text": "ARIA, 2014",
+    "height": "13px"
+  },
+  "Rectangle-1-copy-2_x0_y685": {
+    "parent": [
+      "screen"
+    ],
+    "bottom": [],
+    "yMouseClickPoint": 591,
+    "click_y": 726.5,
+    "click_x": 512,
+    "right": [],
+    "cssStyles": {
+      "width": "1024px",
+      "height": "83px"
+    },
+    "elementName": "Rectangle-1-copy-2_x0_y685",
+    "contains": [
+      "Eficacia_x619_y719",
+      "ucb_x862_y708",
+      "Potencia_x288_y719",
+      "REDUCCIN-DE-SNTOMAS-copy_x396_y714",
+      "Algoritmos_x495_y719",
+      "Paciente_x73_y720",
+      "Xuzal_x188_y719",
+      "Beneficios_x718_y719"
+    ],
+    "styleGuideY": "685px",
+    "top": [
+      "Xuzal-Gillard-2005_x21_y84",
+      "No-De-aviso-COFEPRIS-XXXXXXXX-Reg-No-236M2009-SSA-Reg-No_x855_y639",
+      "Kios-2015-Horak-2004-Schoepke-2013-Larenas-2015_x651_y558"
+    ],
+    "left": [],
+    "xMouseClickPoint": 216,
+    "styleGuideX": "0px",
+    "width": "1024px",
+    "text": null,
+    "height": "83px"
+  },
+  "PACIENTE_x564_y339": {
+    "parent": [
+      "screen"
+    ],
+    "bottom": [
+      "Otros-antihistamnicos_x570_y485"
+    ],
+    "yMouseClickPoint": 410,
+    "click_y": 350.5,
+    "click_x": 634.5,
+    "right": [
+      "Layer-1_x776_y219"
+    ],
+    "cssStyles": {
+      "color": "#a52a2a",
+      "font-weight": "normal",
+      "letter-spacing": "normal",
+      "width": "141px",
+      "font-size": "30px",
+      "font-family": "TimesNewRomanPSMT",
+      "line-height": "normal",
+      "font-stretch": "normal",
+      "font-style": "normal",
+      "height": "23px",
+      "text-align": "center"
+    },
+    "elementName": "PACIENTE_x564_y339",
+    "contains": [],
+    "styleGuideY": "339px",
+    "top": [],
+    "left": [],
+    "xMouseClickPoint": 166,
+    "styleGuideX": "564px",
+    "width": "141px",
+    "text": "PACIENTE",
+    "height": "23px"
+  }
+}
